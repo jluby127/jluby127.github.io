@@ -1,3 +1,5 @@
-This is a type
+Calculating research materials...please stand by for research materials. 
 
-[return to whence you came](./)
+
+
+[Home](./)
