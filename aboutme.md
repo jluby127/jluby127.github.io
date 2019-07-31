@@ -2,4 +2,4 @@ This is where you would learn about me if I had populated this site with informa
 
 Ha
 
-[Home)(./)
+[Home](./)
