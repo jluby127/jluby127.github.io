@@ -1,12 +1,12 @@
 something of a scientist myself
 
-### Likes
+### Likes                                  ### Dislikes
 
-baseball (yankees)
+baseball (yankees)                         untoasted bagels
 
-piano
+piano                                      sand (its so sandy)
 
-history books (wwii)
+history books (wwii)                       tvs larger than 80 inches (just go to a movie theater)
 
 bruce springsteen
 
