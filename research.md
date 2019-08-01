@@ -6,7 +6,7 @@ Calculating research materials...please stand by for research materials.
 
 ![Planet--3](https://github.com/jluby127/jluby127.github.io/blob/master/assets/temp.jpg)
 
-<img src="master/assets/temp.jpg" alt="hi" class="inline"/>
+<img src="(https://github.com/jluby127/jluby127.github.io/blob/master/temp.jpg" alt="hi" class="inline"/>
 
 I like stars
 
