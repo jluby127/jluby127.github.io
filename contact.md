@@ -1,7 +1,7 @@
 email: jlubin@uci.edu
 
-Office: 2137 Frederick Reines Hall
+office: 2137 frederick reines hall
 
-Beeper number: 127#
+beeper number: 127#
 
-[Home](./)
+[home](./)
