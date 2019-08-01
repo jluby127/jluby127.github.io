@@ -1,11 +1,11 @@
 something of a scientist myself
-
-| Likes                         | Dislikes          | Neutrals    |
-|:------------------------------|:------------------|:------------|
-| baseball (yankees)            | untoasted bagels  | blue pens   |
-| bruce springsteen             | small rocks       | mice        |
-| history books (wwii)          |                   | lemon       |
-| arnold palmer (man and drink) |                   | phone calls |
-| the prestige                  |                   |             |
+  
+|             likes             |     dislikes      |    neutrals     |
+|:------------------------------|:------------------|:----------------|
+| baseball (yankees)            | untoasted bagels  | blue pens       |
+| bruce springsteen             | small rocks       | mice            |
+| history books (wwii)          | chalk             | lemon           |
+| arnold palmer (man & drink)   | banana            | phone calls     |
+| the prestige                  |                   | legal pad paper |
 
 [Home](./)
