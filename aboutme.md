@@ -16,8 +16,12 @@ from watching science channel documentaries on the space race. i've been chasing
 
 
 
-## a comprehensive list of my favorite teams
+# a comprehensive list of my favorite teams
 
-ny yankees, ny football giants,  ny rangers, yale athletics, vanderbilt athletics 
+ny yankees, ny football giants, ny rangers, yale athletics, vanderbilt athletics 
+
+# life accomplishments
+
+one hole-in-three, 15/61 national parks, 17/30 baseball parks, 43/50 states
 
 [Home](./)
