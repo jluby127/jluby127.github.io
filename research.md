@@ -25,7 +25,7 @@ we discovered and characterized the second brightest known of these such systems
 
 ### first author
 
-[A Bright Short Period M-M Eclipsing Binary from the KELT Survey: Magnetic Activity and the Mass-Radius Relationship for M-dwarfs](https://arxiv.org/abs/1706.02401)
+1. [A Bright Short Period M-M Eclipsing Binary from the KELT Survey: Magnetic Activity and the Mass-Radius Relationship for M-dwarfs](https://arxiv.org/abs/1706.02401)
 
 ### n author
 
