@@ -19,7 +19,7 @@ we discovered and characterized the second brightest known of these such systems
 
 ![kelt](./keltks20.png | width=250)
 
-<img src= "./keltks20.png" width="700" height="500">
+<img src= "./keltks20.png" width="600" height="500">
 
 
 
