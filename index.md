@@ -12,5 +12,3 @@ Dear me, congrats. You have done it, again.
 
 [Contact](./contact)
 
-[Click Here](./clickhere)
-
