@@ -17,7 +17,9 @@ previously, as an undergraduate at vanderbilt, i worked with prof. keivan stassu
 at harvard cfa) dr. joseph rodriguez on double m dwarf eclipsing binaries. 
 we discovered and characterized the second brightest known of these such systems.
 
-![kelt](./keltks20.png =250x250)
+![kelt](./keltks20.png | width=250)
+
+<img src= "./keltks20.png" width="100" height="100">
 
 
 
