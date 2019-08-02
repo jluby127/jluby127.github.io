@@ -1,6 +1,9 @@
 i primarily search for exoplanets using the radial velocity (rv) detection method and 
 i have taken a particular fascination with multi-planet systems.
-i am further interested in stellar activity as it relates to making planet detection more difficult.
+i am further interested in stellar activity as it relates to making planet detection more difficult,
+and signal analysis/processing in general.
+
+https://github.com/jluby127/jluby127.github.io/blob/master/temp.jpg
 
 i work with [prof. paul robertson](https://faculty.sites.uci.edu/robertson/) on a variety of projects, such as:
 
