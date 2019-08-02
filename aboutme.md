@@ -11,7 +11,6 @@ something of a scientist myself
 
 
 originally from new haven, connecticut i first became fascinated in physics and astronomy
-
 from watching science channel documentaries on the space race. i've been chasing the stars ever since. 
 
 
