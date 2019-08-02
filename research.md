@@ -1,19 +1,19 @@
-i primarily search for exoplanets using the radial velocity (rv) detection method and 
-i have taken a particular fascination with multi-planet systems.
-i am further interested in stellar activity as it relates to making planet detection more difficult,
+I primarily search for exoplanets using the radial velocity (rv) detection method and 
+I have taken a particular fascination with multi-planet systems.
+I am further interested in stellar activity as it relates to making planet detection more difficult,
 and signal analysis/processing in general.
 
 ![planet](./temp.jpg)
 
 * * * 
 
-i work with [prof. paul robertson](https://faculty.sites.uci.edu/robertson/) on a variety of projects, such as:
+I work with [prof. paul robertson](https://faculty.sites.uci.edu/robertson/) on a variety of projects, such as:
 
 add projects here.
 
 * * * 
 
-previously, as an undergraduate at vanderbilt, i worked with prof. keivan stassun and (now postdoc 
+previously, as an undergraduate at vanderbilt, I worked with prof. keivan stassun and (now postdoc 
 at harvard cfa) dr. joseph rodriguez on double m dwarf eclipsing binaries. 
 we discovered and characterized the second brightest known of these such systems.
 
@@ -32,4 +32,4 @@ we discovered and characterized the second brightest known of these such systems
 none
 
 
-[Home](./)
+[home](./)
