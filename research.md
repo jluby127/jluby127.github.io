@@ -7,14 +7,14 @@ and signal analysis/processing in general.
 
 * * * 
 
-I work with [prof. paul robertson](https://faculty.sites.uci.edu/robertson/) on a variety of projects, such as:
+I work with [Prof. Paul Robertson](https://faculty.sites.uci.edu/robertson/) on a variety of projects, such as:
 
 add projects here.
 
 * * * 
 
-previously, as an undergraduate at vanderbilt, I worked with prof. keivan stassun and (now postdoc 
-at harvard cfa) dr. joseph rodriguez on double m dwarf eclipsing binaries. 
+Previously, as an undergraduate at Vanderbilt, I worked with Prof. Keivan Stassun and (now postdoc 
+at harvard cfa) Dr. Joseph Rodriguez on double M dwarf eclipsing binaries. 
 we discovered and characterized the second brightest known of these such systems.
 
 <img src= "./keltks20.png" width="600" height="500">
