@@ -1,10 +1,10 @@
-originally from new haven, connecticut i first became fascinated in physics and astronomy
-from watching science channel documentaries on the space race. always wanted to be
-an astronaut, i've been chasing the stars ever since, safely from the ground. 
+Originally from New Haven, Connecticut I first became fascinated in physics and astronomy
+from watching science channel documentaries on the space race. Always wanted to be
+an astronaut, I've been chasing the stars ever since, safely from the ground. 
 
 #### education
 
-bachelors in physics and applied mathematics - vanderbilt university 2016
+Bachelors in physics and applied mathematics - Vanderbilt University 2016
 
 
 #### a table of me
@@ -12,7 +12,7 @@ bachelors in physics and applied mathematics - vanderbilt university 2016
 |          likes          |     dislikes      |    neutrals     |
 |:------------------------|:------------------|:----------------|
 | baseball                | untoasted bagels  | blue pens       |
-| bruce springsteen       | neon colors       | mice            |
+| Bruce Springsteen       | neon colors       | mice            |
 | wwii history books      | chalk             | lemon           |
 | ice tea + lemonade      | bananas           | phone calls     |
 | the prestige            | wasps             | legal pad paper | 
@@ -21,7 +21,7 @@ bachelors in physics and applied mathematics - vanderbilt university 2016
 
 #### a comprehensive list of my favorite teams
 
-ny yankees, ny football giants, ny rangers, yale athletics, vanderbilt athletics 
+NY Yankees, NY Football Giants, NY Rangers, Yale athletics, Vanderbilt athletics 
 
 #### life accomplishments
 
