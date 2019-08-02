@@ -3,9 +3,9 @@ i have taken a particular fascination with multi-planet systems.
 i am further interested in stellar activity as it relates to making planet detection more difficult,
 and signal analysis/processing in general.
 
-![planet](https://github.com/jluby127/jluby127.github.io/blob/master/temp.jpg)
+![planet](./temp.jpg)
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+* * * 
 
 i work with [prof. paul robertson](https://faculty.sites.uci.edu/robertson/) on a variety of projects, such as:
 
