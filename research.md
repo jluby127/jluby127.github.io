@@ -5,6 +5,8 @@ and signal analysis/processing in general.
 
 ![planet](https://github.com/jluby127/jluby127.github.io/blob/master/temp.jpg)
 
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
 i work with [prof. paul robertson](https://faculty.sites.uci.edu/robertson/) on a variety of projects, such as:
 
 add projects here.
