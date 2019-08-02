@@ -12,13 +12,13 @@ we discovered and characterized the second brightest known of these such systems
 
 
 
-### publications
+# publications
 
-# first author
+### first author
 
-https://arxiv.org/abs/1706.02401
+[A Bright Short Period M-M Eclipsing Binary from the KELT Survey: Magnetic Activity and the Mass-Radius Relationship for M-dwarfs](./https://arxiv.org/abs/1706.02401)
 
-# n author
+### n author
 
 none
 
