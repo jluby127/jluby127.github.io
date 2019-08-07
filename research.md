@@ -14,7 +14,7 @@ add projects here.
 * * * 
 
 Previously, as an undergraduate at Vanderbilt, I worked with Prof. Keivan Stassun and (now postdoc 
-at harvard cfa) Dr. Joseph Rodriguez on double M dwarf eclipsing binaries. 
+at Harvard CFA) Dr. Joseph Rodriguez on double M dwarf eclipsing binaries. 
 we discovered and characterized the second brightest known of these such systems.
 
 <img src= "./keltks20.png" width="600" height="500">
