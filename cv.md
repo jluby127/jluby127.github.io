@@ -1,6 +1,6 @@
 Click here to view my CV 
 
-<img src= "./CV .pdf" width="600" height="500">
+<img src= "./mycv.png" width="600" height="500">
 
 (OH wait!) 
 
