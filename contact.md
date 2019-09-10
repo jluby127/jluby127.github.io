@@ -1,4 +1,4 @@
-email: jlubin@uci.edu
+email: jlubin [at] uci [dot] edu
 
 office: 2137 frederick reines hall
 
