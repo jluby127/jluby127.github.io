@@ -1,4 +1,4 @@
-<img src= "./temp1.jpg" width="180" height="150">
+<img src= "./temp1.jpg" width="400" height="300">
 
 Originally from New Haven, Connecticut I first became fascinated in physics and astronomy
 from watching science channel documentaries on the space race. Always wanting to be
