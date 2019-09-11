@@ -1,3 +1,6 @@
+<img align="right" src= "./temp2.jpg" width="200" height="300">
+
+
 I primarily search for exoplanets using the radial velocity (RV) detection method and 
 I have taken a particular fascination with multi-planet systems.
 I am further interested in stellar activity as it relates to making planet detection more difficult,
@@ -9,9 +12,12 @@ and signal analysis/processing in general.
 
 I work with [Prof. Paul Robertson](https://faculty.sites.uci.edu/robertson/) on a variety of projects, such as:
 
-Build a Better Periodogram: 
+Build a Better Periodogram: Stellar Activity can masquerade as planets...
 
-Stellar Activity 
+Obliquity...
+
+more...
+
 
 
 
