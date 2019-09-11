@@ -1,3 +1,5 @@
+![me1](./temp1.jpg)
+
 Originally from New Haven, Connecticut I first became fascinated in physics and astronomy
 from watching science channel documentaries on the space race. Always wanted to be
 an astronaut, I've been chasing the stars ever since, safely from the ground. 
