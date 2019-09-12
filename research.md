@@ -25,7 +25,7 @@ Here I am at Cape Canaveral with friends test driving an Apollo capsule model. A
 
 I work with [Prof. Paul Robertson](https://faculty.sites.uci.edu/robertson/) on a variety of projects, such as:
 
-Building a Better Periodogram: 
+<strong>Building a Better Periodogram:</strong> 
 
 Stellar activity is a real nuisance when planet hunting via RV. Activity induced signals, 
 from phenomena like star spots, can either mask a true planetary signal or mimic a planet causing false positive detections. 
@@ -34,7 +34,7 @@ rotates once every 28 days and a star spot might live through 2 or 3 rotations. 
 So how can we determine if a signal is planetary or activity without waiting years hoping that the signal won't disappear? 
 We need a better periodogram, one which can not only tell us the periodicity of a signal, but the decay time of the signal as well. 
 
-Spin-Orbit Misalignment: 
+<strong>Spin-Orbit Misalignment:</strong> 
 
 As more planets are discovered and more can be fully characterized and scrutinized, astronomers are finding that planets don't always
 align nicely with their star, that is to say the orbital plane of the planet is not exactly perpendicular to the axis of rotation of the host star. In our Solar System, the greatest planet-inclination (angle of misalignment) is Mercury at just under 7 degrees. 
@@ -42,7 +42,7 @@ But in extrasolar planets, astronomers are finding inclinations at every value b
 This phenomena has important implications for our understanding of how planets form but more data is needed. Do Jupiters and Neptunes and Earths all follow similar trends in their inclinations? Does host star mass/temperature play a role?
 We need more well measured systems.
 
-more...
+<strong>more...</strong>
 
 
 
