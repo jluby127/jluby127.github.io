@@ -1,9 +1,9 @@
 email: jlubin [at] uci [dot] edu
 
-office: 2137 frederick reines hall
+office: 2137 Frederick Reines Hall
 
-beeper number: 127#
+beeper number: 127721#
 
-site last updated: 8-2-19
+site last updated: 9-12-19
 
 [home](./)
