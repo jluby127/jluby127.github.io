@@ -1,5 +1,9 @@
 <img align="right" src="./temp3.jpg" width="250" height="300">
 
+<br>
+<br>
+<br>
+
 I primarily search for exoplanets using the radial velocity (RV) detection method and 
 I have taken a particular fascination with multi-planet systems.
 
