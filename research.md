@@ -1,11 +1,9 @@
-<img align="right" src="./temp3.jpg" width="200" height="300">
+<img align="right" src="./temp3.jpg" width="250" height="300">
 
 I primarily search for exoplanets using the radial velocity (RV) detection method and 
 I have taken a particular fascination with multi-planet systems.
 I am further interested in stellar activity as it relates to making planet detection more difficult,
 and signal analysis/processing in general.
-
-![planet](./temp.jpg)
 
 * * * 
 
