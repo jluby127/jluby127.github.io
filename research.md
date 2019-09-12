@@ -20,9 +20,7 @@ Here I am at Cape Canaveral with friends test driving an Apollo capsule model. A
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 * * * 
 
 
