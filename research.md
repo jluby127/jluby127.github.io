@@ -1,5 +1,5 @@
 <figure>
-  <img src="temp3.jpg" width="200" height="300">
+  <img align="right" src="./temp3.jpg" width="200" height="300">
   <figcaption>Having fun in a model Apollo capsule. All systems go.</figcaption>
 </figure>
 
