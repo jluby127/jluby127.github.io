@@ -2,11 +2,11 @@
 layout: default
 ---
 
-[About me](./aboutme.html)
+[About me](./aboutme.md)
 
 [Research](./research.md)
 
 [CV](./cv.md)
 
-[Contact](./contact)
+[Contact](./contact.md)
 
