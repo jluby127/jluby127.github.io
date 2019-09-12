@@ -21,6 +21,7 @@ Here I am at Cape Canaveral with friends test driving an Apollo capsule model. A
 
 
 <img src= "./temp.jpg" width="300" height="200">
+
 I work with [Prof. Paul Robertson](https://faculty.sites.uci.edu/robertson/) on a variety of projects, such as:
 
 Build a Better Periodogram: Stellar Activity can masquerade as planets...
