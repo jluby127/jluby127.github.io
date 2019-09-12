@@ -1,6 +1,6 @@
 <img align="right" src="./temp3.jpg" width="250" height="300">
 
-A little bit about my research
+<strong>A little bit about my research</strong>
 
 <br>
 <br>
