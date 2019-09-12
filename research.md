@@ -6,7 +6,12 @@ I am further interested in stellar activity as it relates to making planet detec
 and signal analysis/processing in general.
 <br>
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 * * * 
 
 I work with [Prof. Paul Robertson](https://faculty.sites.uci.edu/robertson/) on a variety of projects, such as:
