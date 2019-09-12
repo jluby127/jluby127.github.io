@@ -4,6 +4,8 @@ I primarily search for exoplanets using the radial velocity (RV) detection metho
 I have taken a particular fascination with multi-planet systems.
 I am further interested in stellar activity as it relates to making planet detection more difficult,
 and signal analysis/processing in general.
+<br>
+<br>
 
 * * * 
 
