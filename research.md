@@ -24,7 +24,7 @@ Here I am at Cape Canaveral with friends test driving an Apollo capsule model. A
 * * * 
 
 
-<img align="center" src= "./temp.jpg" width="400" height="250">
+<img align="middle" src= "./temp.jpg" width="400" height="250">
 <br>
 
 I work with [Prof. Paul Robertson](https://faculty.sites.uci.edu/robertson/) on a variety of projects, such as:
@@ -57,7 +57,7 @@ Previously, as an undergraduate at Vanderbilt, I worked with Prof. Keivan Stassu
 at Harvard CFA) Dr. Joseph Rodriguez on double M dwarf eclipsing binaries. 
 we discovered and characterized the second brightest known of these such systems.
 
-<img align="center" src= "./keltks20.png" width="600" height="500">
+<img align="middle" src= "./keltks20.png" width="600" height="500">
 
 
 
