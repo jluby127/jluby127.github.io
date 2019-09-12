@@ -58,7 +58,7 @@ Previously, as an undergraduate at Vanderbilt, I worked with Prof. Keivan Stassu
 at Harvard CFA) Dr. Joseph Rodriguez on double M dwarf eclipsing binaries. 
 We discovered and characterized the second brightest known of these such systems.
 
-<img align="middle" src= "./keltks20.png" width="600" height="500">
+<center><img align="middle" src= "./keltks20.png" width="600" height="500"></center>
 
 
 
