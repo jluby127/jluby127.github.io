@@ -1,7 +1,4 @@
-<figure>
-  <img align="right" src="./temp3.jpg" width="200" height="300">
-  <figcaption>Having fun in a model Apollo capsule. All systems go.</figcaption>
-</figure>
+<img align="right" src="./temp3.jpg" width="200" height="300">
 
 I primarily search for exoplanets using the radial velocity (RV) detection method and 
 I have taken a particular fascination with multi-planet systems.
