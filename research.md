@@ -36,7 +36,7 @@ we discovered and characterized the second brightest known of these such systems
 
 ### n author
 
-none
+<b>n<b>one
 
 
 [home](./)
