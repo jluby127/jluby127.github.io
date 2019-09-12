@@ -55,7 +55,7 @@ We need more well measured systems.
 
 Previously, as an undergraduate at Vanderbilt, I worked with Prof. Keivan Stassun and (now postdoc 
 at Harvard CFA) Dr. Joseph Rodriguez on double M dwarf eclipsing binaries. 
-we discovered and characterized the second brightest known of these such systems.
+We discovered and characterized the second brightest known of these such systems.
 
 <img align="middle" src= "./keltks20.png" width="600" height="500">
 
