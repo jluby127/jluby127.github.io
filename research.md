@@ -24,7 +24,7 @@ Here I am at Cape Canaveral with friends test driving an Apollo capsule model. A
 * * * 
 
 
-<img align="600" src= "./temp.jpg" width="400" height="250">
+<center> <img src= "./temp.jpg" width="400" height="250"> alt = "testing" </center>
 <br>
 
 I work with [Prof. Paul Robertson](https://faculty.sites.uci.edu/robertson/) on a variety of projects, such as:
