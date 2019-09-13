@@ -5,7 +5,7 @@ an astronaut, I've been chasing the stars ever since, but safely from the ground
 
 #### education
 
-<img align="right" src= "./temp1.jpg" width="200" height="300">
+<img align="right" src= "./temp1.jpg" width="400" height="550">
 
 Bachelors in physics and applied mathematics - Vanderbilt University 2016
 
