@@ -13,12 +13,12 @@ Bachelors in physics and applied mathematics - Vanderbilt University 2016
 |          likes          |     dislikes      |    neutrals     |
 |:------------------------|:------------------|:----------------|
 | baseball                | untoasted bagels  | blue pens       |
-| Bruce Springsteen       | neon colors       | mice            | <img align="right" src= "./temp1.jpg" width="200" height="300">
+| Bruce Springsteen       | neon colors       | mice            | 
 | wwii history books      | chalk             | lemon           |
 | ice tea + lemonade      | bananas           | phone calls     |
 | the prestige            | wasps             | legal pad paper | 
 
-
+<img align="right" src= "./temp1.jpg" width="200" height="300">
 
 #### a comprehensive list of my favorite teams
 
