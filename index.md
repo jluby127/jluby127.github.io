@@ -10,5 +10,5 @@ layout: default
 
 [Contact](./contact.md)
 
-[Other](./other.md)
+<!--[Other](./other.md)-->
 
