@@ -1,5 +1,3 @@
-<img align="right" src= "./temp1.jpg" width="200" height="300">
-
 
 Originally from New Haven, Connecticut I first became fascinated in physics and astronomy
 from watching science channel documentaries on the space race. Always wanting to be
@@ -15,7 +13,7 @@ Bachelors in physics and applied mathematics - Vanderbilt University 2016
 |          likes          |     dislikes      |    neutrals     |
 |:------------------------|:------------------|:----------------|
 | baseball                | untoasted bagels  | blue pens       |
-| Bruce Springsteen       | neon colors       | mice            |
+| Bruce Springsteen       | neon colors       | mice            | <img align="right" src= "./temp1.jpg" width="200" height="300">
 | wwii history books      | chalk             | lemon           |
 | ice tea + lemonade      | bananas           | phone calls     |
 | the prestige            | wasps             | legal pad paper | 
