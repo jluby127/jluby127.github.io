@@ -24,7 +24,7 @@ Here I am at Cape Canaveral with friends test driving an Apollo capsule model. A
 * * * 
 
 
-<center><img  src="./jackpic5.jpg" width="200" height="300"></center>
+<center><img  src="./jackpic5.jpg" width="400" height="500"></center>
 
 <br>
 
