@@ -8,7 +8,7 @@ I have taken a particular fascination with multi-planet systems.
 I am further interested in stellar activity as it relates to making planet detection more difficult,
 and signal analysis/processing in general.
 
-![planet](./temp.jpg)
+![planet](./jackpic5.jpg)
 
 * * * 
 
