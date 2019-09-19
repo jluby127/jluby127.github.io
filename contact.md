@@ -6,6 +6,8 @@ beeper: #127721
 
 site last updated: 9-12-19
 
-<img align="right" src= "./jackpic2.jpg" width="400" height="550">
+<img align="right" src= "./jackpic2.jpg" width="500" height="550">
+
+At NASA Marshall Space Center, practicing to fly a Mercury capsule. Someone needs to shut the door for me!
 
 [home](./)
