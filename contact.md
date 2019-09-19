@@ -9,6 +9,8 @@ beeper: #127721
 
 site last updated: 9-12-19
 
-At NASA Marshall Space Center, practicing to fly a Mercury capsule. Someone needs to shut the door for me!
+At NASA Marshall Space Center, practicing to fly a Mercury capsule. 
+
+Someone needs to shut the door for me!
 
 [home](./)
