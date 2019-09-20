@@ -1,5 +1,5 @@
 
-<img align="right" src= "./jackpic2.jpg" width="250" height="250">
+<img align="right" src= "./jackpic2.jpg" width="400" height="400">
 
 email: jlubin [at] uci [dot] edu
 
@@ -9,8 +9,5 @@ beeper: #127721
 
 site last updated: 9-20-19
 
-At NASA Marshall Space Center, practicing to fly a Mercury capsule. 
-
-Someone needs to shut the door for me!
 
 [home](./)
