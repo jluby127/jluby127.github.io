@@ -1,13 +1,18 @@
 
-<img align="right" src= "./jackpic2.jpg" width="400" height="400">
+<img align="right" src= "./jackpic2.jpg" width="300" height="300">
 
-email: jlubin [at] uci [dot] edu
+<center>email: jlubin [at] uci [dot] edu </center>
 
-office: 2137 Frederick Reines Hall
+<center>office: 2137 Frederick Reines Hall</center>
 
-beeper: #127721
+<br>
 
-site last updated: 9-20-19
+<center>beeper: #127721</center>
 
+<br>
+
+<center>site last updated: 9-20-19</center>
+
+<br>
 
 [home](./)
