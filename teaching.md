@@ -2,7 +2,7 @@
 
 <figure>
  <img align="right" src="./jackpic6.jpg" width="350" height="300"/>
- <figcaption> align="right"
+ <figcaption align="right">
  Here I am the day I got my lab coat but I haven't worn it since.
  </figcaption>
 </figure>
