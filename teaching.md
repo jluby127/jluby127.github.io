@@ -14,13 +14,13 @@ Introduction to electricity and magnetism.
 
 <br>
 
-<b>Physics 51A. Modern Physics</b>
+<b>Physics 51A -  Modern Physics</b>
 
 Wave-particle duality; quantum mechanics; special relativity; statistical mechanics
 
 <br>
 
-<b>Physics 20A. Introduction to Astronomy</b>
+<b>Physics 20A - Introduction to Astronomy</b>
 
 History of astronomy. Underlying physics. Objects in the solar system and how they are studied. 
 Properties of stars: their formation, structure, and evolution. Pulsars and black holes. Galaxies and quasars.
