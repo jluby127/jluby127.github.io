@@ -1,5 +1,5 @@
 
-<img align="middle" src= "./jackpic2.jpg" width="300" height="300">
+<img align="right" src= "./jackpic2.jpg" width="300" height="300">
 
 email: jlubin [at] uci [dot] edu
 
