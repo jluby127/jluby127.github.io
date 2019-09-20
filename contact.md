@@ -7,7 +7,7 @@ office: 2137 Frederick Reines Hall
 
 beeper: #127721
 
-site last updated: 9-12-19
+site last updated: 9-20-19
 
 At NASA Marshall Space Center, practicing to fly a Mercury capsule. 
 
