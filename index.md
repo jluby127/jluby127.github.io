@@ -6,6 +6,8 @@ layout: default
 
 [Research](./research.md)
 
+[Teaching](./teaching.md)
+
 [CV](./cv.md)
 
 [Contact](./contact.md)
