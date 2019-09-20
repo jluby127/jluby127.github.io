@@ -23,3 +23,6 @@ Wave-particle duality; quantum mechanics; special relativity; statistical mechan
 
 History of astronomy. Underlying physics. Objects in the solar system and how they are studied. 
 Properties of stars: their formation, structure, and evolution. Pulsars and black holes. Galaxies and quasars.
+
+
+[home](./)
