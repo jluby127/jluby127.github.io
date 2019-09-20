@@ -4,6 +4,7 @@
  <img align="right" src="./jackpic6.jpg" width="350" height="300"/>
 </figure>
 
+<br>
 
 ### Physics 52A - Fundamentals of Experimental Physics Lab
 
