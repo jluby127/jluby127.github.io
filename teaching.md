@@ -11,7 +11,7 @@ Optics: lenses, mirrors, polarization, lasers, optical fibers, interference, spe
 Introduction to electricity and magnetism.
 
 <br>
-<img align="right" src="./jackpic6.jpg" width="250" height="300">
+<img align="right" src="./jackpic6.jpg" width="350" height="300">
 
 <b>Physics 51A. Modern Physics</b>
 
