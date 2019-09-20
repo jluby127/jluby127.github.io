@@ -1,7 +1,7 @@
 # Courses I've taught include:
 
 <figure>
- <img src="./jackpic6.jpg" />
+ <img align="right" src="./jackpic6.jpg" width="350" height="300"/>
  <figcaption>
  Here I am the day I got my lab coat but I haven't worn it since.></a>
  </figcaption>
