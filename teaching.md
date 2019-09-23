@@ -14,7 +14,7 @@ Optics: lenses, mirrors, polarization, lasers, optical fibers, interference, spe
 
 ### Physics 7D - Classical Physics
 
-Introduction to electricity and magnetism.
+Introduction to electricity and magnetism for physicists and engineers
 
 <br>
 
