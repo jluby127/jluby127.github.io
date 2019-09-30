@@ -4,8 +4,6 @@ layout: default
 
 [About me](./aboutme.md)
 
-[About you](./aboutyou.md)
-
 [Research](./research.md)
 
 [Teaching](./teaching.md)
