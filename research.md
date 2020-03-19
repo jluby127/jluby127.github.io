@@ -12,7 +12,7 @@ I have taken a particular fascination with multi-planet systems.
 I am further interested in stellar activity as it relates to making planet detection more difficult,
 and signal analysis/processing in general. 
 
-Someday I might light to get my hands a little dirty with an instrumentation project...
+Someday I might like to get my hands a little dirty with an instrumentation project...
 
 Here I am at Cape Canaveral with friends test driving an Apollo capsule model. All systems go!  ----->
 <br>
