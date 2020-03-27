@@ -14,7 +14,7 @@ Optics: lenses, mirrors, polarization, lasers, optical fibers, interference, spe
 
 ### Winter 2019: Physics 7D - Classical Physics
 
-Introduction to electricity and magnetism for physicists and engineers
+Introduction to electricity and magnetism for scientists and engineers
 
 <br>
 
@@ -45,7 +45,7 @@ Introduction to the solar neighborhood, Milky Way, and other galaxies. Interstel
 
 ### Spring 2020: Physics 7C - Classical Physics
 
-Introduction to physics for scientists and engineers. Topics include force, energy, momentum, rotation, and gravity.
+Introduction to force, energy, momentum, rotation, and gravity for scientists and engineers.
 
 <br>
 
