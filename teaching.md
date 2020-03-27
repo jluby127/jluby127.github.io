@@ -43,4 +43,10 @@ Introduction to the solar neighborhood, Milky Way, and other galaxies. Interstel
 
 <br>
 
+### Spring 2020: Physics 7C - Classical Physics
+
+Introduction to physics for scientists and engineers. Topics include force, energy, momentum, rotation, and gravity.
+
+<br>
+
 [home](./)
