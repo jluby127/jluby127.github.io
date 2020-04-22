@@ -73,6 +73,8 @@ We discovered and characterized the second brightest known of these such systems
 
 1. [TOI-1235 b: a keystone super-Earth for testing radius valley emergence models around early M dwarfs](https://arxiv.org/abs/2004.06682)
 
+2. [The multi-planet system TOI-421 -- A warm Neptune and a super puffy mini-Neptune transiting a G9 V star in a visual binary](https://arxiv.org/abs/2004.10095)
+
 <br>
 
 
