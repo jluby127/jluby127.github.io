@@ -1,4 +1,4 @@
-# Courses I've taught include:
+# Courses I've taught include (UCI Course Catalog numbers):
 
 <figure>
  <img align="right" src="./jackpic6.jpg" width="350" height="300"/>
