@@ -6,11 +6,7 @@
 <br>
 <br>
 
-I primarily search for exoplanets using the radial velocity (RV) detection method and 
-I have taken a particular fascination with multi-planet systems.
-
-I am further interested in stellar activity as it relates to making planet detection more difficult,
-and signal analysis/processing in general. 
+I primarily search for exoplanets using the radial velocity (RV) detection method and I am further interested in stellar activity as it relates to making planet detection more difficult, and signal analysis/processing in general. 
 
 Someday I might like to get my hands a little dirty with an instrumentation project...
 
@@ -74,6 +70,8 @@ We discovered and characterized the second brightest known of these such systems
 1. [TOI-1235 b: a keystone super-Earth for testing radius valley emergence models around early M dwarfs](https://arxiv.org/abs/2004.06682)
 
 2. [The multi-planet system TOI-421 -- A warm Neptune and a super puffy mini-Neptune transiting a G9 V star in a visual binary](https://arxiv.org/abs/2004.10095)
+
+3. [Persistent starspot signals on M dwarfs: multi-wavelength Doppler observations with the Habitable-zone Planet Finder and Keck/HIRES](https://arxiv.org/abs/2005.09657)
 
 <br>
 
