@@ -6,7 +6,7 @@
 <br>
 <br>
 
-I primarily search for exoplanets using the radial velocity (RV) detection method and I am further interested in stellar activity as it relates to making planet detection more difficult, and signal analysis/processing in general. 
+I primarily search for exoplanets using the radial velocity (RV) detection method but I am further interested in intersection of stellar activity and planet hunting. Stellar activity induced signals can mask or masquerade as planets. In this new era of high precision instrumentation which allows us to probe below the 1 m/s signal threshold, we are finding that such stellar activity will be a persisent nuisance in the search for low mass and/or long period planets.
 
 Someday I might like to get my hands a little dirty with an instrumentation project...
 
