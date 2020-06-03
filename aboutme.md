@@ -7,7 +7,7 @@ an astronaut, I've been chasing the stars ever since, but safely from the ground
 
 <img align="right" src= "./temp1.jpg" width="400" height="550">
 
-Bachelors in physics and applied mathematics - Vanderbilt University 2016
+Bachelors in Physics and Applied Mathematics - Vanderbilt University 2016
 
 
 #### a table of me
@@ -18,7 +18,7 @@ Bachelors in physics and applied mathematics - Vanderbilt University 2016
 | Bruce Springsteen       | neon colors       | mice            | 
 | wwii history books      | chalk             | lemon           |
 | ice tea + lemonade      | bananas           | phone calls     |
-| the prestige            | wasps             | legal pad paper | 
+| The Prestige            | wasps             | legal pad paper | 
 
 
 #### a comprehensive list of my favorite teams
