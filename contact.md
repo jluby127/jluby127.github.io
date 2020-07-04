@@ -5,15 +5,12 @@
 
 <br>
 
-<strong>office:</strong> 2137 Frederick Reines Hall
-
-<br>
 
 <strong>beeper:</strong> #127721
 
 <br>
 
-<strong>site last updated:</strong> 06-03-2020
+<strong>site last updated:</strong> 07-02-2020
 
 <br>
 
