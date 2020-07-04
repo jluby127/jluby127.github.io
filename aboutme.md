@@ -1,7 +1,7 @@
 
-Originally from Connecticut I first became fascinated in physics and astronomy
+Originally from the East coast I first became fascinated in physics and astronomy
 from watching science channel documentaries on the space race. Always wanting to be
-an astronaut, I've been chasing the stars ever since, but safely from the ground. 
+an astronaut, I've been chasing the stars ever since, but safely from the ground now in California. 
 
 #### education
 
@@ -23,7 +23,7 @@ Bachelors in Physics and Applied Mathematics - Vanderbilt University 2016
 
 #### a comprehensive list of my favorite teams
 
-NY Yankees, NY Football Giants, NY Rangers, Yale athletics, Vanderbilt athletics 
+NY Yankees, NY Football Giants, NY Rangers, Vanderbilt athletics 
 
 #### life accomplishments
 
