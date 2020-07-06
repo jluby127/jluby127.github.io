@@ -27,14 +27,14 @@ Here I am at Cape Canaveral with friends test driving an Apollo capsule model. A
 
 I work with [Prof. Paul Robertson](https://faculty.sites.uci.edu/robertson/) on a variety of projects, such as:
 
-<!<strong>Building a Better Periodogram:</strong> >
+<strong>Building a Better Periodogram:</strong>
 
-<!Stellar activity is a real nuisance when planet hunting via RV. Activity induced signals, >
-<!from phenomena like star spots, can either mask a true planetary signal or mimic a planet causing false positive detections. >
-<!These signals are inherentely tied to the rotation period of the star and have varying lifetimes. For example, a our sun>
-<!rotates once every 28 days and a star spot might live through 2 or 3 rotations. But on an old M Dwarf star, the rotation period is often greater than 100 days and the same spot can persist for 10+ rotations...that's on the timescale of years! >
-<!So how can we determine if a signal is planetary or activity without waiting years hoping that the signal won't disappear? >
-<!We need a better periodogram, one which can not only tell us the periodicity of a signal, but the decay time of the signal as well. >
+Stellar activity is a real nuisance when planet hunting via RV. Activity induced signals, 
+from phenomena like star spots, can either mask a true planetary signal or mimic a planet causing false positive detections. 
+These signals are inherentely tied to the rotation period of the star and have varying lifetimes. For example, a our sun
+rotates once every 28 days and a star spot might live through 2 or 3 rotations. But on an old M Dwarf star, the rotation period is often greater than 100 days and the same spot can persist for 10+ rotations...that's on the timescale of years! 
+So how can we determine if a signal is planetary or activity without waiting years hoping that the signal won't disappear? 
+We need a better periodogram, one which can not only tell us the periodicity of a signal, but the decay time of the signal as well. 
 
 
 <strong>Spin-Orbit Misalignment:</strong> 
