@@ -41,7 +41,7 @@ We need a better periodogram, one which can not only tell us the periodicity of 
 
 As more planets are discovered and more can be fully characterized and scrutinized, astronomers are finding that planets don't always
 align nicely with their star, that is to say the orbital plane of the planet is not exactly perpendicular to the axis of rotation of the host star. In our Solar System, the greatest planet-inclination (angle of misalignment) is Mercury at just under 7 degrees. 
-But in extrasolar planets, astronomers are finding inclinations at every value between 0 and 180 degrees (between 90 and 180 means the planet orbits in the opposite direction of the star's spin...a "backwards" or retrograde orbit). 
+But in extrasolar planets, astronomers are finding inclinations at every value between 0 and +/- 180 degrees (negative value indicate that the planet orbits in the opposite direction of the star's spin...a "backwards" or retrograde orbit). 
 This phenomena has important implications for our understanding of how planets form but more data is needed. Do Jupiters and Neptunes and Earths all follow similar trends in their inclinations? Does host star mass/temperature play a role?
 We need more well measured systems.
 
