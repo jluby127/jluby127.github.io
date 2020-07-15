@@ -6,7 +6,7 @@
 <br>
 <br>
 
-I primarily search for exoplanets using the radial velocity (RV) detection method but I am further interested in intersection of stellar activity and planet hunting. Stellar activity induced signals can mask or masquerade as planets. In this new era of high precision instrumentation which allows us to probe below the 1 m/s signal threshold, we are finding that such stellar activity will be a persisent nuisance in the search for low mass and/or long period planets.
+I primarily search for exoplanets using the radial velocity (RV) detection method but I am further interested in intersection of stellar activity and planet hunting. Stellar activity induced signals can mask or masquerade as planets. In this new era of high precision instrumentation which allows us to probe below the 1 m/s signal threshold, we are finding that such stellar activity will be a persistent nuisance in the search for low mass and/or long period planets.
 
 Someday I might like to get my hands a little dirty with an instrumentation project...
 
@@ -17,7 +17,7 @@ Here I am at Cape Canaveral with friends test driving an Apollo capsule model. A
 <br>
 <br>
 
-* * * 
+* * *
 
 
 <center><img  src="./jackpic5.jpg" width="400" height="500"></center>
@@ -29,19 +29,19 @@ I work with [Prof. Paul Robertson](https://faculty.sites.uci.edu/robertson/) on 
 
 <strong>Building a Better Periodogram:</strong>
 
-Stellar activity is a real nuisance when planet hunting via RV. Activity induced signals, 
-from phenomena like star spots, can either mask a true planetary signal or mimic a planet causing false positive detections. 
+Stellar activity is a real nuisance when planet hunting via RV. Activity induced signals,
+from phenomena like star spots, can either mask a true planetary signal or mimic a planet causing false positive detections.
 These signals are inherentely tied to the rotation period of the star and have varying lifetimes. For example, a our sun
-rotates once every 28 days and a star spot might live through 2 or 3 rotations. But on an old M Dwarf star, the rotation period is often greater than 100 days and the same spot can persist for 10+ rotations...that's on the timescale of years! 
-So how can we determine if a signal is planetary or activity without waiting years hoping that the signal won't disappear? 
-We need a better periodogram, one which can not only tell us the periodicity of a signal, but the decay time of the signal as well. 
+rotates once every 28 days and a star spot might live through 2 or 3 rotations. But on an old M Dwarf star, the rotation period is often greater than 100 days and the same spot can persist for 10+ rotations...that's on the timescale of years!
+So how can we determine if a signal is planetary or activity without waiting years hoping that the signal won't disappear?
+We need a better periodogram, one which can not only tell us the periodicity of a signal, but the decay time of the signal as well.
 
 
-<strong>Spin-Orbit Misalignment:</strong> 
+<strong>Spin-Orbit Misalignment:</strong>
 
 As more planets are discovered and more can be fully characterized and scrutinized, astronomers are finding that planets don't always
-align nicely with their star, that is to say the orbital plane of the planet is not exactly perpendicular to the axis of rotation of the host star. In our Solar System, the greatest planet-inclination (angle of misalignment) is Mercury at just under 7 degrees. 
-But in extrasolar planets, astronomers are finding inclinations at every value between 0 and +/- 180 degrees (negative value indicate that the planet orbits in the opposite direction of the star's spin...a "backwards" or retrograde orbit). 
+align nicely with their star, that is to say the orbital plane of the planet is not exactly perpendicular to the axis of rotation of the host star. In our Solar System, the greatest planet-inclination (angle of misalignment) is Mercury at just under 7 degrees.
+But in extrasolar planets, astronomers are finding inclinations at every value between 0 and +/- 180 degrees (negative value indicate that the planet orbits in the opposite direction of the star's spin...a "backwards" or retrograde orbit).
 This phenomena has important implications for our understanding of how planets form but more data is needed. Do Jupiters and Neptunes and Earths all follow similar trends in their inclinations? Does host star mass/temperature play a role?
 We need more well measured systems.
 
@@ -50,10 +50,10 @@ We need more well measured systems.
 
 
 
-* * * 
+* * *
 
-Previously, as an undergraduate at Vanderbilt, I worked with Prof. Keivan Stassun and (now postdoc 
-at Harvard CFA) Dr. Joseph Rodriguez on double M dwarf eclipsing binaries. 
+Previously, as an undergraduate at Vanderbilt, I worked with Prof. Keivan Stassun and (now postdoc
+at Harvard CFA) Dr. Joseph Rodriguez on double M dwarf eclipsing binaries.
 We discovered and characterized the second brightest known of these such systems.
 
 <center><img align="middle" src= "./keltks20.png" width="600" height="500"></center>
@@ -75,6 +75,8 @@ We discovered and characterized the second brightest known of these such systems
 3. [The multi-planet system TOI-421 -- A warm Neptune and a super puffy mini-Neptune transiting a G9 V star in a visual binary](https://arxiv.org/abs/2004.10095)
 
 4. [Persistent starspot signals on M dwarfs: multi-wavelength Doppler observations with the Habitable-zone Planet Finder and Keck/HIRES](https://arxiv.org/abs/2005.09657)
+
+5. [A warm Jupiter transiting an M dwarf: A TESS single transit event confirmed with the Habitable-zone Planet Finder](https://arxiv.org/abs/2007.07098)
 
 <br>
 
