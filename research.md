@@ -25,7 +25,7 @@ Here I am at Cape Canaveral with friends test driving an Apollo capsule model. A
 
 <br>
 
-I work with [Prof. Paul Robertson](https://faculty.sites.uci.edu/robertson/) on a variety of projects, such as:
+I work with [Paul Robertson](https://faculty.sites.uci.edu/robertson/) on a variety of projects, such as:
 
 <strong>Building a Better Periodogram:</strong>
 
@@ -51,7 +51,7 @@ We need more well measured systems.
 
 * * *
 
-Previously, as an undergraduate at Vanderbilt, I worked with [Prof. Keivan Stassun](http://astro.phy.vanderbilt.edu/~stassuk/) and (now Assistant Professor at Michigan State University) [Dr. Joseph Rodriguez](https://sites.google.com/site/josepherodriguezjr/) on double M dwarf eclipsing binaries.
+Previously, as an undergraduate at Vanderbilt, I worked with [Keivan Stassun](http://astro.phy.vanderbilt.edu/~stassuk/) and (now Assistant Professor at Michigan State University) [Joseph Rodriguez](https://sites.google.com/site/josepherodriguezjr/) on double M dwarf eclipsing binaries.
 We discovered and characterized the second brightest known of these such systems with the hope that the tight constraints we placed on mass, radius, and temperature can assist the theorists in refining their models of low mass stars.
 
 <center><img align="middle" src= "./keltks20.png" width="600" height="500"></center>
