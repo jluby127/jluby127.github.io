@@ -78,6 +78,8 @@ We discovered and characterized the second brightest known of these such systems
 
 5. [A warm Jupiter transiting an M dwarf: A TESS single transit event confirmed with the Habitable-zone Planet Finder](https://arxiv.org/abs/2007.07098)
 
+6. [TKS III: A Stellar Obliquity Measurement of TOI-1726 c](https://arxiv.org/abs/2008.12397)
+
 <br>
 
 
