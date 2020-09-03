@@ -1,4 +1,5 @@
-# Courses I've taught include (UCI Course Catalog numbers):
+# Courses I've taught:
+## [UCI Physics Course Catalog](http://catalogue.uci.edu/allcourses/physics/)
 
 <figure>
  <img align="right" src="./jackpic6.jpg" width="350" height="300"/>
@@ -26,7 +27,7 @@ Wave-particle duality; quantum mechanics; special relativity; statistical mechan
 
 ### Fall 2019: Physics 20A - Introduction to Astronomy
 
-History of astronomy. Underlying physics. Objects in the solar system and how they are studied. 
+History of astronomy. Underlying physics. Objects in the solar system and how they are studied.
 Properties of stars: their formation, structure, and evolution. Pulsars and black holes. Galaxies and quasars.
 
 <br>
