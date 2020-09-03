@@ -17,7 +17,7 @@ Bachelors in Physics and Applied Mathematics - Vanderbilt University 2016
 | baseball                | untoasted bagels  | blue pens       |
 | Bruce Springsteen       | neon colors       | mice            |
 | wwii history books      | chalk             | lemon           |
-| ice tea + lemonade      | bananas           | phone calls     |
+| trains                  | bananas           | phone calls     |
 | The Prestige            | wasps             | legal pad paper |
 
 
