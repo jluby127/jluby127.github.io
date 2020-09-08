@@ -78,6 +78,8 @@ We discovered and characterized the second brightest known of these such systems
 
 6. [TKS III: A Stellar Obliquity Measurement of TOI-1726 c](https://arxiv.org/abs/2008.12397)
 
+7. [The TESS-Keck Survey II: Masses of Three Sub-Neptunes Transiting the Galactic Thick-Disk Star TOI-561](https://arxiv.org/abs/2009.03071)
+
 <br>
 
 
