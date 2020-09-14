@@ -50,4 +50,10 @@ Introduction to force, energy, momentum, rotation, and gravity for scientists an
 
 <br>
 
+### Fall 2020: Physics 14 - Energy and the Environment
+
+The physics of society’s energy production and consumption, and of their influences on the environment. Topics include fossil and renewable energy resources; nuclear power; prospects for a hydrogen economy; efficient and environmentally benign transportation; efficient home and commercial energy usage.
+
+<br>
+
 [home](./)
