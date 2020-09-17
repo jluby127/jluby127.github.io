@@ -2,8 +2,10 @@
 layout: default
 ---
 <figure>
-  <img align="right" src= "./solarspec.jpg" width="250" height="250"/>
-  <figcaption>^this is what it's all about</figcaption>
+  <img align="right" src= "./solarspec.jpg" width="250" height="250">
+  <figcaption>
+    this is what it's all about part 2
+  </figcaption>
 </figure>
 
 
