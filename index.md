@@ -13,7 +13,6 @@ layout: default
 
 [Contact](./contact.md)
 
-<br>
-<br>
+[Decoy](./decoy.md)
 
 <!--[Other](./other.md)-->
