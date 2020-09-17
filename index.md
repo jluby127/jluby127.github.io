@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img align="right" src= "./solarspec.jpg" width="350" height="350">
+<img align="right" src= "./solarspec.jpg" width="250" height="250">
 
 [About me](./aboutme.md)
 
@@ -12,5 +12,8 @@ layout: default
 [CV](./cv.md)
 
 [Contact](./contact.md)
+
+<br>
+<br>
 
 <!--[Other](./other.md)-->
