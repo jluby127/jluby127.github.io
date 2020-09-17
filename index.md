@@ -3,7 +3,7 @@ layout: default
 ---
 <figure>
   <img align="right" src= "./solarspec.jpg" width="250" height="250"/>
-  <figcaption>this is what it's all about</figcaption>
+  <figcaption>^this is what it's all about</figcaption>
 </figure>
 
 
