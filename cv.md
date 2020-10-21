@@ -1,6 +1,6 @@
 Here is my CV.
 
-<center><img src= "./updatedCV.jpg" width="600" height="800"></center>
+<center><img src= "./updatedCV.png" width="600" height="800"></center>
 
 <br>
 
