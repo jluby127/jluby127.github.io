@@ -1,4 +1,4 @@
-Here is my CV.
+Here is a slightly vertically stretched copy my CV.
 
 <center><img src= "./updatedCV.png" width="600" height="800"></center>
 
