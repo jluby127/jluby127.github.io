@@ -1,12 +1,10 @@
-Here is a slightly vertically stretched copy my CV.
-
-<center><img src= "./updatedCV.png" width="600" height="800"></center>
-
-<br>
+Here a copy of my CV, click to download.
 
 <a href="./updatedCV.png" download>
   <img src="./updatedCV.png" alt="None">
 </a>
+
+<br>
 
 And here is a my ORCID.
 
@@ -14,3 +12,5 @@ And here is a my ORCID.
 
 
 [Home](./)
+
+<!--<center><img src= "./updatedCV.png" width="600" height="800"></center><br>-->
