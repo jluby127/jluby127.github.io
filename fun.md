@@ -31,4 +31,13 @@ Here is an abbreviated and slowing growing bibliography with short synopses. As 
 
 <br>
 
-SquidWorld - A squid-themed amusement park built atop the ice sheets of Jupiter's third largest moon, Europa. In the oceans below, a population of giant squid deliberately seeded here by scientists swim and hunt the indigenous fauna. Explore and learn all about this cephalopod sanctuary!
+<ul type="disc">
+    <li><b>SquidWorld</b> - A squid-themed amusement park built atop the ice sheets of Jupiter's third largest moon, Europa. In the oceans below, a population of giant squid deliberately seeded here by scientists swim and hunt the indigenous fauna. Explore and learn all about this cephalopod sanctuary! 1</li>
+
+    <li><b>Teacups</b> - A society built on the edge of civilation in the cold Canadian northern plains has a single goal for which all the members strive for unrelentingly. When a new member joins, she thinks she understands it all, until the curtain is slowly pulled from her eyes.</li>
+
+    <li><b>All That Glitters</b> - In the decade following a major asteroid impact on the far side of the Moon, NASA reignites its moon landing missions in an effort to study the crater. The first mission is a resounding success, the second goes into routine radio blackout and never emerges. As a nation and the world grieves, a third mission is sent to investigate the crash site and recover the bodies, but not all is as it seems...</li>
+
+    <!--<li>Item 3</li>-->
+
+</ul>
