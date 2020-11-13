@@ -5,7 +5,7 @@
 
 <br>
 
-<strong>twitter:</strong> [at]LubysLemmas
+<strong>twitter:</strong> [LubysLemmas](https://twitter.com/LubysLemmas)
 
 <br>
 
@@ -14,7 +14,7 @@
 
 <br>
 
-<strong>site last updated:</strong> 10-21-2020
+<strong>site last updated:</strong> 11-12-2020
 
 <br>
 
