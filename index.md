@@ -9,6 +9,8 @@ layout: default
 
 [Teaching](./teaching.md)
 
+<!--[Fun](./fun.md)-->
+
 [CV](./cv.md)
 
 [Contact](./contact.md)
