@@ -56,4 +56,16 @@ The physics of society’s energy production and consumption, and of their influ
 
 <br>
 
+### Winter 2021: Physics 20A - Introduction to Astronomy
+
+History of astronomy. Underlying physics. Objects in the solar system and how they are studied. Properties of stars: their formation, structure, and evolution. Pulsars and black holes. Galaxies and quasars.
+
+<br>
+
+### Winter 2021: Physics 138 - Extragalactic Astrophysics (2nd time)
+
+Introduction to the solar neighborhood, Milky Way, and other galaxies. Interstellar medium. Star formation. Stellar populations. Evolution of spiral, elliptical, and irregular galaxies. Supermassive black holes, quasars, and active galaxies. Galaxies as probes of the expansion rate of the Universe.
+
+<br>
+
 [home](./)
