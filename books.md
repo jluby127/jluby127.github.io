@@ -12,15 +12,7 @@ Few things are better than a good book. For me, most "good" books are Sci-Fi, th
 
     <br>
 
-    <li> I Am Legend - Richard Matheson </li>
-
-    <br>
-
     <li> The Prestige - Christopher Priest </li>
-
-    <br>
-
-    <li> I Am Legend - Richard Matheson </li>
 
     <br>
 
