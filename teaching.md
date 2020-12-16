@@ -38,7 +38,7 @@ Survey of the physical basis of modern technology, with an emphasis on electroni
 
 <br>
 
-### Winter 2020: Physics 138 - Exragalactic Astrophysics
+### Winter 2020: Physics 138 - Extragalactic Astrophysics
 
 Introduction to the solar neighborhood, Milky Way, and other galaxies. Interstellar medium. Star formation. Stellar populations. Evolution of spiral, elliptical, and irregular galaxies. Supermassive black holes, quasars, and active galaxies. Galaxies as probes of the expansion rate of the Universe.
 
