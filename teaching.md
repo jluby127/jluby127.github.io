@@ -56,7 +56,7 @@ The physics of society’s energy production and consumption, and of their influ
 
 <br>
 
-### Winter 2021: Physics 20A - Introduction to Astronomy
+### Winter 2021: Physics 20A - Introduction to Astronomy (2nd time)
 
 History of astronomy. Underlying physics. Objects in the solar system and how they are studied. Properties of stars: their formation, structure, and evolution. Pulsars and black holes. Galaxies and quasars.
 
