@@ -80,6 +80,8 @@ We discovered and characterized the second brightest known of these such systems
 
 7. [The TESS-Keck Survey II: Masses of Three Sub-Neptunes Transiting the Galactic Thick-Disk Star TOI-561](https://arxiv.org/abs/2009.03071)
 
+8. [The TESS-Keck Survey IV: A Retrograde, Polar Orbit for the Ultra-Low-Density, Hot Super-Neptune WASP-107b](https://arxiv.org/abs/2101.09371)
+
 <br>
 
 
