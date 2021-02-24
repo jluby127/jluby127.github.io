@@ -36,7 +36,7 @@ Few things are better than a good book. For me, most "good" books are Sci-Fi, th
 
 Having always loved reading Sci-Fi, in my mind the next logical step is to write Sci-Fi. In the past few years writing has grown to into one of my favorite hobbies. I find it relaxing, yet challenging. Up to now, I've stuck to short stories, one day I might like to try something longer.
 
-Here is a slowing growing bibliography with short synopses. As of now, I only circulate these among friends and family. One day perhaps they will see a wider audience.
+Here is a slowing growing bibliography with short synopses. As of now, I only circulate these among friends and family (Feel free to ask if you want read, I'll likely say yes). One day perhaps they will see a wider audience.
 
 <ul type="disc">
     <li> <b> SquidWorld </b> - A squid-themed amusement park built atop the ice sheets of Jupiter's third largest moon, Europa. In the oceans below, a population of giant squid deliberately seeded here by scientists swim and hunt the indigenous fauna. Explore and learn all about this cephalopod sanctuary...</li>
