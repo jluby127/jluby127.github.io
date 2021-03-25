@@ -68,4 +68,10 @@ Introduction to the solar neighborhood, Milky Way, and other galaxies. Interstel
 
 <br>
 
+### Spring 2021: Physics 52C - Fundamentals of Experimental Physics
+
+Data analysis: random and systematic errors, curve fitting; nuclear counting; quantum experiments. Error analysis: random and systematic errors, curve fitting, nuclear counting, and quantum experiments.
+
+<br>
+
 [home](./)
