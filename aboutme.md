@@ -8,6 +8,7 @@ an astronaut, I've been chasing the stars ever since, but now safely from the gr
 <img align="right" src= "./temp1.jpg" width="400" height="550">
 
 Bachelors in Physics and Applied Mathematics - Vanderbilt University 2016
+<br>
 Masters in Physics - University of California, Irvine 2020
 
 
