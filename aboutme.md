@@ -1,13 +1,14 @@
 
 Originally from the East coast I first became fascinated in physics and astronomy
-from watching science channel documentaries on the space race. Always wanting to be
-an astronaut, I've been chasing the stars ever since, but safely from the ground now in California.
+from watching Science/Discovery/History Channel documentaries on the space race. Always wanting to be
+an astronaut, I've been chasing the stars ever since, but now safely from the ground in California.
 
 #### education
 
 <img align="right" src= "./temp1.jpg" width="400" height="550">
 
 Bachelors in Physics and Applied Mathematics - Vanderbilt University 2016
+Masters in Physics - University of California, Irvine 2020
 
 
 #### a table of me
