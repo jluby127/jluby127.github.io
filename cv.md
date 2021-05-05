@@ -1,4 +1,4 @@
-Here is my CV, click any page to download the whole thing.
+Here is my CV, click on the first page to download the whole thing.
 
 <!--<a href="./updatedCV.png" download>
   <img src="./updatedCV.png" alt="None">
@@ -6,10 +6,11 @@ Here is my CV, click any page to download the whole thing.
 
 <a href="./cv_stuff/MyCV.pdf" download>
   <img src="./cv_stuff/CV1.pdf" alt="None">
-  <img src="./cv_stuff/CV2.pdf" alt="None">
-  <img src="./cv_stuff/CV3.pdf" alt="None">
-  <img src="./cv_stuff/CV4.pdf" alt="None">
 </a>
+
+<a <img src="./cv_stuff/CV2.pdf" alt="None"> </a>
+<a <img src="./cv_stuff/CV3.pdf" alt="None"> </a>
+<a <img src="./cv_stuff/CV4.pdf" alt="None"> </a>
 
 <br>
 
