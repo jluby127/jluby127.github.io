@@ -32,6 +32,7 @@ Few things are better than a good book. For me, most "good" books are Sci-Fi, th
 </ul>
 
 
+<!--
 ### Short Story Writing
 
 Having always loved reading Sci-Fi, in my mind the next logical step is to write Sci-Fi. In the past few years writing has grown to into one of my favorite hobbies. I find it relaxing, yet challenging. Up to now, I've stuck to short stories, one day I might like to try something longer.
@@ -57,8 +58,8 @@ Here is a slowing growing bibliography with short synopses. As of now, I only ci
 
     <li> <b> Five Campers </b> - Five strangers find themselves to be the sole Earthly survivors of a nuclear event. As the world burns and crumbles around them, they fight both to survive and to cope with the knowledge that they will be the last humans. How will they memorialize an entire species... </li>
 
-    <!--<li>Item 3</li>-->
+    <!--<li>Item 3</li>
 
-</ul>
+</ul>-->
 
 [Home](./)
