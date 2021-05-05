@@ -5,7 +5,7 @@ Here a copy of my CV, click to download.
 </a>-->
 
 <a href="./MyCV.pdf" download>
-  <img src="./updatedCV.png" alt="None">
+  <img src="./MyCV.pdf" alt="None">
 </a>
 
 <br>
