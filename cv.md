@@ -5,7 +5,7 @@ Here the first page of my CV, click to download the whole thing.
 </a>-->
 
 <a href="./MyCV.pdf" download>
-  <img src="./MyCV.pdf" alt="None">
+  <img src="./MyCV.pdf" alt="None" width="100%" height="3000px">
 </a>
 
 <br>
