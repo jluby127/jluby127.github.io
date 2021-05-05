@@ -19,7 +19,7 @@ layout: default
 
 [Decoy](./decoy.md)
 
-[Counter](./counterpage.php)
+[Counter](./counterpage.md)
 
 <!--[Other](./other.md)-->
 <!--<figure>
