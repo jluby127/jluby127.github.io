@@ -1,4 +1,4 @@
-Here a copy of my CV, click to download.
+Here the first page of my CV, click to download the whole thing.
 
 <!--<a href="./updatedCV.png" download>
   <img src="./updatedCV.png" alt="None">
