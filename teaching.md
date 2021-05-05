@@ -74,4 +74,4 @@ Data analysis: random and systematic errors, curve fitting; nuclear counting; qu
 
 <br>
 
-[home](./)
+[Home](./)

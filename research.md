@@ -84,4 +84,4 @@ We discovered and characterized the second brightest known of these such systems
 <br>
 
 
-[home](./)
+[Home](./)
