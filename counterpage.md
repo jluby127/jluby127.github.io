@@ -1,8 +1,8 @@
 
 
-<p>Number of visitors to this page so far TESTing:</p>
+<p>Number of visitors to this page so far TESTing2:</p>
 
 <img alt="Visitor counter" src="counter.php" />
-<img align="right" src= "./canvas.png" width="350" height="350">
+<img align="left" src= "./canvas.png" width="100" height="20">
 
 [home](./)
