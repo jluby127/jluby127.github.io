@@ -30,11 +30,11 @@
   $chars = preg_split('//', $counterVal);
   $im = imagecreatefrompng("canvas.png");
 
-  $src1 = imagecreatefrompng("/numbers/glass_numbers_$chars[1].png");
-  $src2 = imagecreatefrompng("/numbers/glass_numbers_$chars[2].png");
-  $src3 = imagecreatefrompng("/numbers/glass_numbers_$chars[3].png");
-  $src4 = imagecreatefrompng("/numbers/glass_numbers_$chars[4].png");
-  $src5 = imagecreatefrompng("/numbers/glass_numbers_$chars[5].png");
+  $src1 = imagecreatefrompng("/numbers/$chars[1].png");
+  $src2 = imagecreatefrompng("/numbers/$chars[2].png");
+  $src3 = imagecreatefrompng("/numbers/$chars[3].png");
+  $src4 = imagecreatefrompng("/numbers/$chars[4].png");
+  $src5 = imagecreatefrompng("/numbers/$chars[5].png");
 
   imagecopymerge($im, $src1, 0, 0, 0, 0, 56, 75, 100);
   imagecopymerge($im, $src2, 60, 0, 0, 0, 56, 75, 100);
