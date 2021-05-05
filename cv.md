@@ -5,20 +5,26 @@ Here is my CV, click on the first page to download the whole thing.
 </a>-->
 
 <a href="./cv_stuff/MyCV.pdf" download>
-  <img src="./cv_stuff/CV1.pdf" alt="None">
+  <img src="./cv_stuff/CV1.png" alt="None">
+  <img src="./cv_stuff/CV2.png" alt="None">
+  <img src="./cv_stuff/CV3.png" alt="None">
+  <img src="./cv_stuff/CV4.png" alt="None">
+</a>
+
+
+<!--
+<a
+  <img src="./cv_stuff/CV2.png" alt="None">
 </a>
 
 <a
-  <img src="./cv_stuff/CV2.pdf" alt="None">
+  <img src="./cv_stuff/CV3.png" alt="None">
 </a>
 
 <a
-  <img src="./cv_stuff/CV3.pdf" alt="None">
+  <img src="./cv_stuff/CV4.png" alt="None">
 </a>
-
-<a
-  <img src="./cv_stuff/CV4.pdf" alt="None">
-</a>
+-->
 
 <br>
 
