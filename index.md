@@ -20,9 +20,10 @@ layout: default
 [Decoy](./decoy.md)
 
 <!--[Counter](./counterpage.md)-->
+<br>
 
-<strong> Site Hits </strong> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=bc4609a39dc1e2fdf7bf02e4c27d946b62c1cebf'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/823962/t/5"></script>
+<p> align="right" <strong> Site Hits </strong> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=bc4609a39dc1e2fdf7bf02e4c27d946b62c1cebf'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/823962/t/5"></script> </p>
 
 
 <!--[Other](./other.md)-->
