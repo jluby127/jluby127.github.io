@@ -1,6 +1,10 @@
 Here a copy of my CV, click to download.
 
-<a href="./updatedCV.png" download>
+<!--<a href="./updatedCV.png" download>
+  <img src="./updatedCV.png" alt="None">
+</a>-->
+
+<a href="./MyCV.pdf" download>
   <img src="./updatedCV.png" alt="None">
 </a>
 
