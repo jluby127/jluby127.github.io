@@ -1,6 +1,6 @@
 
 
-<p>Site hits:</p>
+<p>Site Hits:</p>
 <!--
 <img alt="Visitor counter" src="./counter.php" />
 <img align="left" src="./canvas.png" width="100" height="20">
