@@ -19,6 +19,8 @@ layout: default
 
 [Decoy](./decoy.md)
 
+[Counter](./counterpage.md)
+
 <!--[Other](./other.md)-->
 <!--<figure>
   <img align="right" src= "./solarspec.jpg" width="250" height="250">
