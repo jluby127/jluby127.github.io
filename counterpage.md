@@ -1,9 +1,6 @@
 
 
-<?php
-  include "counter.php";
-  $access_number = $counterVal;
-  echo "You are the", $access_number, " visitor on this site!";
-?>
+<p>Number of visitors to this page so far:</p>
+<img alt="Visitor counter" src="counter.php" />
 
 [home](./)
