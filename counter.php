@@ -15,6 +15,7 @@
   $f = fopen($counter_name,"r");
   $counterVal = fread($f, filesize($counter_name));
   fclose($f);
+  echo $counterVal
 
   // Has visitor been counted in this session?
   // If not, increase counter value by one
@@ -45,6 +46,5 @@
   // Output and free from memory
   header('Content-Type: image/png');
   echo imagepng($im);
-  echo "hello world"
   imagedestroy($im);
 ?>
