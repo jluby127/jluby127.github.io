@@ -1,6 +1,6 @@
 
 
-<p>Number of visitors to this page so far TESTing234:</p>
+<p>Number of visitors to this page so far TESTing23456:</p>
 
 <img alt="Visitor counter" src="./counter.php" />
 <img align="left" src= "./canvas.png" width="100" height="20">

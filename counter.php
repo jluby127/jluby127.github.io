@@ -45,6 +45,6 @@
   // Output and free from memory
   header('Content-Type: image/png');
   echo imagepng($im);
-  echo $chars
+  echo "hello world"
   imagedestroy($im);
 ?>
