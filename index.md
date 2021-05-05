@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img align="right" src= "./solarspec.jpg" width="250" height="250">
+<img align="right" src= "./solarspec.jpg" width="300" height="300">
 
 [About me](./aboutme.md)
 
@@ -23,7 +23,7 @@ layout: default
 <br>
 
 <strong> Site Hits </strong> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=bc4609a39dc1e2fdf7bf02e4c27d946b62c1cebf'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/823962/t/5"></script> 
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/823962/t/5"></script>
 
 
 <!--[Other](./other.md)-->
