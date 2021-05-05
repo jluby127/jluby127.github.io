@@ -8,9 +8,17 @@ Here is my CV, click on the first page to download the whole thing.
   <img src="./cv_stuff/CV1.pdf" alt="None">
 </a>
 
-<a <img src="./cv_stuff/CV2.pdf" alt="None"> </a>
-<a <img src="./cv_stuff/CV3.pdf" alt="None"> </a>
-<a <img src="./cv_stuff/CV4.pdf" alt="None"> </a>
+<a
+  <img src="./cv_stuff/CV2.pdf" alt="None">
+</a>
+
+<a
+  <img src="./cv_stuff/CV3.pdf" alt="None">
+</a>
+
+<a
+  <img src="./cv_stuff/CV4.pdf" alt="None">
+</a>
 
 <br>
 
