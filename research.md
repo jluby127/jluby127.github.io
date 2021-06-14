@@ -67,6 +67,8 @@ We discovered and characterized the second brightest known of these such systems
 
 ### n author
 
+10. [The TESS-Keck Survey: Science Goals and Target Selection](https://arxiv.org/abs/2106.06156)
+
 9. [TKS X: Confirmation of TOI-1444b and a Comparative Analysis of the Ultra-short-period Planets with Hot Neptunes](https://arxiv.org/abs/2105.08844)
 
 8. [The TESS-Keck Survey IV: A Retrograde, Polar Orbit for the Ultra-Low-Density, Hot Super-Neptune WASP-107b](https://arxiv.org/abs/2101.09371)
@@ -86,6 +88,8 @@ We discovered and characterized the second brightest known of these such systems
 1. [The TESS-Keck Survey I: A Warm Sub-Saturn-mass Planet and a Caution about Stray Light in TESS Cameras](https://arxiv.org/abs/2003.10451)
 
 <br>
+
+<!--https://www.youtube.com/watch?v=_drHg6FpYmU -->
 
 
 [Home](./)
