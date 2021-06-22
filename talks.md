@@ -8,12 +8,7 @@ Virtual, June 21, 2021
 
 <br>
 
-<html>
- <body>
-  <iframe src="https://www.youtube.com/watch?v=D7-3lwf4D7E"
-   width="560" height="315" frameborder="0" allowfullscreen></iframe>
- </body>
-</html>
+[![Link]({https://www.youtube.com/watch?v=D7-3lwf4D7E})]({https://www.youtube.com/watch?v=D7-3lwf4D7E} "AoT Penn State June 2021")
 
 <br>
 
