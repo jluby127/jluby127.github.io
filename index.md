@@ -15,6 +15,8 @@ layout: default
 
 [Contact](./contact.md)
 
+[Talks](./talks.md)
+
 [Bookshelf](./books.md)
 
 [Decoy](./decoy.md)
