@@ -7,6 +7,12 @@
 
 <br>
 
+For some reason I have a RateMyProfessor profile, but no one has rated me :(
+
+[Rate Professor(!?) Lubin](https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2575647)
+
+<br>
+
 ### Fall 2018: Physics 52A - Fundamentals of Experimental Physics Lab
 
 Optics: lenses, mirrors, polarization, lasers, optical fibers, interference, spectra

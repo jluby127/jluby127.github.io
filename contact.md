@@ -11,10 +11,11 @@
 
 
 <strong>office:</strong> Frederick Reines Hall
+[My UCI student page](https://www.physics.uci.edu/node/13487)
 
 <br>
 
-<strong>site last updated:</strong> 06-21-2021
+<strong>site last updated:</strong> 07-11-2021
 
 <br>
 

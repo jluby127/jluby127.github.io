@@ -45,8 +45,11 @@ This phenomena has important implications for our understanding of how planets f
 
 <strong>And more...</strong>
 
+<br>
 
+I was the Winter 2021 quarter UCI Physics & Astronomy Department student spotlight! [Read all about it!](https://www.physastroblog.ps.uci.edu/2021/02/26/student-spotlight-jack-lubin/)
 
+<br>
 
 * * *
 
