@@ -70,6 +70,10 @@ We discovered and characterized the second brightest known of these such systems
 
 ### n author
 
+12. [A Second Planet Transiting LTT~1445A and a Determination of the Masses of Both Worlds](https://arxiv.org/abs/2107.14737)
+
+11. [TOI-532b: The Habitable-zone Planet Finder confirms a Large Super Neptune in the Neptune Desert orbiting a metal-rich M dwarf host](https://arxiv.org/abs/2107.13670)
+
 10. [The TESS-Keck Survey: Science Goals and Target Selection](https://arxiv.org/abs/2106.06156)
 
 9. [TKS X: Confirmation of TOI-1444b and a Comparative Analysis of the Ultra-short-period Planets with Hot Neptunes](https://arxiv.org/abs/2105.08844)

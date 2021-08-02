@@ -29,6 +29,6 @@ NY Yankees, NY Football Giants, NY Rangers, Vanderbilt athletics
 
 #### life accomplishments
 
-one hole-in-three, 13/61 national parks, 17/30 baseball parks, 43/50 states
+one hole-in-three, 14/61 national parks, 18/30 baseball parks, 44/50 states
 
 [Home](./)
