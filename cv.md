@@ -4,11 +4,12 @@ Here is my CV, click on the first page to download the whole thing.
   <img src="./updatedCV.png" alt="None">
 </a>-->
 
-<a href="./cv_stuff/LubinCV_May2021.pdf" download>
+<a href="./cv_stuff/LubinCV_Aug2021.pdf" download>
   <img src="./cv_stuff/CV1.png" alt="None">
   <img src="./cv_stuff/CV2.png" alt="None">
   <img src="./cv_stuff/CV3.png" alt="None">
   <img src="./cv_stuff/CV4.png" alt="None">
+  <img src="./cv_stuff/CV5.png" alt="None">
 </a>
 
 

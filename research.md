@@ -64,11 +64,15 @@ We discovered and characterized the second brightest known of these such systems
 
 ### first author
 
+3. [TESS-Keck Survey IX: Masses of Three Sub-Neptunes Orbiting HD 191939 and the Discovery of a Warm Jovian Plus a Distant Sub-Stellar Companion](https://arxiv.org/abs/2108.02208)
+
 2. [Stellar Activity Manifesting at a One Year Alias Explains Barnard b as a False Positive](https://arxiv.org/abs/2105.07005)
 
 1. [A Bright Short Period M-M Eclipsing Binary from the KELT Survey: Magnetic Activity and the Mass-Radius Relationship for M-dwarfs](https://arxiv.org/abs/1706.02401)
 
 ### n author
+
+13. [Constraining the Orbit and Mass of ε Eridani b with Radial Velocities, Hipparcos IAD-{Gaia~DR2} Astrometry, and Multi-epoch Vortex Coronagraphy Upper Limits](https://arxiv.org/abs/2108.02305)
 
 12. [A Second Planet Transiting LTT~1445A and a Determination of the Masses of Both Worlds](https://arxiv.org/abs/2107.14737)
 
