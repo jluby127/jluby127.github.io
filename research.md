@@ -72,6 +72,8 @@ We discovered and characterized the second brightest known of these such systems
 
 ### n author
 
+14. [The TESS-Keck Survey. VI. Two Eccentric sub-Neptunes Orbiting HIP-97166](https://arxiv.org/abs/2110.05628)
+
 13. [Constraining the Orbit and Mass of ε Eridani b with Radial Velocities, Hipparcos IAD-{Gaia~DR2} Astrometry, and Multi-epoch Vortex Coronagraphy Upper Limits](https://arxiv.org/abs/2108.02305)
 
 12. [A Second Planet Transiting LTT~1445A and a Determination of the Masses of Both Worlds](https://arxiv.org/abs/2107.14737)
