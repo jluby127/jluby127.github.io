@@ -50,31 +50,31 @@ Introduction to the solar neighborhood, Milky Way, and other galaxies. Interstel
 
 <br>
 
-### Spring 2020: Physics 7C - Classical Physics \002A Virtual
+### Spring 2020: Physics 7C - Classical Physics &#42;Virtual
 
 Introduction to force, energy, momentum, rotation, and gravity for scientists and engineers.
 
 <br>
 
-### Fall 2020: Physics 14 - Energy and the Environment \002A Virtual
+### Fall 2020: Physics 14 - Energy and the Environment &#42;Virtual
 
 The physics of society’s energy production and consumption, and of their influences on the environment. Topics include fossil and renewable energy resources; nuclear power; prospects for a hydrogen economy; efficient and environmentally benign transportation; efficient home and commercial energy usage.
 
 <br>
 
-### Winter 2021: Physics 20A - Introduction to Astronomy (2nd time) \002A Virtual
+### Winter 2021: Physics 20A - Introduction to Astronomy (2nd time) &#42;Virtual
 
 History of astronomy. Underlying physics. Objects in the solar system and how they are studied. Properties of stars: their formation, structure, and evolution. Pulsars and black holes. Galaxies and quasars.
 
 <br>
 
-### Winter 2021: Physics 138 - Extragalactic Astrophysics (2nd time) \002A Virtual
+### Winter 2021: Physics 138 - Extragalactic Astrophysics (2nd time) &#42;Virtual
 
 Introduction to the solar neighborhood, Milky Way, and other galaxies. Interstellar medium. Star formation. Stellar populations. Evolution of spiral, elliptical, and irregular galaxies. Supermassive black holes, quasars, and active galaxies. Galaxies as probes of the expansion rate of the Universe.
 
 <br>
 
-### Spring 2021: Physics 52C - Fundamentals of Experimental Physics \002A Virtual
+### Spring 2021: Physics 52C - Fundamentals of Experimental Physics &#42;Virtual
 
 Data analysis: random and systematic errors, curve fitting; nuclear counting; quantum experiments. Error analysis: random and systematic errors, curve fitting, nuclear counting, and quantum experiments.
 
