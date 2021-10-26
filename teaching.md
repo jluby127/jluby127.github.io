@@ -50,33 +50,39 @@ Introduction to the solar neighborhood, Milky Way, and other galaxies. Interstel
 
 <br>
 
-### Spring 2020: Physics 7C - Classical Physics
+### Spring 2020: Physics 7C - Classical Physics \002A Virtual
 
 Introduction to force, energy, momentum, rotation, and gravity for scientists and engineers.
 
 <br>
 
-### Fall 2020: Physics 14 - Energy and the Environment
+### Fall 2020: Physics 14 - Energy and the Environment \002A Virtual
 
 The physics of society’s energy production and consumption, and of their influences on the environment. Topics include fossil and renewable energy resources; nuclear power; prospects for a hydrogen economy; efficient and environmentally benign transportation; efficient home and commercial energy usage.
 
 <br>
 
-### Winter 2021: Physics 20A - Introduction to Astronomy (2nd time)
+### Winter 2021: Physics 20A - Introduction to Astronomy (2nd time) \002A Virtual
 
 History of astronomy. Underlying physics. Objects in the solar system and how they are studied. Properties of stars: their formation, structure, and evolution. Pulsars and black holes. Galaxies and quasars.
 
 <br>
 
-### Winter 2021: Physics 138 - Extragalactic Astrophysics (2nd time)
+### Winter 2021: Physics 138 - Extragalactic Astrophysics (2nd time) \002A Virtual
 
 Introduction to the solar neighborhood, Milky Way, and other galaxies. Interstellar medium. Star formation. Stellar populations. Evolution of spiral, elliptical, and irregular galaxies. Supermassive black holes, quasars, and active galaxies. Galaxies as probes of the expansion rate of the Universe.
 
 <br>
 
-### Spring 2021: Physics 52C - Fundamentals of Experimental Physics
+### Spring 2021: Physics 52C - Fundamentals of Experimental Physics \002A Virtual
 
 Data analysis: random and systematic errors, curve fitting; nuclear counting; quantum experiments. Error analysis: random and systematic errors, curve fitting, nuclear counting, and quantum experiments.
+
+<br>
+
+### Fall 2021: Physics 139 - Observational Astrophysics
+
+Telescopes and astronomical observations, imaging with CCD detectors and image processing techniques. Photometry and spectroscopy of stars, galaxies, and quasars. Advanced imaging techniques such as deconvolution, adaptive optics, and interferometry.
 
 <br>
 

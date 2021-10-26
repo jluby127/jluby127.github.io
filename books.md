@@ -1,7 +1,7 @@
 
 ### My Bookshelf
 
-Few things are better than a good book. For me, most "good" books are Sci-Fi, though this is not a hard rule. Here is an abbreviated list of some of may favorites, in no particular order.
+Few things are better than a good book. For me, most "good" books are Sci-Fi, though this is not a hard rule. Here is an abbreviated list of some of my favorites, in no particular order.
 
 <ul type="disc">
     <li> I Am Legend - Richard Matheson </li>

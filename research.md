@@ -60,7 +60,7 @@ We discovered and characterized the second brightest known of these such systems
 
 
 
-# publications
+# publications (most recent on top)
 
 ### first author
 
@@ -71,6 +71,10 @@ We discovered and characterized the second brightest known of these such systems
 1. [A Bright Short Period M-M Eclipsing Binary from the KELT Survey: Magnetic Activity and the Mass-Radius Relationship for M-dwarfs](https://arxiv.org/abs/1706.02401)
 
 ### n author
+
+17. [SOLES II: The Aligned Orbit of WASP-148b, the Only Known Hot Jupiter with a Nearby Warm Jupiter Companion, from NEID and HIRES](https://arxiv.org/abs/2110.08832)
+
+16. [HD207897 b: A dense sub-Neptune transiting a nearby and bright K-type star](https://arxiv.org/abs/2110.08597)
 
 15. [TKS V. Twin sub-Neptunes Transiting the Nearby G Star HD 63935](https://arxiv.org/abs/2110.06885)
 
