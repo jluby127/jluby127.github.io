@@ -72,6 +72,8 @@ We discovered and characterized the second brightest known of these such systems
 
 ### n author
 
+18. [An eccentric Brown Dwarf eclipsing an M dwarf](https://arxiv.org/abs/2112.03959)
+
 17. [SOLES II: The Aligned Orbit of WASP-148b, the Only Known Hot Jupiter with a Nearby Warm Jupiter Companion, from NEID and HIRES](https://arxiv.org/abs/2110.08832)
 
 16. [HD207897 b: A dense sub-Neptune transiting a nearby and bright K-type star](https://arxiv.org/abs/2110.08597)
