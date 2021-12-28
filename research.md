@@ -72,6 +72,8 @@ We discovered and characterized the second brightest known of these such systems
 
 ### n author
 
+19. [TOI 560 : Two Transiting Planets Orbiting a K Dwarf Validated with iSHELL, PFS and HIRES RVs](https://arxiv.org/abs/2112.13448)
+
 18. [An eccentric Brown Dwarf eclipsing an M dwarf](https://arxiv.org/abs/2112.03959)
 
 17. [SOLES II: The Aligned Orbit of WASP-148b, the Only Known Hot Jupiter with a Nearby Warm Jupiter Companion, from NEID and HIRES](https://arxiv.org/abs/2110.08832)
