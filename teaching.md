@@ -86,4 +86,16 @@ Telescopes and astronomical observations, imaging with CCD detectors and image p
 
 <br>
 
+### Winter 2022: Physics 20A - Introduction to Astronomy (3rd time)
+
+History of astronomy. Underlying physics. Objects in the solar system and how they are studied. Properties of stars: their formation, structure, and evolution. Pulsars and black holes. Galaxies and quasars.
+
+<br>
+
+### Winter 2022: Physics 213A - Electromagnetic Theory (Graduate Course)
+
+Electrostatics; magnetostatics; relativity; classical electron theory; fields in vacuum and matter; retardation; radiation and absorption; dispersion; propagation of light; diffraction; geometric optics; theories of the electric and magnetic properties of materials; scattering.
+
+<br>
+
 [Home](./)
