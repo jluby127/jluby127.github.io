@@ -72,6 +72,10 @@ We discovered and characterized the second brightest known of these such systems
 
 ### n author
 
+21. [TESS Giants Transiting Giants II: The hottest Jupiters orbiting evolved stars](https://arxiv.org/abs/2201.04140)
+
+20. [The TESS-Keck Survey. VIII. Confirmation of a Transiting Giant Planet on an Eccentric 261 day Orbit with the Automated Planet Finder Telescope](https://arxiv.org/abs/2201.04146)
+
 19. [TOI 560 : Two Transiting Planets Orbiting a K Dwarf Validated with iSHELL, PFS and HIRES RVs](https://arxiv.org/abs/2112.13448)
 
 18. [An eccentric Brown Dwarf eclipsing an M dwarf](https://arxiv.org/abs/2112.03959)
