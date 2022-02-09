@@ -72,6 +72,8 @@ We discovered and characterized the second brightest known of these such systems
 
 ### n author
 
+22. [Rotational modulation of spectroscopic Zeeman signatures in low-mass stars](https://arxiv.org/abs/2201.11288)
+
 21. [TESS Giants Transiting Giants II: The hottest Jupiters orbiting evolved stars](https://arxiv.org/abs/2201.04140)
 
 20. [The TESS-Keck Survey. VIII. Confirmation of a Transiting Giant Planet on an Eccentric 261 day Orbit with the Automated Planet Finder Telescope](https://arxiv.org/abs/2201.04146)
