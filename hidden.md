@@ -1,0 +1,17 @@
+### Hidden Page full of links to help my page get bumped up in google's algorithm (i think?)
+
+[link1](https://en.wikipedia.org/wiki/HD_191939)
+[link2](https://www.physics.uci.edu/node/13487)
+[link3](https://www.linkedin.com/in/jack-lubin-6647a5105
+[link4](https://www.researchgate.net/scientific-contributions/Jack-Lubin-2128852995)
+[link5](https://ir.vanderbilt.edu/handle/1803/684/browse?type=author&value=Lubin%2C+Jack+B.)
+[link6](https://ir.vanderbilt.edu/handle/1803/7571)
+[link7](https://www.latimes.com/socal/daily-pilot/news/tn-dpt-me-hpfuci-20190311-story.html)
+[link8](https://astronomy.utexas.edu/highlights/in-the-news/entry/astronomers-disprove-planet-orbiting-nearby-barnard-s-star)
+[link9](https://www.astroweiss.com/group)
+[link10](https://www.forbes.com/sites/brucedorminey/2021/05/18/astronomers-nix-idea-of-super-earth-around-barnards-star/?sh=3fa756d3842a)
+[link11](https://www.flickr.com/photos/152191919@N08/48891625896/)
+[link12](https://www.newswise.com/articles/uci-led-team-challenges-existence-of-recently-proposed-exoplanet-at-barnard-s-star)
+[link13](https://en.wikipedia.org/wiki/Barnard%27s_Star)
+[link14](https://www.universetoday.com/151292/new-observations-fail-to-confirm-a-planet-at-barnards-star/)
+[link15]()
