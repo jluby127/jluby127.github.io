@@ -72,6 +72,8 @@ We discovered and characterized the second brightest known of these such systems
 
 ### n author
 
+24. [https://arxiv.org/abs/2204.11895](https://arxiv.org/abs/2204.11895)
+
 23. [TOI-1696 and TOI-2136: Constraining the Masses of Two Mini-Neptunes with HPF](https://arxiv.org/abs/2204.09063)
 
 23. [A close-in puffy Neptune with hidden friends: The enigma of TOI 620](https://arxiv.org/abs/2204.03108)
