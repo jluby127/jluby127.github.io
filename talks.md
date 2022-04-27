@@ -22,7 +22,7 @@ My Mentor Profile: A short discussion of my non-traditional path to graduate sch
 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=W7sDQ9TZFSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W7sDQ9TZFSA?start=3270" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Link](https://www.youtube.com/watch?v=W7sDQ9TZFSA)
 
