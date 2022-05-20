@@ -18,7 +18,7 @@ The Lives and Deaths of Barnard b
 
 Virtual, July 11, 2021
 
-My Mentor Profile: A short discussion of my non-traditional path to graduate school (Skip ahead to 54:30 mark).
+My Mentor Profile: A short discussion of my non-traditional path to graduate school (Video skipped ahead to 54:30 mark).
 
 <br>
 

@@ -72,6 +72,8 @@ We discovered and characterized the second brightest known of these such systems
 
 ### n author
 
+25. [The TESS Grand Unified Hot Jupiter Survey. I. Ten TESS Planets](https://arxiv.org/abs/2205.09728)
+
 24. [The TESS-Keck Survey. XI. Mass Measurements for Four Transiting sub-Neptunes orbiting K dwarf TOI-1246](https://arxiv.org/abs/2204.11895)
 
 23. [TOI-1696 and TOI-2136: Constraining the Masses of Two Mini-Neptunes with HPF](https://arxiv.org/abs/2204.09063)
