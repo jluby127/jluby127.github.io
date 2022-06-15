@@ -28,4 +28,15 @@ My Mentor Profile: A short discussion of my non-traditional path to graduate sch
 
 <br>
 
+<strong>Exoplanets IV - Las Vegas, NV</strong>  
+
+In-Person, May 05, 2022
+
+Stellar Activity Manifesting at a One Year Alias Explains Barnard b as a False Positive
+<br>
+
+<! -- <iframe width="560" height="315" src="/Users/jack/Documents/Other/Talks/ExoplanetsIV-Talk." title="Local Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+<br>
+
 [Home](./)
