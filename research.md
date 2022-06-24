@@ -30,10 +30,13 @@ I work with [Paul Robertson](https://faculty.sites.uci.edu/robertson/) on a vari
 <strong>Building a Better Periodogram:</strong>
 
 Stellar activity is a real nuisance when planet hunting via RV. Activity induced signals,
-from phenomena like star spots, can either mask a true planetary signal or mimic a planet causing false positive detections.
-These signals are inherently tied to the rotation period of the star. The phenomena responsible have varying lifetimes and decay rates across different stellar classifications.
-So how can we determine if a signal is planetary or activity without waiting years hoping that the signal won't disappear?
-We need a better periodogram, one which can not only tell us the periodicity of a signal, but the decay time of the signal as well.
+from phenomena like star spots, can either mask a true planetary signal (false negative) or mimic a planet (false positive).
+These signals are inherently tied to the rotation period of the star but the phenomena responsible have varying lifetimes and decay rates.
+So while they are periodic signals, they are not robust across all time. They will gain and lose signal power over their life cycle, unlike
+a planet signal, which is robust across all time.
+But because activity signals are periodic, our current tools for finding periodic signals will pick up on them, which can cause us to mis-interpret activity signals as planet signals.
+We need new tools which can differentiate between robust sinusoids (planets) and decaying wavelets (activity).
+I am working on building this new periodogram. 
 
 
 <strong>Spin-Orbit Misalignment:</strong>
