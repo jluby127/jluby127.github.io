@@ -39,4 +39,33 @@ Stellar Activity Manifesting at a One Year Alias Explains Barnard b as a False P
 
 <br>
 
+
+<strong>Intro2Astro Research, Free Summer Course </strong>  
+
+Virtual, June 13, 2022
+
+A second time sharing my mentor profile for the course. While the story is the same, I feel I was able to better convey some of my thoughts in this version. A short discussion of my non-traditional path to graduate school (Video skipped ahead to 01:13:25 mark).
+
+<br>
+
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/sMK_ggEVsqA?start=4405" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Link](https://youtu.be/sMK_ggEVsqA?t=4405)
+
+<br>
+
+<strong>Intro2Astro Research, Free Summer Course </strong>  
+
+Virtual, June 26, 2022
+
+I lead the class through a popular science article about the exciting discovey of Proxima b, the closest exoplanet to us! I discuss the article itself, and generally about how to read popular science article through a professional scientific lens. (Video skipped ahead to 43:06 mark).
+
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mJu5psJHVtI?start=2586" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Link](https://youtu.be/mJu5psJHVtI?t=2586)
+
+<br>
+
 [Home](./)
