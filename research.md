@@ -36,7 +36,7 @@ So while they are periodic signals, they are not robust across all time. They wi
 a planet signal, which is robust across all time.
 But because activity signals are periodic, our current tools for finding periodic signals will pick up on them, which can cause us to mis-interpret activity signals as planet signals.
 We need new tools which can differentiate between robust sinusoids (planets) and decaying wavelets (activity).
-I am working on building this new periodogram. 
+I am working on building this new periodogram.
 
 
 <strong>Spin-Orbit Misalignment:</strong>
@@ -74,6 +74,8 @@ We discovered and characterized the second brightest known of these such systems
 1. [A Bright Short Period M-M Eclipsing Binary from the KELT Survey: Magnetic Activity and the Mass-Radius Relationship for M-dwarfs](https://arxiv.org/abs/1706.02401)
 
 ### n author
+
+26. [The TESS-Keck Survey. XIII. An Eccentric Hot Neptune with a Similar-Mass Outer Companion around TOI-1272](https://arxiv.org/abs/2206.14327)
 
 25. [The TESS Grand Unified Hot Jupiter Survey. I. Ten TESS Planets](https://arxiv.org/abs/2205.09728)
 
