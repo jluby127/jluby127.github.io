@@ -68,4 +68,33 @@ I lead the class through a popular science article about the exciting discovey o
 
 <br>
 
+<strong>Intro2Astro Research, Free Summer Course </strong>  
+
+Virtual, July 11, 2022
+
+I lead the class through a guide on CVs. What they are, how to make one, what to put on them.
+
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bw4hvWw0X00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Link](https://www.youtube.com/watch?v=Bw4hvWw0X00&t=7s)
+
+<br>
+
+<strong>Intro2Astro Research, Free Summer Course </strong>  
+
+Virtual, July 18, 2022
+
+I lead the class through a guide on applying to grad school. What you'll need, a general timeline to work with, and details on things like standardized tests, application fees, and letters of recommendation.
+
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BslLI46H-3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Link](https://www.youtube.com/watch?v=BslLI46H-3A)
+
+<br>
+
+
 [Home](./)
