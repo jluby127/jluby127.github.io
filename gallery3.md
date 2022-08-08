@@ -101,47 +101,47 @@ img {
 </style>
 <body>
 
-<h2 style="text-align:center">Slideshow Gallery 123</h2>
+<h2 style="text-align:center">Slideshow Gallery 124</h2>
 
 <div class="container">
   <div class="mySlides">
     <div class="numbertext">1 / 8</div>
-    <img src="images/PhotoGallery/IMG_4540.JPG" min-width=980>
+    <img src="images/PhotoGallery/IMG_4540.JPG">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">2 / 8</div>
-    <img src="images/PhotoGallery/IMG_4555.JPG" min-width=980>
+    <img src="images/PhotoGallery/IMG_4555.JPG">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">3 / 8</div>
-    <img src="images/PhotoGallery/IMG_4572.JPG" min-width=980>
+    <img src="images/PhotoGallery/IMG_4572.JPG">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">4 / 8</div>
-    <img src="images/PhotoGallery/IMG_4586.JPG" style="max-width:980">
+    <img src="images/PhotoGallery/IMG_4586.JPG">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">5 / 8</div>
-    <img src="images/PhotoGallery/IMG_4596.JPG" style="max-width:980">
+    <img src="images/PhotoGallery/IMG_4596.JPG">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">6 / 8</div>
-    <img src="images/PhotoGallery/IMG_4677.JPG" style="max-width:980">
+    <img src="images/PhotoGallery/IMG_4677.JPG">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">7 / 8</div>
-    <img src="images/PhotoGallery/IMG_4685.JPG" style="max-width:980">
+    <img src="images/PhotoGallery/IMG_4685.JPG">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">8 / 8</div>
-    <img src="images/PhotoGallery/IMG_4778.JPG" style="max-width:980">
+    <img src="images/PhotoGallery/IMG_4778.JPG">
   </div>
 
   <a class="prev" onclick="plusSlides(-1)">❮</a>
