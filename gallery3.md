@@ -17,12 +17,13 @@ img {
 /* Position the image container (needed to position the left and right arrows) */
 .container {
   position: center;
-  max-width=1200px;
+  max-width:1200px;
 }
 
 /* Hide the images by default */
 .mySlides {
   display: none;
+  max-width:980px
 }
 
 /* Add a pointer when hovering over the thumbnail images */
@@ -101,12 +102,6 @@ img {
 <body>
 
 <h2 style="text-align:center">Slideshow Gallery</h2>
-
-<style>
-div {
-  max-width: 980;
-  margin: auto;}
-</style>
 
 <div class="container">
   <div class="mySlides">
