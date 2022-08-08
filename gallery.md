@@ -27,8 +27,19 @@ Welcome to my art gallery:
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<img style="position:absolute; TOP:150px; LEFT:600px; WIDTH:600px; HEIGHT:400px" SRC="jackpic6.jpg">
+<img style="position:absolute; TOP:850px; LEFT:200px; WIDTH:600px; HEIGHT:400px" SRC="jackpic6.jpg">
 
 <br>
 <br>
