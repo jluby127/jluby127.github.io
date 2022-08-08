@@ -39,7 +39,7 @@ Welcome to my art gallery:
 <br>
 <br>
 
-<img style="position:absolute; TOP:850px; LEFT:50px; WIDTH:1050px; HEIGHT:700px" SRC="jackpic6.jpg">
+<img style="position:absolute; TOP:850px; LEFT:50px; WIDTH:1550px; HEIGHT:700px" SRC="jackpic6.jpg">
 
 <br>
 <br>
@@ -64,7 +64,7 @@ Welcome to my art gallery:
 <br>
 <br>
 
-<img style="position:absolute; TOP:1650px; LEFT:50px; WIDTH:1050px; HEIGHT:700px" SRC="jackpic6.jpg">
+<img style="position:absolute; TOP:1650px; LEFT:50px; WIDTH:1550px; HEIGHT:700px" SRC="jackpic6.jpg">
 
 <br>
 <br>
