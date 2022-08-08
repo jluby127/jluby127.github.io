@@ -105,42 +105,42 @@ img {
 <div class="container">
   <div class="mySlides">
     <div class="numbertext">1 / 8</div>
-    <img src="jackpic2.jpg" style="width:100%">
+    <img src="jackpic2.jpg" style="width:150%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">2 / 8</div>
-    <img src="jackpic6.jpg" style="width:100%">
+    <img src="jackpic6.jpg" style="width:150%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">3 / 8</div>
-    <img src="jackpic2.jpg" style="width:100%">
+    <img src="jackpic2.jpg" style="width:150%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">4 / 8</div>
-    <img src="jackpic6.jpg" style="width:100%">
+    <img src="jackpic6.jpg" style="width:150%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">5 / 8</div>
-    <img src="jackpic2.jpg" style="width:100%">
+    <img src="jackpic2.jpg" style="width:150%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">6 / 8</div>
-    <img src="jackpic6.jpg" style="width:100%">
+    <img src="jackpic6.jpg" style="width:150%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">7 / 8</div>
-    <img src="jackpic2.jpg" style="width:100%">
+    <img src="jackpic2.jpg" style="width:150%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">8 / 8</div>
-    <img src="jackpic6.jpg style="width:100%">
+    <img src="jackpic6.jpg" style="width:150%">
   </div>
 
   <a class="prev" onclick="plusSlides(-1)">❮</a>
@@ -152,28 +152,28 @@ img {
 
   <div class="row">
     <div class="column">
-      <img class="demo cursor" src="jackpic2.jpg" style="width:100%" onclick="currentSlide(1)" alt="pic 2">
+      <img class="demo cursor" src="jackpic2.jpg" style="width:150%" onclick="currentSlide(1)" alt="pic 2">
     </div>
     <div class="column">
-      <img class="demo cursor" src="jackpic6.jpg" style="width:100%" onclick="currentSlide(2)" alt="pic 3">
+      <img class="demo cursor" src="jackpic6.jpg" style="width:150%" onclick="currentSlide(2)" alt="pic 3">
     </div>
     <div class="column">
-      <img class="demo cursor" src="jackpic2.jpg" style="width:100%" onclick="currentSlide(3)" alt="my kelt double m eb">
+      <img class="demo cursor" src="jackpic2.jpg" style="width:150%" onclick="currentSlide(3)" alt="my kelt double m eb">
     </div>
     <div class="column">
-      <img class="demo cursor" src="jackpic6.jpg" style="width:100%" onclick="currentSlide(4)" alt="pic 5">
+      <img class="demo cursor" src="jackpic6.jpg" style="width:150%" onclick="currentSlide(4)" alt="pic 5">
     </div>
     <div class="column">
-      <img class="demo cursor" src="jackpic2.jpg" style="width:100%" onclick="currentSlide(5)" alt="me in lab gear">
+      <img class="demo cursor" src="jackpic2.jpg" style="width:150%" onclick="currentSlide(5)" alt="me in lab gear">
     </div>
     <div class="column">
-      <img class="demo cursor" src="jackpic6.jpg" style="width:100%" onclick="currentSlide(6)" alt="artist rendering of an exoplanet orbiting an mdwarf which may be habitable idk i'm just looking for a realy long caption here  ">
+      <img class="demo cursor" src="jackpic6.jpg" style="width:150%" onclick="currentSlide(6)" alt="artist rendering of an exoplanet orbiting an mdwarf which may be habitable idk i'm just looking for a realy long caption here  ">
     </div>
     <div class="column">
-      <img class="demo cursor" src="jackpic2.jpg" style="width:100%" onclick="currentSlide(7)" alt="artist rendering of an exoplanet orbiting an mdwarf which may be habitable idk i'm just looking for a realy long caption here  ">
+      <img class="demo cursor" src="jackpic2.jpg" style="width:150%" onclick="currentSlide(7)" alt="artist rendering of an exoplanet orbiting an mdwarf which may be habitable idk i'm just looking for a realy long caption here  ">
     </div>
     <div class="column">
-      <img class="demo cursor" src="jackpic6.jpg" style="width:100%" onclick="currentSlide(8)" alt="artist rendering of an exoplanet orbiting an mdwarf which may be habitable idk i'm just looking for a realy long caption here  ">
+      <img class="demo cursor" src="jackpic6.jpg" style="width:150%" onclick="currentSlide(8)" alt="artist rendering of an exoplanet orbiting an mdwarf which may be habitable idk i'm just looking for a realy long caption here  ">
     </div>
   </div>
 </div>
