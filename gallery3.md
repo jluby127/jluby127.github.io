@@ -1,5 +1,5 @@
 <html>
-<meta name="viewport" content="width=100%, initial-scale=1">
+<meta name="viewport" content="width=980px, initial-scale=1">
 <style>
 body {
   font-family: Arial;
@@ -8,7 +8,6 @@ body {
 
 * {
   box-sizing: border-box;
-  max-width:100%
 }
 
 img {
@@ -18,7 +17,6 @@ img {
 /* Position the image container (needed to position the left and right arrows) */
 .container {
   position: center;
-  max-width:100%;
 }
 
 /* Hide the images by default */
