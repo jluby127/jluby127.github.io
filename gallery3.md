@@ -105,17 +105,17 @@ img {
 <div class="container">
   <div class="mySlides">
     <div class="numbertext">1 / 8</div>
-    <img src="images/PhotoGallery/IMG_4540.JPG" style="max-width:980">
+    <img src="images/PhotoGallery/IMG_4540.JPG">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">2 / 8</div>
-    <img src="images/PhotoGallery/IMG_4555.JPG" style="max-width:980">
+    <img src="images/PhotoGallery/IMG_4555.JPG">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">3 / 8</div>
-    <img src="images/PhotoGallery/IMG_4572.JPG" style="max-width:980">
+    <img src="images/PhotoGallery/IMG_4572.JPG">
   </div>
 
   <div class="mySlides">
