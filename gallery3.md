@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -105,7 +104,7 @@ img {
 <div class="container">
   <div class="mySlides">
     <div class="numbertext">1 / 8</div>
-    <img src="images/PhotoGallery/IMG_4540.JPG" style="width:auto, height:auto">
+    <img src="images/PhotoGallery/IMG_4540.JPG" style="width:auto, max-width:1200px">
   </div>
 
   <div class="mySlides">
