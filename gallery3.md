@@ -17,6 +17,7 @@ img {
 /* Position the image container (needed to position the left and right arrows) */
 .container {
   position: center;
+  max-width=1200px;
 }
 
 /* Hide the images by default */
