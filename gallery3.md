@@ -105,42 +105,42 @@ img {
 <div class="container">
   <div class="mySlides">
     <div class="numbertext">1 / 8</div>
-    <img src="images/PhotoGallery/IMG_4540.JPG" style="width:100%">
+    <img src="images/PhotoGallery/IMG_4540.JPG" style="width:1000px">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">2 / 8</div>
-    <img src="images/PhotoGallery/IMG_4555.JPG" style="width:100%">
+    <img src="images/PhotoGallery/IMG_4555.JPG" style="width:1000px">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">3 / 8</div>
-    <img src="images/PhotoGallery/IMG_4572.JPG" style="width:100%">
+    <img src="images/PhotoGallery/IMG_4572.JPG" style="width:1000px">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">4 / 8</div>
-    <img src="images/PhotoGallery/IMG_4586.JPG" style="width:100%">
+    <img src="images/PhotoGallery/IMG_4586.JPG" style="width:1000px">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">5 / 8</div>
-    <img src="images/PhotoGallery/IMG_4596.JPG" style="width:100%">
+    <img src="images/PhotoGallery/IMG_4596.JPG" style="width:1000px">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">6 / 8</div>
-    <img src="images/PhotoGallery/IMG_4677.JPG" style="width:100%">
+    <img src="images/PhotoGallery/IMG_4677.JPG" style="width:1000px">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">7 / 8</div>
-    <img src="images/PhotoGallery/IMG_4685.JPG" style="width:100%">
+    <img src="images/PhotoGallery/IMG_4685.JPG" style="width:1000px">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">8 / 8</div>
-    <img src="images/PhotoGallery/IMG_4778.JPG" style="width:100%">
+    <img src="images/PhotoGallery/IMG_4778.JPG" style="width:1000px">
   </div>
 
   <a class="prev" onclick="plusSlides(-1)">❮</a>
