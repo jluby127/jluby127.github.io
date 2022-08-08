@@ -71,18 +71,36 @@ body {
 
 <!-- The four columns -->
 <div class="row">
+  <!-- Row 1 -->
   <div class="column">
-    <img src="jackpic2.jpg" alt="Nature" style="width:100%" onclick="myFunction(this);">
+    <img src="jackpic6.jpg" alt="" style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="jackpic3.jpg" alt="Snow" style="width:100%" onclick="myFunction(this);">
+    <img src="jackpic2.jpg" alt="" style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="jackpic4.jpg" alt="Mountains" style="width:100%" onclick="myFunction(this);">
+    <img src="jackpic6.jpg" alt="" style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="jackpic6.jpg" alt="Lights" style="width:100%" onclick="myFunction(this);">
+    <img src="jackpic2.jpg" alt="" style="width:100%" onclick="myFunction(this);">
   </div>
+
+  <!-- Row2 -->
+  <div class="column">
+    <img src="jackpic2.jpg" alt="" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="jackpic6.jpg" alt="" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="jackpic2.jpg" alt="" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="jackpic6.jpg" alt="" style="width:100%" onclick="myFunction(this);">
+  </div>
+
+  <!-- Row3 -->
+
 </div>
 
 <div class="container">
