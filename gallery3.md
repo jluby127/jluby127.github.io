@@ -101,22 +101,22 @@ img {
 </style>
 <body>
 
-<h2 style="text-align:center">Slideshow Gallery</h2>
+<h2 style="text-align:center">Slideshow Gallery 123</h2>
 
 <div class="container">
   <div class="mySlides">
     <div class="numbertext">1 / 8</div>
-    <img src="images/PhotoGallery/IMG_4540.JPG" width=980>
+    <img src="images/PhotoGallery/IMG_4540.JPG" min-width=980>
   </div>
 
   <div class="mySlides">
     <div class="numbertext">2 / 8</div>
-    <img src="images/PhotoGallery/IMG_4555.JPG" width=980>
+    <img src="images/PhotoGallery/IMG_4555.JPG" min-width=980>
   </div>
 
   <div class="mySlides">
     <div class="numbertext">3 / 8</div>
-    <img src="images/PhotoGallery/IMG_4572.JPG" width=980>
+    <img src="images/PhotoGallery/IMG_4572.JPG" min-width=980>
   </div>
 
   <div class="mySlides">
