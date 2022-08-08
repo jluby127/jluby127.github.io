@@ -30,10 +30,10 @@ Welcome to my art gallery:
 
 
 
-<img align="left" src= "jackpic2.jpg" width="400" height="550">
-<img align="right" src= "jackpic2.jpg" width="400" height="550">
-<img align="left" src= "jackpic2.jpg" width="400" height="550">
-<img align="right" src= "jackpic2.jpg" width="400" height="550">
+<img align="left" src= "jackpic2.jpg" width="40" height="55">
+<img align="right" src= "jackpic2.jpg" width="40" height="55">
+<img align="left" src= "jackpic2.jpg" width="40" height="55">
+<img align="right" src= "jackpic2.jpg" width="40" height="55">
 
 
 
