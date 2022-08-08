@@ -1,5 +1,5 @@
 <html>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=100%, initial-scale=1">
 <style>
 body {
   font-family: Arial;
@@ -8,6 +8,7 @@ body {
 
 * {
   box-sizing: border-box;
+  max-width:100%
 }
 
 img {
@@ -17,13 +18,13 @@ img {
 /* Position the image container (needed to position the left and right arrows) */
 .container {
   position: center;
-  max-width:1200px;
+  max-width:100%;
 }
 
 /* Hide the images by default */
 .mySlides {
   display: none;
-  max-width:980px
+  max-width:100%
 }
 
 /* Add a pointer when hovering over the thumbnail images */
@@ -101,47 +102,47 @@ img {
 </style>
 <body>
 
-<h2 style="text-align:center">Slideshow Gallery 124</h2>
+<h2 style="text-align:center">Slideshow Gallery 125</h2>
 
 <div class="container">
   <div class="mySlides">
     <div class="numbertext">1 / 8</div>
-    <img src="images/PhotoGallery/IMG_4540.JPG">
+    <img src="images/PhotoGallery/IMG_4540.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">2 / 8</div>
-    <img src="images/PhotoGallery/IMG_4555.JPG">
+    <img src="images/PhotoGallery/IMG_4555.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">3 / 8</div>
-    <img src="images/PhotoGallery/IMG_4572.JPG">
+    <img src="images/PhotoGallery/IMG_4572.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">4 / 8</div>
-    <img src="images/PhotoGallery/IMG_4586.JPG">
+    <img src="images/PhotoGallery/IMG_4586.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">5 / 8</div>
-    <img src="images/PhotoGallery/IMG_4596.JPG">
+    <img src="images/PhotoGallery/IMG_4596.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">6 / 8</div>
-    <img src="images/PhotoGallery/IMG_4677.JPG">
+    <img src="images/PhotoGallery/IMG_4677.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">7 / 8</div>
-    <img src="images/PhotoGallery/IMG_4685.JPG">
+    <img src="images/PhotoGallery/IMG_4685.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">8 / 8</div>
-    <img src="images/PhotoGallery/IMG_4778.JPG">
+    <img src="images/PhotoGallery/IMG_4778.JPG" style="width:100%">
   </div>
 
   <a class="prev" onclick="plusSlides(-1)">❮</a>
