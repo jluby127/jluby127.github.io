@@ -104,42 +104,42 @@ img {
 
 <div class="container">
   <div class="mySlides">
-    <div class="numbertext">1 / 6</div>
+    <div class="numbertext">1 / 8</div>
     <img src="images/PhotoGallery/IMG_4540.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">2 / 6</div>
+    <div class="numbertext">2 / 8</div>
     <img src="images/PhotoGallery/IMG_4555.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">3 / 6</div>
+    <div class="numbertext">3 / 8</div>
     <img src="images/PhotoGallery/IMG_4572.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">4 / 6</div>
+    <div class="numbertext">4 / 8</div>
     <img src="images/PhotoGallery/IMG_4586.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">5 / 6</div>
+    <div class="numbertext">5 / 8</div>
     <img src="images/PhotoGallery/IMG_4596.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">6 / 6</div>
+    <div class="numbertext">6 / 8</div>
     <img src="images/PhotoGallery/IMG_4677.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">6 / 6</div>
+    <div class="numbertext">7 / 8</div>
     <img src="images/PhotoGallery/IMG_4685.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">6 / 6</div>
+    <div class="numbertext">8 / 8</div>
     <img src="images/PhotoGallery/IMG_4778.JPG" style="width:100%">
   </div>
 
@@ -170,10 +170,10 @@ img {
       <img class="demo cursor" src="images/PhotoGallery/IMG_4677.JPG" style="width:100%" onclick="currentSlide(6)" alt="4677">
     </div>
     <div class="column">
-      <img class="demo cursor" src="images/PhotoGallery/IMG_4686.JPG" style="width:100%" onclick="currentSlide(6)" alt="4685">
+      <img class="demo cursor" src="images/PhotoGallery/IMG_4685.JPG" style="width:100%" onclick="currentSlide(7)" alt="4685">
     </div>
     <div class="column">
-      <img class="demo cursor" src="images/PhotoGallery/IMG_4778.JPG" style="width:100%" onclick="currentSlide(6)" alt="4778">
+      <img class="demo cursor" src="images/PhotoGallery/IMG_4778.JPG" style="width:100%" onclick="currentSlide(8)" alt="4778">
     </div>
   </div>
 </div>
