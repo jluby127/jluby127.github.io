@@ -105,7 +105,7 @@ img {
 <div class="container">
   <div class="mySlides">
     <div class="numbertext">1 / 8</div>
-    <img src="images/PhotoGallery/IMG_4540.JPG">
+    <img src="images/PhotoGallery/IMG_4540.JPG" max-width=980>
   </div>
 
   <div class="mySlides">
