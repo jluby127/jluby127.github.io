@@ -102,6 +102,12 @@ img {
 
 <h2 style="text-align:center">Slideshow Gallery</h2>
 
+<style>
+div {
+  max-width: 980;
+  margin: auto;}
+</style>
+
 <div class="container">
   <div class="mySlides">
     <div class="numbertext">1 / 8</div>
