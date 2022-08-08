@@ -104,32 +104,42 @@ img {
 
 <div class="container">
   <div class="mySlides">
-    <div class="numbertext">1 / 6</div>
+    <div class="numbertext">1 / 8</div>
     <img src="jackpic2.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">2 / 6</div>
+    <div class="numbertext">2 / 8</div>
     <img src="jackpic3.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">3 / 6</div>
+    <div class="numbertext">3 / 8</div>
     <img src="keltks20.png" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">4 / 6</div>
+    <div class="numbertext">4 / 8</div>
     <img src="jackpic5.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">5 / 6</div>
+    <div class="numbertext">5 / 8</div>
     <img src="jackpic6.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">6 / 6</div>
+    <div class="numbertext">6 / 8</div>
+    <img src="output-onlinepngtools.png" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">7 / 8</div>
+    <img src="output-onlinepngtools.png" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">8 / 8</div>
     <img src="output-onlinepngtools.png" style="width:100%">
   </div>
 
@@ -158,6 +168,12 @@ img {
     </div>
     <div class="column">
       <img class="demo cursor" src="output-onlinepngtools.png" style="width:100%" onclick="currentSlide(6)" alt="artist rendering of an exoplanet orbiting an mdwarf which may be habitable idk i'm just looking for a realy long caption here  ">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="output-onlinepngtools.png" style="width:100%" onclick="currentSlide(7)" alt="artist rendering of an exoplanet orbiting an mdwarf which may be habitable idk i'm just looking for a realy long caption here  ">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="output-onlinepngtools.png" style="width:100%" onclick="currentSlide(8)" alt="artist rendering of an exoplanet orbiting an mdwarf which may be habitable idk i'm just looking for a realy long caption here  ">
     </div>
   </div>
 </div>
