@@ -112,7 +112,7 @@ h1 {
 </div>
 
 <!-- Portfolio Gallery Grid -->
-<div class="row">
+<!-- <div class="row">
   <div class="column">
     <div class="content">
       <img src="/w3images/mountains.jpg" alt="Mountains" style="width:100%">
@@ -143,9 +143,9 @@ h1 {
       <h3><a href="https://jluby127.github.io/galleries/gallery_sequoia.html"> Sequoia & King's Canyon</a></h3>
       <p>I couldn't shake the strong feelings of Yosemite with the canyon's granite cliff faces towering over the valley floor. Yet maybe a tenth of the people in the park. </p>
     </div>
-  </div>
+  </div> -->
 <!-- END GRID -->
-</div>
+<!-- </div> -->
 
 
 <!-- END MAIN -->
