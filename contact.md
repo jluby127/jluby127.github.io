@@ -1,5 +1,5 @@
 
-<img align="right" src= "./jackpic2.jpg" width="350" height="350">
+<img align="right" src= "./images/IndvPagePhotos/sendjack2space.jpg" width="350" height="350">
 
 <strong>email:</strong> jlubin [at] uci [dot] edu
 

@@ -5,4 +5,6 @@
 <br>
 <br>
 
-I have started a small business putting on stargazing shows for private events. 
+I have started a small business putting on stargazing shows for private events.
+
+This page will be the home for information on this.

@@ -2,7 +2,7 @@
 ## [UCI Physics Course Catalog](http://catalogue.uci.edu/allcourses/physics/)
 
 <figure>
- <img align="right" src="./jackpic6.jpg" width="350" height="300"/>
+ <img align="right" src="./images/IndvPagePhotos/ready2teach.jpg" width="350" height="300"/>
 </figure>
 
 <br>

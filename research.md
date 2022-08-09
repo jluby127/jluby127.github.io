@@ -1,4 +1,4 @@
-<img align="right" src="./temp3.jpg" width="250" height="300">
+<img align="right" src="./images/IndvPagePhotos/systemsgo.jpg" width="250" height="300">
 
 <strong>A little bit about my research</strong>
 
@@ -20,7 +20,7 @@ Here I am at Cape Canaveral with friends test driving an Apollo capsule model. A
 * * *
 
 
-<center><img  src="./jackpic5.jpg" width="400" height="500"></center>
+<center><img  src="./images/IndvPagePhotos/waterfalltheater.jpg" width="400" height="500"></center>
 <center>Here I am presenting My Research at the world-famous Desert Waterfall Theater.</center>
 
 <br>
@@ -59,7 +59,7 @@ I was the Winter 2021 quarter UCI Physics & Astronomy Department student spotlig
 As an undergraduate at Vanderbilt, I worked with Professor [Keivan Stassun](http://astro.phy.vanderbilt.edu/~stassuk/) and (now Assistant Professor at Michigan State University) [Joseph Rodriguez](https://sites.google.com/site/josepherodriguezjr/) on double M dwarf eclipsing binaries.
 We discovered and characterized the second brightest known of these such systems with the hope that the tight constraints we placed on mass, radius, and temperature can assist the theorists in refining their models of low mass stars.
 
-<center><img align="middle" src= "./keltks20.png" width="600" height="500"></center>
+<center><img align="middle" src= "./images/IndvPagePhotos/keltks20.png" width="600" height="500"></center>
 
 
 
