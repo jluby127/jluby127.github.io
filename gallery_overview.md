@@ -108,12 +108,38 @@ h1 {
       <p>I couldn't shake the strong feelings of Yosemite with the canyon's granite cliff faces towering over the valley floor. Yet maybe a tenth of the people in the park. </p>
     </div>
   </div>
+<!-- END GRID -->
+<!-- Portfolio Gallery Grid -->
+<div class="row">
+  <div class="column">
+    <div class="content">
+      <img src="/w3images/mountains.jpg" alt="Mountains" style="width:100%">
+      <h3><a href="https://jluby127.github.io/galleries/gallery_painting.html">Zion National Park</h3>
+      <p>Sometimes I like to try painting. Here is my virtual show room.</p>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="content">
+    <img src="/w3images/lights.jpg" alt="Lights" style="width:100%">
+      <h3><a href="https://jluby127.github.io/galleries/gallery_glacier.html"> Glacier National Park</h3>
+      <p>Instantly my new favorite park. The views, the lakes, the wildlife, a ridiculously windy road and a true at-one-with-Nature feel. 10/10 would recommend and can't wait to go back. </p>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="content">
+    <img src="/w3images/nature.jpg" alt="Nature" style="width:100%">
+      <h3><a href="https://jluby127.github.io/galleries/gallery_joshuatree.html"> Joshua Tree</a></h3>
+      <p>LA's nearest National park, I've gone out a few times to see the spikey looking "trees" and climb in the playground of boulders.</p>
+    </div>
+  </div>
 
   <div class="column">
     <div class="content">
     <img src="/w3images/mountains.jpg" alt="Mountains" style="width:100%">
-      <h3><a href="https://jluby127.github.io/galleries/gallery_painting.html"> My Paintings</a></h3>
-      <p>Sometimes I like to free hand paint. Here is my virtual showroom. </p>
+      <h3><a href="https://jluby127.github.io/galleries/gallery_sequoia.html"> Sequoia & King's Canyon</a></h3>
+      <p>I couldn't shake the strong feelings of Yosemite with the canyon's granite cliff faces towering over the valley floor. Yet maybe a tenth of the people in the park. </p>
     </div>
   </div>
 <!-- END GRID -->
