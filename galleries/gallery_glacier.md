@@ -196,5 +196,6 @@ function showSlides(n) {
 </body>
 </html>
 
-[Back](./gallery_overview2.md)
-[Home](./)
+[Back](./../gallery_overview2.html)
+<br>
+[Home](./../)
