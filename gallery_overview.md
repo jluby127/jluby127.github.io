@@ -12,7 +12,7 @@ body {
   font-family: Arial;
 }
 
-/* Center website */
+<!-- /* Center website */ -->
 .main {
   max-width: 1000px;
   margin: auto;
@@ -27,39 +27,39 @@ h1 {
   margin: 8px -16px;
 }
 
-/* Add padding BETWEEN each column */
+<!-- /* Add padding BETWEEN each column */ -->
 .row,
 .row > .column {
   padding: 8px;
 }
 
-/* Create four equal columns that floats next to each other */
+<!-- /* Create four equal columns that floats next to each other */ -->
 .column {
   float: left;
   width: 25%;
 }
 
-/* Clear floats after rows */
+<!-- /* Clear floats after rows */ -->
 .row:after {
   content: "";
   display: table;
   clear: both;
 }
 
-/* Content */
+<!-- /* Content */ -->
 .content {
   background-color: white;
   padding: 10px;
 }
 
-/* Responsive layout - makes a two column-layout instead of four columns */
+<!-- /* Responsive layout - makes a two column-layout instead of four columns */ -->
 @media screen and (max-width: 900px) {
   .column {
     width: 50%;
   }
 }
 
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+<!-- /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */ -->
 @media screen and (max-width: 600px) {
   .column {
     width: 100%;
@@ -104,7 +104,7 @@ h1 {
   <div class="column">
     <div class="content">
     <img src="/w3images/mountains.jpg" alt="Mountains" style="width:100%">
-      <h3><a href="https://jluby127.github.io/gallery_sequoia.html" target="_blank">Sequoia & King's Canyon</a></h3>
+      <h3><a href="https://jluby127.github.io/gallery_sequoia.html"> Sequoia & King's Canyon</a></h3>
       <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
     </div>
   </div>
@@ -117,3 +117,5 @@ h1 {
 
 </body>
 </html>
+
+[Home](./)
