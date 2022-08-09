@@ -109,10 +109,8 @@ h1 {
     </div>
   </div>
 <!-- END GRID -->
-</div>
-
 <!-- Portfolio Gallery Grid -->
-<!-- <div class="row">
+<div class="row">
   <div class="column">
     <div class="content">
       <img src="/w3images/mountains.jpg" alt="Mountains" style="width:100%">
@@ -145,8 +143,7 @@ h1 {
     </div>
   </div> -->
 <!-- END GRID -->
-<!-- </div> -->
-
+</div>
 
 <!-- END MAIN -->
 </div>
