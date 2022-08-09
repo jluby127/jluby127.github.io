@@ -72,28 +72,27 @@ h1 {
 <!-- MAIN (Center website) -->
 <div class="main">
 
-<h1>MYLOGO.COM</h1>
+<h1>Galleries</h1>
 <hr>
-
-<h2>PORTFOLIO</h2>
-<p>Resize the browser window to see the responsive effect.</p>
 
 <!-- Portfolio Gallery Grid -->
 <div class="row">
   <div class="column">
     <div class="content">
       <img src="/w3images/mountains.jpg" alt="Mountains" style="width:100%">
-      <h3>My Work</h3>
-      <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+      <h3><a href="https://jluby127.github.io/galleries/gallery_zion.html">Zion National Park</h3>
+      <p>I am always fascinated by colors of the desert red rocks. I didn't have long in the park, but we made the most of it. Will need to go back to do the Narrows and build up the courage to inch along the chains at the top of Angel's Landing.</p>
     </div>
   </div>
+
   <div class="column">
     <div class="content">
     <img src="/w3images/lights.jpg" alt="Lights" style="width:100%">
-      <h3>My Work</h3>
-      <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+      <h3><a href="https://jluby127.github.io/galleries/gallery_glacier.html"> Glacier National Park</h3>
+      <p>Instantly my new favorite park. The views, the lakes, the wildlife, a ridiculously windy road and a true at-one-with-Nature feel. 10/10 would recommend and can't wait to go back. </p>
     </div>
   </div>
+
   <div class="column">
     <div class="content">
     <img src="/w3images/nature.jpg" alt="Nature" style="width:100%">
@@ -101,11 +100,20 @@ h1 {
       <p>LA's nearest National park, I've gone out a few times to see the spikey looking "trees" and climb in the playground of boulders.</p>
     </div>
   </div>
+
   <div class="column">
     <div class="content">
     <img src="/w3images/mountains.jpg" alt="Mountains" style="width:100%">
       <h3><a href="https://jluby127.github.io/galleries/gallery_sequoia.html"> Sequoia & King's Canyon</a></h3>
-      <p>I came into these parks having done almost no research on them but was totally blown away. The canyon feels strongly Yosemite-esque with granite cliff faces towering over the valley floor, yet maybe a tenth of the people in the park. </p>
+      <p>I couldn't shake the strong feelings of Yosemite with the canyon's granite cliff faces towering over the valley floor. Yet maybe a tenth of the people in the park. </p>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="content">
+    <img src="/w3images/mountains.jpg" alt="Mountains" style="width:100%">
+      <h3><a href="https://jluby127.github.io/galleries/gallery_painting.html"> My Paintings</a></h3>
+      <p>Sometimes I like to free hand paint. Here is my virtual showroom. </p>
     </div>
   </div>
 <!-- END GRID -->

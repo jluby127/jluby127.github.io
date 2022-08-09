@@ -100,47 +100,47 @@ img {
 </style>
 <body>
 
-<h2 style="text-align:center">Photos from Joshua Tree National Park - February 2021</h2>
+<h2 style="text-align:center">Photos from Zion National Park - June 2019</h2>
 
 <div class="container">
   <div class="mySlides">
     <div class="numbertext">1 / 8</div>
-    <img src="images/PhotoGallery/joshua/IMG_4540.JPG" style="width:100%">
+    <img src="images/PhotoGallery/zion/IMG_4540.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">2 / 8</div>
-    <img src="images/PhotoGallery/joshua/IMG_4555.JPG" style="width:100%">
+    <img src="images/PhotoGallery/zion/IMG_4555.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">3 / 8</div>
-    <img src="images/PhotoGallery/joshua/IMG_4572.JPG" style="width:100%">
+    <img src="images/PhotoGallery/zion/IMG_4572.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">4 / 8</div>
-    <img src="images/PhotoGallery/joshua/IMG_4586.JPG" style="width:100%">
+    <img src="images/PhotoGallery/zion/IMG_4586.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">5 / 8</div>
-    <img src="images/PhotoGallery/joshua/IMG_4596.JPG" style="width:100%">
+    <img src="images/PhotoGallery/zion/IMG_4596.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">6 / 8</div>
-    <img src="images/PhotoGallery/joshua/IMG_4677.JPG" style="width:100%">
+    <img src="images/PhotoGallery/zion/IMG_4677.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">7 / 8</div>
-    <img src="images/PhotoGallery/joshua/IMG_4685.JPG" style="width:100%">
+    <img src="images/PhotoGallery/zion/IMG_4685.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">8 / 8</div>
-    <img src="images/PhotoGallery/joshua/IMG_4778.JPG" style="width:100%">
+    <img src="images/PhotoGallery/zion/IMG_4778.JPG" style="width:100%">
   </div>
 
   <a class="prev" onclick="plusSlides(-1)">❮</a>
@@ -152,28 +152,28 @@ img {
 
   <div class="row">
     <div class="column">
-      <img class="demo cursor" src="images/PhotoGallery/joshua/IMG_4540.JPG" style="width:100%" onclick="currentSlide(1)" alt="4540">
+      <img class="demo cursor" src="images/PhotoGallery/zion/IMG_4540.JPG" style="width:100%" onclick="currentSlide(1)" alt="4540">
     </div>
     <div class="column">
-      <img class="demo cursor" src="images/PhotoGallery/joshua/IMG_4555.JPG" style="width:100%" onclick="currentSlide(2)" alt="4555">
+      <img class="demo cursor" src="images/PhotoGallery/zion/IMG_4555.JPG" style="width:100%" onclick="currentSlide(2)" alt="4555">
     </div>
     <div class="column">
-      <img class="demo cursor" src="images/PhotoGallery/joshua/IMG_4572.JPG" style="width:100%" onclick="currentSlide(3)" alt="4572">
+      <img class="demo cursor" src="images/PhotoGallery/zion/IMG_4572.JPG" style="width:100%" onclick="currentSlide(3)" alt="4572">
     </div>
     <div class="column">
-      <img class="demo cursor" src="images/PhotoGallery/joshua/IMG_4586.JPG" style="width:100%" onclick="currentSlide(4)" alt="4586">
+      <img class="demo cursor" src="images/PhotoGallery/zion/IMG_4586.JPG" style="width:100%" onclick="currentSlide(4)" alt="4586">
     </div>
     <div class="column">
-      <img class="demo cursor" src="images/PhotoGallery/joshua/IMG_4596.JPG" style="width:100%" onclick="currentSlide(5)" alt="4596">
+      <img class="demo cursor" src="images/PhotoGallery/zion/IMG_4596.JPG" style="width:100%" onclick="currentSlide(5)" alt="4596">
     </div>
     <div class="column">
-      <img class="demo cursor" src="images/PhotoGallery/joshua/IMG_4677.JPG" style="width:100%" onclick="currentSlide(6)" alt="4677">
+      <img class="demo cursor" src="images/PhotoGallery/zion/IMG_4677.JPG" style="width:100%" onclick="currentSlide(6)" alt="4677">
     </div>
     <div class="column">
-      <img class="demo cursor" src="images/PhotoGallery/joshua/IMG_4685.JPG" style="width:100%" onclick="currentSlide(7)" alt="4685">
+      <img class="demo cursor" src="images/PhotoGallery/zion/IMG_4685.JPG" style="width:100%" onclick="currentSlide(7)" alt="4685">
     </div>
     <div class="column">
-      <img class="demo cursor" src="images/PhotoGallery/joshua/IMG_4778.JPG" style="width:100%" onclick="currentSlide(8)" alt="4778">
+      <img class="demo cursor" src="images/PhotoGallery/zion/IMG_4778.JPG" style="width:100%" onclick="currentSlide(8)" alt="4778">
     </div>
   </div>
 </div>
