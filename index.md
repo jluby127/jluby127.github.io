@@ -17,7 +17,7 @@ layout: default
 
 [Talks](./talks.md)
 
-[Galleries](./gallery_overview.md)
+[Galleries](./gallery_overview2.md)
 
 [Bookshelf](./books.md)
 
