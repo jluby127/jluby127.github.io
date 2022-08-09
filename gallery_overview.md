@@ -141,7 +141,7 @@ h1 {
       <h3><a href="https://jluby127.github.io/galleries/gallery_sequoia.html"> Sequoia & King's Canyon</a></h3>
       <p>I couldn't shake the strong feelings of Yosemite with the canyon's granite cliff faces towering over the valley floor. Yet maybe a tenth of the people in the park. </p>
     </div>
-  </div> -->
+  </div>
 <!-- END GRID -->
 </div>
 
