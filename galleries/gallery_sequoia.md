@@ -105,32 +105,32 @@ img {
 <div class="container">
   <div class="mySlides">
     <div class="numbertext">1 / 6</div>
-    <img src="images/PhotoGallery/sequoia/IMG_4540.JPG" style="width:100%">
+    <img src="./../images/PhotoGallery/sequoia/IMG_4540.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">2 / 6</div>
-    <img src="images/PhotoGallery/sequoia/IMG_4555.JPG" style="width:100%">
+    <img src="./../images/PhotoGallery/sequoia/IMG_4555.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">3 / 6</div>
-    <img src="images/PhotoGallery/sequoia/IMG_4572.JPG" style="width:100%">
+    <img src="./../images/PhotoGallery/sequoia/IMG_4572.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">4 / 6</div>
-    <img src="images/PhotoGallery/sequoia/IMG_4586.JPG" style="width:100%">
+    <img src="./../images/PhotoGallery/sequoia/IMG_4586.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">5 / 6</div>
-    <img src="images/PhotoGallery/sequoia/IMG_4596.JPG" style="width:100%">
+    <img src="./../images/PhotoGallery/sequoia/IMG_4596.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">6 / 6</div>
-    <img src="images/PhotoGallery/sequoia/IMG_4677.JPG" style="width:100%">
+    <img src="./../images/PhotoGallery/sequoia/IMG_4677.JPG" style="width:100%">
   </div>
 
   <a class="prev" onclick="plusSlides(-1)">❮</a>
@@ -142,22 +142,22 @@ img {
 
   <div class="row">
     <div class="column">
-      <img class="demo cursor" src="images/PhotoGallery/sequoia/IMG_4540.JPG" style="width:100%" onclick="currentSlide(1)" alt="4540">
+      <img class="demo cursor" src="./../images/PhotoGallery/sequoia/IMG_4540.JPG" style="width:100%" onclick="currentSlide(1)" alt="4540">
     </div>
     <div class="column">
-      <img class="demo cursor" src="images/PhotoGallery/sequoia/IMG_4555.JPG" style="width:100%" onclick="currentSlide(2)" alt="4555">
+      <img class="demo cursor" src="./../images/PhotoGallery/sequoia/IMG_4555.JPG" style="width:100%" onclick="currentSlide(2)" alt="4555">
     </div>
     <div class="column">
-      <img class="demo cursor" src="images/PhotoGallery/sequoia/IMG_4572.JPG" style="width:100%" onclick="currentSlide(3)" alt="4572">
+      <img class="demo cursor" src="./../images/PhotoGallery/sequoia/IMG_4572.JPG" style="width:100%" onclick="currentSlide(3)" alt="4572">
     </div>
     <div class="column">
-      <img class="demo cursor" src="images/PhotoGallery/sequoia/IMG_4586.JPG" style="width:100%" onclick="currentSlide(4)" alt="4586">
+      <img class="demo cursor" src="./../images/PhotoGallery/sequoia/IMG_4586.JPG" style="width:100%" onclick="currentSlide(4)" alt="4586">
     </div>
     <div class="column">
-      <img class="demo cursor" src="images/PhotoGallery/sequoia/IMG_4596.JPG" style="width:100%" onclick="currentSlide(5)" alt="4596">
+      <img class="demo cursor" src="./../images/PhotoGallery/sequoia/IMG_4596.JPG" style="width:100%" onclick="currentSlide(5)" alt="4596">
     </div>
     <div class="column">
-      <img class="demo cursor" src="images/PhotoGallery/sequoia/IMG_4677.JPG" style="width:100%" onclick="currentSlide(6)" alt="4677">
+      <img class="demo cursor" src="./../images/PhotoGallery/sequoia/IMG_4677.JPG" style="width:100%" onclick="currentSlide(6)" alt="4677">
     </div>
   </div>
 </div>
@@ -196,5 +196,6 @@ function showSlides(n) {
 </body>
 </html>
 
-[Back](./gallery_overview2.md)
-[Home](./)
+[Back](./../gallery_overview2.html)
+<br>
+[Home](./../)

@@ -89,14 +89,14 @@ h1 {
   <div class="column">
     <div class="content">
     <img src="./images/PhotoGallery/SectionCoverPics/scifi.JPG" alt="Sci-Fi" style="width:100%">
-      <h3>Short Stories</h3>
+      <h3><a href="https://jluby127.github.io/galleries/writing.html">Short Stories</a></h3>
       <p>A virtual bookshelf for my hobby of writing sci-fi short stories.</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
     <img src="./images/PhotoGallery/SectionCoverPics/nonfic.JPG" alt="Non-Fiction" style="width:100%">
-      <h3>Non-Fiction Writing</h3>
+      <h3>Non-Fiction</h3>
       <p>A virtual bookshelf for my aspirational goal to publish a non-fiction book.</p>
     </div>
   </div>

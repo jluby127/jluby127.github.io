@@ -27,5 +27,6 @@ Here is slowing growing bibliography with short synopses.
 
 </ul>
 
-[Back](./gallery_overview2.md)
-[Home](./)
+[Back](./../gallery_overview2.html)
+<br>
+[Home](./../)
