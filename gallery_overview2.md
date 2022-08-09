@@ -102,8 +102,8 @@ h1 {
   </div>
   <div class="column">
     <div class="content">
-    <img src="/Users/jack/Documents/MyWebsite/images/PhotoGallery/SectionCoverPics/glacier.JPG" alt="Glacier" style="width:100%">
-      <h3><a href="https://jluby127.github.io/gallery_glacier.html">Photography: Glacier National Park</a></h3>
+    <img src="./images/PhotoGallery/SectionCoverPics/glacier.JPG" alt="Glacier" style="width:100%">
+      <h3><a href="https://jluby127.github.io/galleries/gallery_glacier.html">Photography: Glacier National Park</a></h3>
       <p>A gallery of my favorite six photos from my trip to Glacier National Park in July 2021.</p>
     </div>
   </div>
