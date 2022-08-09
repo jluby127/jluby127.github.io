@@ -109,6 +109,8 @@ h1 {
     </div>
   </div>
 <!-- END GRID -->
+</div>
+
 <!-- Portfolio Gallery Grid -->
 <div class="row">
   <div class="column">
