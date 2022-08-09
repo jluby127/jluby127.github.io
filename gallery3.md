@@ -100,7 +100,7 @@ img {
 </style>
 <body>
 
-<h2 style="text-align:center">Slideshow Gallery 127</h2>
+<h2 style="text-align:center">Photos from </h2>
 
 <div class="container">
   <div class="mySlides">

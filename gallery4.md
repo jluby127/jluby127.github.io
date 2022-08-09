@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -94,9 +93,14 @@ body {font-family: Arial, Helvetica, sans-serif;}
 </head>
 <body>
 
-<h2>Image Modal</h2>
-<p>In this example, we use CSS to create a modal (dialog box) that is hidden by default.</p>
-<p>We use JavaScript to trigger the modal and to display the current image inside the modal when it is clicked on. Also note that we use the value from the image's "alt" attribute as an image caption text inside the modal.</p>
+<h2>My Art Gallery</h2>
+<p>I enjoy taking pictures with my Canon DSLR Rebel t6 camera. Through my travels, I taken some photos that I particularly enjoy and am proud of. I'd like to share some of them here.</p>
+<p>These are curated from my total collection and presented with small captions describing the image and my feelings and thoughts for the image.
+  I don't claim these photos to be "good". I am not a professional, or even a dedicated amateur photographer. 
+  I do not perform any post processing or editing of my photos.
+  I have no intention of selling photos (not that anyone is asking) nor using these for anything beyond my own enjoyment of viewing them and reliving the experiences behind them.
+  I merely enjoy trying to capture images of scenes that I find very beautiful.</p>
+
 
 <img id="myImg" src="jackpic6.jpg" alt="pic6" style="width:100%;max-width:300px">
 <img id="myImg" src="jackpic6.jpg" alt="pic6 2" style="width:100%;max-width:300px">
