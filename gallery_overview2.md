@@ -103,8 +103,8 @@ h1 {
   <div class="column">
     <div class="content">
     <img src="./images/PhotoGallery/SectionCoverPics/glacier.JPG" alt="Glacier" style="width:100%">
-      <h3><a href="https://jluby127.github.io/galleries/gallery_glacier.html">Photography: Glacier National Park</a></h3>
-      <p>A gallery of my favorite six photos from my trip to Glacier National Park in July 2021.</p>
+      <h3><a href="https://jluby127.github.io/galleries/gallery_glacier.html">Photos: Glacier NP</a></h3>
+      <p>My favorite 6 photos from Glacier National Park, July 2021.</p>
     </div>
   </div>
 <!-- END GRID -->
@@ -112,9 +112,9 @@ h1 {
 <div class="row">
   <div class="column">
     <div class="content">
-      <img src="/w3images/mountains.jpg" alt="Mountains" style="width:100%">
-      <h3>My Work</h3>
-      <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+      <img src="./images/PhotoGallery/SectionCoverPics/sequoia.JPG" alt="Sequoia" style="width:100%">
+      <h3<a href="https://jluby127.github.io/galleries/gallery_sequoia.html">Photos: Sequoia NP</a></h3>
+      <p>My favorite 6 photos from Sequoia National Park, August 2022.</p>
     </div>
   </div>
   <div class="column">

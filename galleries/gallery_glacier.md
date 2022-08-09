@@ -195,3 +195,6 @@ function showSlides(n) {
 
 </body>
 </html>
+
+[Back](./gallery_overview2.md)
+[Home](./)
