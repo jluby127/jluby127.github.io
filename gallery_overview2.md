@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -73,40 +72,39 @@ h1 {
 <!-- MAIN (Center website) -->
 <div class="main">
 
-<h1>MYLOGO.COM</h1>
+<h1>My Galleries</h1>
 <hr>
 
-<h2>PORTFOLIO</h2>
-<p>Resize the browser window to see the responsive effect.</p>
+<h2>Art and Science are one and the same. While I pursue science professionally, I enjoy art recreationally. Here is my virtual gallery. I hope you enjoy!</h2>
 
 <!-- Portfolio Gallery Grid -->
 <div class="row">
   <div class="column">
     <div class="content">
-      <img src="/w3images/mountains.jpg" alt="Mountains" style="width:100%">
-      <h3>My Work</h3>
-      <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+      <img src="/Users/jack/Documents/MyWebsite/images/SectionCoverPics/painting.JPG" alt="Painting" style="width:100%">
+      <h3>Paintings</h3>
+      <p>A virtual show room gallery of my painting hobby.</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
-    <img src="/w3images/lights.jpg" alt="Lights" style="width:100%">
-      <h3>My Work</h3>
-      <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+    <img src="/Users/jack/Documents/MyWebsite/images/SectionCoverPics/scifi.JPG" alt="Sci-Fi" style="width:100%">
+      <h3>Short Stories</h3>
+      <p>A virtual bookshelf for my hobby of writing sci-fi short stories.</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
-    <img src="/w3images/nature.jpg" alt="Nature" style="width:100%">
-      <h3>My Work</h3>
-      <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+    <img src="/Users/jack/Documents/MyWebsite/images/SectionCoverPics/nonfic.JPG" alt="Non-Fiction" style="width:100%">
+      <h3>Non-Fiction Writing</h3>
+      <p>A virtual bookshelf for my aspirational goal to publish a non-fiction book.</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
-    <img src="/w3images/mountains.jpg" alt="Mountains" style="width:100%">
-      <h3>My Work</h3>
-      <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+    <img src="/Users/jack/Documents/MyWebsite/images/SectionCoverPics/glacier.JPG" alt="Glacier" style="width:100%">
+      <h3>Photography: Glacier National Park</h3>
+      <p>A gallery of my favorite six photos from my trip to Glacier National Park in July 2021.</p>
     </div>
   </div>
 <!-- END GRID -->
