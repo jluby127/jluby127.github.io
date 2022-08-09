@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img align="right" src= "./solarspec.jpg" width="350" height="350">
+<img align="right" src= "./images/IndvPagePhotos/solarspec.jpg" width="350" height="350">
 
 [About me](./aboutme.md)
 
