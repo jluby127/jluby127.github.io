@@ -81,21 +81,21 @@ h1 {
 <div class="row">
   <div class="column">
     <div class="content">
-      <img src="/Users/jack/Documents/MyWebsite/images/PhotoGallery/SectionCoverPics/painting.JPG" alt="Painting" style="width:100%">
+      <img src="./images/PhotoGallery/SectionCoverPics/painting.JPG" alt="Painting" style="width:100%">
       <h3>Paintings</h3>
       <p>A virtual show room gallery of my painting hobby.</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
-    <img src="/Users/jack/Documents/MyWebsite/images/PhotoGallery/SectionCoverPics/scifi.JPG" alt="Sci-Fi" style="width:100%">
+    <img src="./images/PhotoGallery/SectionCoverPics/scifi.JPG" alt="Sci-Fi" style="width:100%">
       <h3>Short Stories</h3>
       <p>A virtual bookshelf for my hobby of writing sci-fi short stories.</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
-    <img src="/Users/jack/Documents/MyWebsite/images/PhotoGallery/SectionCoverPics/nonfic.JPG" alt="Non-Fiction" style="width:100%">
+    <img src="./images/PhotoGallery/SectionCoverPics/nonfic.JPG" alt="Non-Fiction" style="width:100%">
       <h3>Non-Fiction Writing</h3>
       <p>A virtual bookshelf for my aspirational goal to publish a non-fiction book.</p>
     </div>
