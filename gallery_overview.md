@@ -97,15 +97,15 @@ h1 {
   <div class="column">
     <div class="content">
     <img src="/w3images/nature.jpg" alt="Nature" style="width:100%">
-      <h3>My Work</h3>
-      <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+      <h3><a href="https://jluby127.github.io/galleries/gallery_joshuatree.html"> Joshua Tree</a></h3>
+      <p>LA's nearest National park, I've gone out a few times to see the spikey looking "trees" and climb in the playground of boulders.</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
     <img src="/w3images/mountains.jpg" alt="Mountains" style="width:100%">
-      <h3><a href="https://jluby127.github.io/gallery_sequoia.html"> Sequoia & King's Canyon</a></h3>
-      <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+      <h3><a href="https://jluby127.github.io/galleries/gallery_sequoia.html"> Sequoia & King's Canyon</a></h3>
+      <p>I came into these parks having done almost no research on them but was totally blown away. The canyon feels strongly Yosemite-esque with granite cliff faces towering over the valley floor, yet maybe a tenth of the people in the park. </p>
     </div>
   </div>
 <!-- END GRID -->
