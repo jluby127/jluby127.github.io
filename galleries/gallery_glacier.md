@@ -142,22 +142,22 @@ img {
 
   <div class="row">
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/glacier/IMG_3597.JPG" style="width:100%" onclick="currentSlide(1)" alt="4540">
+      <img class="demo cursor" src="./../images/PhotoGallery/glacier/IMG_3597.JPG" style="width:100%" onclick="currentSlide(1)" alt="A babbling brook running down from the mountains ahead into the lake behind. I love how leafy and mossy the banks are, and the red stone, water-smoothed by who knows how long, sticking out of the falls seems almost shiny.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/glacier/IMG_3633.JPG" style="width:100%" onclick="currentSlide(2)" alt="4555">
+      <img class="demo cursor" src="./../images/PhotoGallery/glacier/IMG_3633.JPG" style="width:100%" onclick="currentSlide(2)" alt="I loved this almost-secret mountain lake at the end of Avalanche Lake Trail. Surrounded and protected by mountains, there are multiple waterfalls that feed this water. I felt I could sit here with a book forever.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/glacier/IMG_3644.JPG" style="width:100%" onclick="currentSlide(3)" alt="4572">
+      <img class="demo cursor" src="./../images/PhotoGallery/glacier/IMG_3644.JPG" style="width:100%" onclick="currentSlide(3)" alt="Lake McDonald at the end of the day. I really liked the soft lighting and the calmness of the lake, disrupted by the splash of a handful of pebbles at just the right time.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/glacier/IMG_3683.JPG" style="width:100%" onclick="currentSlide(4)" alt="4586">
+      <img class="demo cursor" src="./../images/PhotoGallery/glacier/IMG_3683.JPG" style="width:100%" onclick="currentSlide(4)" alt="A shot from along the trail of the Highline path. This is early into the hike, but I felt like the trees from below, which reached only just above me, were like a protective picket fence.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/glacier/IMG_3768.JPG" style="width:100%" onclick="currentSlide(5)" alt="4596">
+      <img class="demo cursor" src="./../images/PhotoGallery/glacier/IMG_3768.JPG" style="width:100%" onclick="currentSlide(5)" alt="Overlooking Grinnell Lake from the top of the park. We had perfectly clear skies this day, a fortunate window of clarity between smokey fire days on either side of the hike. The water is just so blue, I can't get over that. Between the ever-constant fires now and the retreating glaciers, we take action to protect our climate and our world so that views like this persist forever.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/glacier/IMG_3784.JPG" style="width:100%" onclick="currentSlide(6)" alt="4677">
+      <img class="demo cursor" src="./../images/PhotoGallery/glacier/IMG_3784.JPG" style="width:100%" onclick="currentSlide(6)" alt="Me smiling at the top of Grinnell Lake overlook. You can't tell from this picture but I'm pretty tired and we still have to go 7 miles back to the car!">
     </div>
   </div>
 </div>

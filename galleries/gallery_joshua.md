@@ -142,22 +142,22 @@ img {
 
   <div class="row">
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/joshua/IMG_3393.JPG" style="width:100%" onclick="currentSlide(1)" alt="4540">
+      <img class="demo cursor" src="./../images/PhotoGallery/joshua/IMG_3393.JPG" style="width:100%" onclick="currentSlide(1)" alt="A desert in bloom, it always amazes me that life finds a way. Rock and brush in this park living in harmony.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/joshua/IMG_3398.JPG" style="width:100%" onclick="currentSlide(2)" alt="4555">
+      <img class="demo cursor" src="./../images/PhotoGallery/joshua/IMG_3398.JPG" style="width:100%" onclick="currentSlide(2)" alt="I just love the boulders in this park. They are fractured in all sorts of ways, it looks like they were piled up on top of each other.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/joshua/IMG_3419.JPG" style="width:100%" onclick="currentSlide(3)" alt="4572">
+      <img class="demo cursor" src="./../images/PhotoGallery/joshua/IMG_3419.JPG" style="width:100%" onclick="currentSlide(3)" alt="Peering through the tree needles at a rising first quarter Moon. I thought this was neat shot.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/joshua/IMG_3433.JPG" style="width:100%" onclick="currentSlide(4)" alt="4586">
+      <img class="demo cursor" src="./../images/PhotoGallery/joshua/IMG_3433.JPG" style="width:100%" onclick="currentSlide(4)" alt="Something about the way all these rocks are slanted just really caught my eye. How could they get like this? A geologist could tell us, but I'm not geologist.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/joshua/IMG_3450.JPG" style="width:100%" onclick="currentSlide(5)" alt="4596">
+      <img class="demo cursor" src="./../images/PhotoGallery/joshua/IMG_3450.JPG" style="width:100%" onclick="currentSlide(5)" alt="I've always had a thing for shadow silhouette shots. It feels like an unintrusive way to document myself and the landscape.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/joshua/IMG_6182.HEIC" style="width:100%" onclick="currentSlide(6)" alt="4677">
+      <img class="demo cursor" src="./../images/PhotoGallery/joshua/IMG_6182.HEIC" style="width:100%" onclick="currentSlide(6)" alt="My favorite part of the park, the cactus garden. In the setting sun, the needles of these cholla's seem to glow.">
     </div>
   </div>
 </div>

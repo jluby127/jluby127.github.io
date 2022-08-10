@@ -23,6 +23,8 @@ Here is slowing growing bibliography with short synopses.
 
     <li> <b> Five Campers </b> - Five strangers find themselves to be the sole Earthly survivors of a nuclear event. As the world burns and crumbles around them, they fight both to survive and to cope with the knowledge that they will be the last humans. How will they memorialize an entire species... </li>
 
+    <li> <b> Ceresland </b> - The Viking civilizations of old have kept an earth-shattering secret from the rest of human society. In their longstarships they glide on waves of solar wind through the inner Solar System in search of new lands with resources ready to be plundered and supplement their riches. In this multi-layered story frame, can they keep their prized dwarf planet secret for much longer...  </li>
+
     <!--<li>Item 3</li>-->
 
 </ul>
