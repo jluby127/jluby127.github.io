@@ -82,7 +82,7 @@ h1 {
   <div class="column">
     <div class="content">
       <img src="./images/PhotoGallery/SectionCoverPics/painting.JPG" alt="Painting" style="width:100%">
-      <h3>Paintings</h3>
+      <h3><a href="https://jluby127.github.io/galleries/gallery_paintings.html">Paintings</a></h3>
       <p>A virtual show room gallery of my painting hobby.</p>
     </div>
   </div>
@@ -96,7 +96,7 @@ h1 {
   <div class="column">
     <div class="content">
     <img src="./images/PhotoGallery/SectionCoverPics/nonfic.JPG" alt="Non-Fiction" style="width:100%">
-      <h3>Non-Fiction</h3>
+      <h3><a href="https://jluby127.github.io/galleries/gallery_nonfic.html">Non-Fiction</a></h3>
       <p>A virtual bookshelf for my aspirational goal to publish a non-fiction book.</p>
     </div>
   </div>
