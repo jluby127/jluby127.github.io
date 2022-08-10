@@ -3,7 +3,7 @@
 <br>
 <br>
 
-#August 09, 2022
+# August 09, 2022
 
 I've always wanted to publish a book. I think it would be such a fun and challenging project. And I love sharing my love for astronomy. So I had an idea to join the two. There are a lot of astronomy books out there, but they all seem to fall into some pre-described categories.
 

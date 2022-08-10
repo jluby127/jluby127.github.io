@@ -90,7 +90,7 @@ h1 {
     <div class="content">
     <img src="./images/PhotoGallery/SectionCoverPics/scifi.JPG" alt="Sci-Fi" style="width:100%">
       <h3><a href="https://jluby127.github.io/galleries/writing.html">Short Stories</a></h3>
-      <p>A virtual bookshelf for my hobby of writing sci-fi short stories.</p>
+      <p>A virtual bookshelf for my hobby of writing sci-fi.</p>
     </div>
   </div>
   <div class="column">
@@ -113,15 +113,15 @@ h1 {
   <div class="column">
     <div class="content">
       <img src="./images/PhotoGallery/SectionCoverPics/sequoia.JPG" alt="Sequoia" style="width:100%">
-      <h3<a href="https://jluby127.github.io/galleries/gallery_sequoia.html">Photos: Sequoia NP</a></h3>
+      <h3><a href="https://jluby127.github.io/galleries/gallery_sequoia.html">Photos: Sequoia NP</a></h3>
       <p>My favorite 6 photos from Sequoia National Park, August 2022.</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
-    <img src="/w3images/lights.jpg" alt="Lights" style="width:100%">
-      <h3>My Work</h3>
-      <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+    <img src="./images/PhotoGallery/SectionCoverPics/joshua.JPG" alt="Joshua Tree" style="width:100%">
+      <h3><a href="https://jluby127.github.io/galleries/gallery_joshua.html">Photos: Joshua NP</a></h3>
+      <p>My favorite 6 photos from Joshua Tree National Park, February 2021.</p>
     </div>
   </div>
   <div class="column">
