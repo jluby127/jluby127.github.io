@@ -126,9 +126,9 @@ h1 {
   </div>
   <div class="column">
     <div class="content">
-    <img src="/w3images/nature.jpg" alt="Nature" style="width:100%">
-      <h3>My Work</h3>
-      <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+    <img src="./images/PhotoGallery/SectionCoverPics/hawaii.JPG" alt="Hawaii" style="width:100%">
+      <h3><a href="https://jluby127.github.io/galleries/gallery_hawaii.html">Photos: Hawaii</a></h3>
+      <p>My favorite 6 photos from my trip to the island of Hawaii for telescope training with Keck Observatory, January 2020. </p>
     </div>
   </div>
   <div class="column">
@@ -176,7 +176,7 @@ h1 {
 <!-- END MAIN -->
 </div>
 
-<!-- </body>
-</html> -->
+</body>
+</html>
 
 [Home](./)

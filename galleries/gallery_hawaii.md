@@ -1,0 +1,201 @@
+<html>
+<meta name="viewport" content="width=980px, initial-scale=1">
+<style>
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+img {
+  vertical-align: middle;
+}
+
+/* Position the image container (needed to position the left and right arrows) */
+.container {
+  position: center;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+  max-width:100%
+}
+
+/* Add a pointer when hovering over the thumbnail images */
+.cursor {
+  cursor: pointer;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 40%;
+  width: auto;
+  padding: 16px;
+  margin-top: -50px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* Container for image text */
+.caption-container {
+  text-align: center;
+  background-color: #222;
+  padding: 2px 16px;
+  color: white;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Six columns side by side */
+.column {
+  float: left;
+  width: 16.66%;
+}
+
+/* Add a transparency effect for thumnbail images */
+.demo {
+  opacity: 0.6;
+}
+
+.active,
+.demo:hover {
+  opacity: 1;
+}
+</style>
+<body>
+
+<h2 style="text-align:center">Photos from Hawaii - January 2020</h2>
+
+<div class="container">
+  <div class="mySlides">
+    <div class="numbertext">1 / 6</div>
+    <img src="./../images/PhotoGallery/hawaii/IMG_2844.JPG" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">2 / 6</div>
+    <img src="./../images/PhotoGallery/hawaii/IMG_2911.JPG" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">3 / 6</div>
+    <img src="./../images/PhotoGallery/hawaii/IMG_3006.JPG" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">4 / 6</div>
+    <img src="./../images/PhotoGallery/hawaii/IMG_3029.JPG" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">5 / 6</div>
+    <img src="./../images/PhotoGallery/hawaii/IMG_3184.JPG" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">6 / 6</div>
+    <img src="./../images/PhotoGallery/hawaii/IMG_3281.JPG" style="width:100%">
+  </div>
+
+  <a class="prev" onclick="plusSlides(-1)">❮</a>
+  <a class="next" onclick="plusSlides(1)">❯</a>
+
+  <div class="caption-container">
+    <p id="caption"></p>
+  </div>
+
+  <div class="row">
+    <div class="column">
+      <img class="demo cursor" src="./../images/PhotoGallery/hawaii/IMG_2844.JPG" style="width:100%" onclick="currentSlide(1)" alt="A babbling brook running down from the mountains ahead into the lake behind. I love how leafy and mossy the banks are, and the red stone, water-smoothed by who knows how long, sticking out of the falls seems almost shiny.">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="./../images/PhotoGallery/hawaii/IMG_2911.JPG" style="width:100%" onclick="currentSlide(2)" alt="I loved this almost-secret mountain lake at the end of Avalanche Lake Trail. Surrounded and protected by mountains, there are multiple waterfalls that feed this water. I felt I could sit here with a book forever.">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="./../images/PhotoGallery/hawaii/IMG_3006.JPG" style="width:100%" onclick="currentSlide(3)" alt="Lake McDonald at the end of the day. I really liked the soft lighting and the calmness of the lake, disrupted by the splash of a handful of pebbles at just the right time.">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="./../images/PhotoGallery/hawaii/IMG_3029.JPG" style="width:100%" onclick="currentSlide(4)" alt="A shot from along the trail of the Highline path. This is early into the hike, but I felt like the trees from below, which reached only just above me, were like a protective picket fence.">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="./../images/PhotoGallery/hawaii/IMG_3184.JPG" style="width:100%" onclick="currentSlide(5)" alt="Overlooking Grinnell Lake from the top of the park. We had perfectly clear skies this day, a fortunate window of clarity between smokey fire days on either side of the hike. The water is just so blue, I can't get over that. Between the ever-constant fires now and the retreating glaciers, we take action to protect our climate and our world so that views like this persist forever.">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="./../images/PhotoGallery/hawaii/IMG_3281.JPG" style="width:100%" onclick="currentSlide(6)" alt="Me smiling at the top of Grinnell Lake overlook. You can't tell from this picture but I'm pretty tired and we still have to go 7 miles back to the car!">
+    </div>
+  </div>
+</div>
+
+<script>
+let slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  let i;
+  let slides = document.getElementsByClassName("mySlides");
+  let dots = document.getElementsByClassName("demo");
+  let captionText = document.getElementById("caption");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+  captionText.innerHTML = dots[slideIndex-1].alt;
+}
+</script>
+
+</body>
+</html>
+
+[Back](./../gallery_overview2.html)
+<br>
+[Home](./../)
