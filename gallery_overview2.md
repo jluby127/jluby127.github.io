@@ -179,4 +179,4 @@ h1 {
 <!-- </body>
 </html> -->
 
-[Home](./)
+<a href="https://jluby127.github.io/">Home</a>
