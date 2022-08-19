@@ -142,22 +142,22 @@ img {
 
   <div class="row">
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/hawaii/IMG_2844.JPG" style="width:100%" onclick="currentSlide(1)" alt="A babbling brook running down from the mountains ahead into the lake behind. I love how leafy and mossy the banks are, and the red stone, water-smoothed by who knows how long, sticking out of the falls seems almost shiny.">
+      <img class="demo cursor" src="./../images/PhotoGallery/hawaii/IMG_2844.JPG" style="width:100%" onclick="currentSlide(1)" alt="A misty morning on the north east side of the island, I loved the dense foliage and then was surprised by a pair of horses grazing.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/hawaii/IMG_2911.JPG" style="width:100%" onclick="currentSlide(2)" alt="I loved this almost-secret mountain lake at the end of Avalanche Lake Trail. Surrounded and protected by mountains, there are multiple waterfalls that feed this water. I felt I could sit here with a book forever.">
+      <img class="demo cursor" src="./../images/PhotoGallery/hawaii/IMG_2911.JPG" style="width:100%" onclick="currentSlide(2)" alt="An overcast morning watching waves break over the rocky shore. I love how this image is almost in black and white.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/hawaii/IMG_3006.JPG" style="width:100%" onclick="currentSlide(3)" alt="Lake McDonald at the end of the day. I really liked the soft lighting and the calmness of the lake, disrupted by the splash of a handful of pebbles at just the right time.">
+      <img class="demo cursor" src="./../images/PhotoGallery/hawaii/IMG_3006.JPG" style="width:100%" onclick="currentSlide(3)" alt="It rained and rained and rained all through the trip, swelling this river into one that rages and races to the sea. I was in awe of the violence of the water.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/hawaii/IMG_3029.JPG" style="width:100%" onclick="currentSlide(4)" alt="A shot from along the trail of the Highline path. This is early into the hike, but I felt like the trees from below, which reached only just above me, were like a protective picket fence.">
+      <img class="demo cursor" src="./../images/PhotoGallery/hawaii/IMG_3029.JPG" style="width:100%" onclick="currentSlide(4)" alt="The same river, leading to Rainbow Falls, the volume of water and crash of thunder captured in an image.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/hawaii/IMG_3184.JPG" style="width:100%" onclick="currentSlide(5)" alt="Overlooking Grinnell Lake from the top of the park. We had perfectly clear skies this day, a fortunate window of clarity between smokey fire days on either side of the hike. The water is just so blue, I can't get over that. Between the ever-constant fires now and the retreating glaciers, we take action to protect our climate and our world so that views like this persist forever.">
+      <img class="demo cursor" src="./../images/PhotoGallery/hawaii/IMG_3184.JPG" style="width:100%" onclick="currentSlide(5)" alt="Just north of Hilo there is a small scenic route along the coast. We stopped for smoothies at a roadside stand, then further up the road I saw this image and wanted to capture it. I love the black and white astetic with hints of green. See my paintings page for my attempt to capture this scene again on canvas.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/hawaii/IMG_3281.JPG" style="width:100%" onclick="currentSlide(6)" alt="Me smiling at the top of Grinnell Lake overlook. You can't tell from this picture but I'm pretty tired and we still have to go 7 miles back to the car!">
+      <img class="demo cursor" src="./../images/PhotoGallery/hawaii/IMG_3281.JPG" style="width:100%" onclick="currentSlide(6)" alt="Life, uh, finds a way...even in the volcanic rock of Volcanos National Park, greenery pokes through the seemingly desolate landscape.">
     </div>
   </div>
 </div>

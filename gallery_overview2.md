@@ -133,8 +133,8 @@ h1 {
   </div>
   <div class="column">
     <div class="content">
-    <img src="/w3images/mountains.jpg" alt="Mountains" style="width:100%">
-      <h3>My Work</h3>
+    <img src="./images/PhotoGallery/SectionCoverPics/zion.JPG" alt="Zion" style="width:100%">
+      <h3><a href="https://jluby127.github.io/galleries/gallery_zion.html">Photos: Zion</a></h3>
       <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
     </div>
   </div>

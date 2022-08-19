@@ -104,43 +104,33 @@ img {
 
 <div class="container">
   <div class="mySlides">
-    <div class="numbertext">1 / 8</div>
-    <img src="images/PhotoGallery/zion/IMG_4540.JPG" style="width:100%">
+    <div class="numbertext">1 / 6</div>
+    <img src="./../images/PhotoGallery/zion/IMG_1682.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">2 / 8</div>
-    <img src="images/PhotoGallery/zion/IMG_4555.JPG" style="width:100%">
+    <div class="numbertext">2 / 6</div>
+    <img src="./../images/PhotoGallery/zion/IMG_1658.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">3 / 8</div>
-    <img src="images/PhotoGallery/zion/IMG_4572.JPG" style="width:100%">
+    <div class="numbertext">3 / 6</div>
+    <img src="./../images/PhotoGallery/zion/IMG_1700.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">4 / 8</div>
-    <img src="images/PhotoGallery/zion/IMG_4586.JPG" style="width:100%">
+    <div class="numbertext">4 / 6</div>
+    <img src="./../images/PhotoGallery/zion/IMG_1786.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">5 / 8</div>
-    <img src="images/PhotoGallery/zion/IMG_4596.JPG" style="width:100%">
+    <div class="numbertext">5 / 6</div>
+    <img src="./../images/PhotoGallery/zion/IMG_1818.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">6 / 8</div>
-    <img src="images/PhotoGallery/zion/IMG_4677.JPG" style="width:100%">
-  </div>
-
-  <div class="mySlides">
-    <div class="numbertext">7 / 8</div>
-    <img src="images/PhotoGallery/zion/IMG_4685.JPG" style="width:100%">
-  </div>
-
-  <div class="mySlides">
-    <div class="numbertext">8 / 8</div>
-    <img src="images/PhotoGallery/zion/IMG_4778.JPG" style="width:100%">
+    <div class="numbertext">6 / 6</div>
+    <img src="./../images/PhotoGallery/zion/IMG_1864.JPG" style="width:100%">
   </div>
 
   <a class="prev" onclick="plusSlides(-1)">❮</a>
@@ -152,28 +142,22 @@ img {
 
   <div class="row">
     <div class="column">
-      <img class="demo cursor" src="images/PhotoGallery/zion/IMG_4540.JPG" style="width:100%" onclick="currentSlide(1)" alt="4540">
+      <img class="demo cursor" src="./../images/PhotoGallery/zion/IMG_1682.JPG" style="width:100%" onclick="currentSlide(1)" alt="I loved this rock face, which reminded me of almost the stagefront of the Hollywood Bowl. I could easily see this being the site of a great concert.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="images/PhotoGallery/zion/IMG_4555.JPG" style="width:100%" onclick="currentSlide(2)" alt="4555">
+      <img class="demo cursor" src="./../images/PhotoGallery/zion/IMG_1658.JPG" style="width:100%" onclick="currentSlide(2)" alt="This tunnel seemed like out of a cartoon, like Roadrunner and Coyote, like when the Coyote paints a tunnel into a rockface but Roadrunner goes right through like it's real.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="images/PhotoGallery/zion/IMG_4572.JPG" style="width:100%" onclick="currentSlide(3)" alt="4572">
+      <img class="demo cursor" src="./../images/PhotoGallery/zion/IMG_1700.JPG" style="width:100%" onclick="currentSlide(3)" alt="The morning light spilling just over the top of the canyon ridge and filtering down to the valley floor below. The contrast of the rigid rock faces with the windy road.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="images/PhotoGallery/zion/IMG_4586.JPG" style="width:100%" onclick="currentSlide(4)" alt="4586">
+      <img class="demo cursor" src="./../images/PhotoGallery/zion/IMG_1786.JPG" style="width:100%" onclick="currentSlide(4)" alt="Looking up at Angel's Landing, a perch high above the valley floor, we are in darkness below but the Angel is always illuminated.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="images/PhotoGallery/zion/IMG_4596.JPG" style="width:100%" onclick="currentSlide(5)" alt="4596">
+      <img class="demo cursor" src="./../images/PhotoGallery/zion/IMG_1818.JPG" style="width:100%" onclick="currentSlide(5)" alt="Looking back down from near the top of Angel's Landing, I just loved the shapes that the canyon creates, a beautiful combination of hard edges and soft curves. I sat at this spot and read a book for an hour.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="images/PhotoGallery/zion/IMG_4677.JPG" style="width:100%" onclick="currentSlide(6)" alt="4677">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="images/PhotoGallery/zion/IMG_4685.JPG" style="width:100%" onclick="currentSlide(7)" alt="4685">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="images/PhotoGallery/zion/IMG_4778.JPG" style="width:100%" onclick="currentSlide(8)" alt="4778">
+      <img class="demo cursor" src="./../images/PhotoGallery/zion/IMG_1864.JPG" style="width:100%" onclick="currentSlide(6)" alt="The best place in the park to truly see the topography with your own eyes. The canyon is formed so perfectly, with a valley protected by the sheer rock faces.">
     </div>
   </div>
 </div>
@@ -211,3 +195,7 @@ function showSlides(n) {
 
 </body>
 </html>
+
+[Back](./../gallery_overview2.html)
+<br>
+[Home](./../)
