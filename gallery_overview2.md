@@ -135,7 +135,7 @@ h1 {
     <div class="content">
     <img src="./images/PhotoGallery/SectionCoverPics/zion.JPG" alt="Zion" style="width:100%">
       <h3><a href="https://jluby127.github.io/galleries/gallery_zion.html">Photos: Zion</a></h3>
-      <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+      <p>My favorite 6 photos from my trip to Zion National Park, June 2019</p>
     </div>
   </div>
 <!-- END GRID -->
@@ -143,16 +143,16 @@ h1 {
 <div class="row">
   <div class="column">
     <div class="content">
-      <img src="/w3images/mountains.jpg" alt="Mountains" style="width:100%">
-      <h3>My Work</h3>
-      <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+      <img src="./images/PhotoGallery/SectionCoverPics/rf19.JPG" alt="RT19" style="width:100%">
+      <h3><a href="https://jluby127.github.io/galleries/gallery_rt19.html">Photos: Road Trip 2</a></h3>
+      <p>My 6 favorite photos from my road trip from Irvine to Vancouver, Summer 2019.</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
-    <img src="/w3images/lights.jpg" alt="Lights" style="width:100%">
-      <h3>My Work</h3>
-      <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+    <img src="./images/PhotoGallery/SectionCoverPics/lick.JPG" alt="Lick" style="width:100%">
+      <h3><a href="https://jluby127.github.io/galleries/gallery_lick.html">Photos: Lick Observatory</a></h3>
+      <p>My 6 favorite photos from Lick Observatory, April 2019.</p>
     </div>
   </div>
   <div class="column">
