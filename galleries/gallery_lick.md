@@ -120,17 +120,17 @@ img {
 
   <div class="mySlides">
     <div class="numbertext">4 / 6</div>
-    <img src="./../images/PhotoGallery/lick/IMG_1252.JPG.JPG" style="width:100%">
+    <img src="./../images/PhotoGallery/lick/IMG_1252.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">5 / 6</div>
-    <img src="./../images/PhotoGallery/lick/IMG_1264.JPG.JPG" style="width:100%">
+    <img src="./../images/PhotoGallery/lick/IMG_1264.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">6 / 6</div>
-    <img src="./../images/PhotoGallery/lick/IMG_1281.JPG.JPG" style="width:100%">
+    <img src="./../images/PhotoGallery/lick/IMG_1281.JPG" style="width:100%">
   </div>
 
   <a class="prev" onclick="plusSlides(-1)">❮</a>
@@ -142,22 +142,22 @@ img {
 
   <div class="row">
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/lick/IMG_1164.JPG" style="width:100%" onclick="currentSlide(1)" alt="I made good time on the way up the coast from Irvine to Vancouver. These bay along the See-to-Sky Highway really caught my eye, so peaceful.">
+      <img class="demo cursor" src="./../images/PhotoGallery/lick/IMG_1164.JPG" style="width:100%" onclick="currentSlide(1)" alt="View off of Mt. Hamilton looking Northeast. I love the way this mountain folds and ridges.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/lick/IMG_1189.JPG" style="width:100%" onclick="currentSlide(2)" alt="On the way back down the fun began. We crossed this old bridge and I caught the image of Mt. Hood in the mirror. Had to pull over and take a real shot.">
+      <img class="demo cursor" src="./../images/PhotoGallery/lick/IMG_1189.JPG" style="width:100%" onclick="currentSlide(2)" alt="Close up of the dome of the Shane 3-meter telescope.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/lick/IMG_1195.JPG" style="width:100%" onclick="currentSlide(3)" alt="Crater Lake National Park, the prime reason for this road trip. I am still amazed at how high the cliffs are above the water and how they continue to plunge at the surface, no beaches.">
+      <img class="demo cursor" src="./../images/PhotoGallery/lick/IMG_1195.JPG" style="width:100%" onclick="currentSlide(3)" alt="Looking across the mountaintop towards the original observatory and all the housing dorms.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/lick/IMG_1252.JPG.JPG" style="width:100%" onclick="currentSlide(4)" alt="Just a part of the scenary...">
+      <img class="demo cursor" src="./../images/PhotoGallery/lick/IMG_1252.JPG" style="width:100%" onclick="currentSlide(4)" alt="One of the smaller telescopes, not used much anymore, but still pretty overlooking the valley to the West.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/lick/IMG_1264.JPG.JPG" style="width:100%" onclick="currentSlide(5)" alt="Burney Falls state park, where the water seems to gush out of the rocks themselves. A small rainbow graced our viewing.">
+      <img class="demo cursor" src="./../images/PhotoGallery/lick/IMG_1264.JPG" style="width:100%" onclick="currentSlide(5)" alt="A fun shot of the Automated Planet Finder (APF) dome and our Moon. My favorite instrument on the mountain!">
     </div>
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/lick/IMG_1281.JPG.JPG" style="width:100%" onclick="currentSlide(6)" alt="The peak of Mt. Lassen in Lassen National Park. It's late July and yet this pond remains cyan frozen blue all year round.">
+      <img class="demo cursor" src="./../images/PhotoGallery/lick/IMG_1281.JPG" style="width:100%" onclick="currentSlide(6)" alt="Sunset is the best time of day at an observatory!">
     </div>
   </div>
 </div>

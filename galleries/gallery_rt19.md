@@ -120,17 +120,17 @@ img {
 
   <div class="mySlides">
     <div class="numbertext">4 / 6</div>
-    <img src="./../images/PhotoGallery/rt19/IMG_2369.JPG.JPG" style="width:100%">
+    <img src="./../images/PhotoGallery/rt19/IMG_2369.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">5 / 6</div>
-    <img src="./../images/PhotoGallery/rt19/IMG_2413.JPG.JPG" style="width:100%">
+    <img src="./../images/PhotoGallery/rt19/IMG_2413.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">6 / 6</div>
-    <img src="./../images/PhotoGallery/rt19/IMG_2464.JPG.JPG" style="width:100%">
+    <img src="./../images/PhotoGallery/rt19/IMG_2464.JPG" style="width:100%">
   </div>
 
   <a class="prev" onclick="plusSlides(-1)">❮</a>
@@ -151,13 +151,13 @@ img {
       <img class="demo cursor" src="./../images/PhotoGallery/rt19/IMG_2316.JPG" style="width:100%" onclick="currentSlide(3)" alt="Crater Lake National Park, the prime reason for this road trip. I am still amazed at how high the cliffs are above the water and how they continue to plunge at the surface, no beaches.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/rt19/IMG_2369.JPG.JPG" style="width:100%" onclick="currentSlide(4)" alt="Just a part of the scenary...">
+      <img class="demo cursor" src="./../images/PhotoGallery/rt19/IMG_2369.JPG" style="width:100%" onclick="currentSlide(4)" alt="Just a part of the scenary...">
     </div>
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/rt19/IMG_2413.JPG.JPG" style="width:100%" onclick="currentSlide(5)" alt="Burney Falls state park, where the water seems to gush out of the rocks themselves. A small rainbow graced our viewing.">
+      <img class="demo cursor" src="./../images/PhotoGallery/rt19/IMG_2413.JPG" style="width:100%" onclick="currentSlide(5)" alt="Burney Falls state park, where the water seems to gush out of the rocks themselves. A small rainbow graced our viewing.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/rt19/IMG_2464.JPG.JPG" style="width:100%" onclick="currentSlide(6)" alt="The peak of Mt. Lassen in Lassen National Park. It's late July and yet this pond remains cyan frozen blue all year round.">
+      <img class="demo cursor" src="./../images/PhotoGallery/rt19/IMG_2464.JPG" style="width:100%" onclick="currentSlide(6)" alt="The peak of Mt. Lassen in Lassen National Park. It's late July and yet this pond remains cyan frozen blue all year round.">
     </div>
   </div>
 </div>
