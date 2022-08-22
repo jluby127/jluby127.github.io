@@ -143,7 +143,7 @@ h1 {
 <div class="row">
   <div class="column">
     <div class="content">
-      <img src="./images/PhotoGallery/SectionCoverPics/rf19.JPG" alt="RT19" style="width:100%">
+      <img src="./images/PhotoGallery/SectionCoverPics/rt19.JPG" alt="RT19" style="width:100%">
       <h3><a href="https://jluby127.github.io/galleries/gallery_rt19.html">Photos: Road Trip 2</a></h3>
       <p>My 6 favorite photos from my road trip from Irvine to Vancouver, Summer 2019.</p>
     </div>
