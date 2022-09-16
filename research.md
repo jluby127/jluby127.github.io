@@ -75,6 +75,8 @@ We discovered and characterized the second brightest known of these such systems
 
 ### n author
 
+28. [TESS-Keck Survey XIV: 2 giant exoplanets from the Distant Giants Survey](https://arxiv.org/abs/2209.06958)
+
 27. [GJ 3929: High Precision Photometric and Doppler Characterization of an Exo-Venus and its Hot, Mini-Neptune-mass Companion](https://arxiv.org/abs/2207.10672)
 
 26. [The TESS-Keck Survey. XIII. An Eccentric Hot Neptune with a Similar-Mass Outer Companion around TOI-1272](https://arxiv.org/abs/2206.14327)
