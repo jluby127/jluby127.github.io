@@ -75,6 +75,8 @@ We discovered and characterized the second brightest known of these such systems
 
 ### n author
 
+29. [TOI-561 b: A Low Density Ultra-Short Period "Rocky" Planet around a Metal-Poor Star](https://arxiv.org/abs/2210.06665)
+
 28. [TESS-Keck Survey XIV: 2 giant exoplanets from the Distant Giants Survey](https://arxiv.org/abs/2209.06958)
 
 27. [GJ 3929: High Precision Photometric and Doppler Characterization of an Exo-Venus and its Hot, Mini-Neptune-mass Companion](https://arxiv.org/abs/2207.10672)
