@@ -75,19 +75,21 @@ We discovered and characterized the second brightest known of these such systems
 
 ### n author
 
-29. [TOI-561 b: A Low Density Ultra-Short Period "Rocky" Planet around a Metal-Poor Star](https://arxiv.org/abs/2210.06665)
+31. [TOI-1136 is a Young, Coplanar, Aligned Planetary System in a Pristine Resonant Chain](https://arxiv.org/abs/2210.09283)
 
-28. [TESS-Keck Survey XIV: 2 giant exoplanets from the Distant Giants Survey](https://arxiv.org/abs/2209.06958)
+30. [TOI-561 b: A Low Density Ultra-Short Period "Rocky" Planet around a Metal-Poor Star](https://arxiv.org/abs/2210.06665)
 
-27. [GJ 3929: High Precision Photometric and Doppler Characterization of an Exo-Venus and its Hot, Mini-Neptune-mass Companion](https://arxiv.org/abs/2207.10672)
+29. [TESS-Keck Survey XIV: 2 giant exoplanets from the Distant Giants Survey](https://arxiv.org/abs/2209.06958)
 
-26. [The TESS-Keck Survey. XIII. An Eccentric Hot Neptune with a Similar-Mass Outer Companion around TOI-1272](https://arxiv.org/abs/2206.14327)
+28. [GJ 3929: High Precision Photometric and Doppler Characterization of an Exo-Venus and its Hot, Mini-Neptune-mass Companion](https://arxiv.org/abs/2207.10672)
 
-25. [The TESS Grand Unified Hot Jupiter Survey. I. Ten TESS Planets](https://arxiv.org/abs/2205.09728)
+27. [The TESS-Keck Survey. XIII. An Eccentric Hot Neptune with a Similar-Mass Outer Companion around TOI-1272](https://arxiv.org/abs/2206.14327)
 
-24. [The TESS-Keck Survey. XI. Mass Measurements for Four Transiting sub-Neptunes orbiting K dwarf TOI-1246](https://arxiv.org/abs/2204.11895)
+26. [The TESS Grand Unified Hot Jupiter Survey. I. Ten TESS Planets](https://arxiv.org/abs/2205.09728)
 
-23. [TOI-1696 and TOI-2136: Constraining the Masses of Two Mini-Neptunes with HPF](https://arxiv.org/abs/2204.09063)
+25. [The TESS-Keck Survey. XI. Mass Measurements for Four Transiting sub-Neptunes orbiting K dwarf TOI-1246](https://arxiv.org/abs/2204.11895)
+
+24. [TOI-1696 and TOI-2136: Constraining the Masses of Two Mini-Neptunes with HPF](https://arxiv.org/abs/2204.09063)
 
 23. [A close-in puffy Neptune with hidden friends: The enigma of TOI 620](https://arxiv.org/abs/2204.03108)
 
