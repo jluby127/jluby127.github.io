@@ -75,6 +75,8 @@ We discovered and characterized the second brightest known of these such systems
 
 ### n author
 
+32. [The TESS Grand Unified Hot Jupiter Survey. II. Twenty New Giant Planets](https://arxiv.org/abs/2210.15473)
+
 31. [TOI-1136 is a Young, Coplanar, Aligned Planetary System in a Pristine Resonant Chain](https://arxiv.org/abs/2210.09283)
 
 30. [TOI-561 b: A Low Density Ultra-Short Period "Rocky" Planet around a Metal-Poor Star](https://arxiv.org/abs/2210.06665)
