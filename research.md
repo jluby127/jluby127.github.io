@@ -75,6 +75,8 @@ We discovered and characterized the second brightest known of these such systems
 
 ### n author
 
+33. [TESS Giants Transiting Giants III: An eccentric warm Jupiter supports a period-eccentricity relation for giant planets transiting evolved stars](https://arxiv.org/abs/2210.17062)
+
 32. [The TESS Grand Unified Hot Jupiter Survey. II. Twenty New Giant Planets](https://arxiv.org/abs/2210.15473)
 
 31. [TOI-1136 is a Young, Coplanar, Aligned Planetary System in a Pristine Resonant Chain](https://arxiv.org/abs/2210.09283)
