@@ -1,12 +1,16 @@
 Here is both my regular CV and my "Failure" CV (see below)
 
-Click on the first page to download the whole thing (including the hidden pages).
+Click on the first page to download the whole thing.
 
-<a href="./cv_stuff/LubinCV_July2022.pdf" download>
+<a href="./cv_stuff/LubinCV_December2022.pdf" download>
   <img src="./cv_stuff/CV1.png" alt="None">
   <img src="./cv_stuff/CV2.png" alt="None">
   <img src="./cv_stuff/CV3.png" alt="None">
   <img src="./cv_stuff/CV4.png" alt="None">
+  <img src="./cv_stuff/CV5.png" alt="None">
+  <img src="./cv_stuff/CV6.png" alt="None">
+  <img src="./cv_stuff/CV7.png" alt="None">
+  <img src="./cv_stuff/CV8.png" alt="None">
 </a>
 
 <br>
