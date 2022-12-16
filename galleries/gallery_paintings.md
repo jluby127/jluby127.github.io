@@ -105,32 +105,32 @@ img {
 <div class="container">
   <div class="mySlides">
     <div class="numbertext">1 / 6</div>
-    <img src="./../images/PhotoGallery/sequoia/IMG_4540.JPG" style="width:100%">
+    <img src="./../images/PhotoGallery/painting/IMG_0006.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">2 / 6</div>
-    <img src="./../images/PhotoGallery/sequoia/IMG_4555.JPG" style="width:100%">
+    <img src="./../images/PhotoGallery/painting/IMG_0011.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">3 / 6</div>
-    <img src="./../images/PhotoGallery/sequoia/IMG_4572.JPG" style="width:100%">
+    <img src="./../images/PhotoGallery/painting/IMG_0096.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">4 / 6</div>
-    <img src="./../images/PhotoGallery/sequoia/IMG_4586.JPG" style="width:100%">
+    <img src="./../images/PhotoGallery/painting/IMG_0126.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">5 / 6</div>
-    <img src="./../images/PhotoGallery/sequoia/IMG_4596.JPG" style="width:100%">
+    <img src="./../images/PhotoGallery/painting/IMG_5923.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">6 / 6</div>
-    <img src="./../images/PhotoGallery/sequoia/IMG_4677.JPG" style="width:100%">
+    <img src="./../images/PhotoGallery/painting/paiting.JPG" style="width:100%">
   </div>
 
   <a class="prev" onclick="plusSlides(-1)">❮</a>
@@ -142,22 +142,22 @@ img {
 
   <div class="row">
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/sequoia/IMG_4540.JPG" style="width:100%" onclick="currentSlide(1)" alt="4540">
+      <img class="demo cursor" src="./../images/PhotoGallery/painting/IMG_0006.JPG" style="width:100%" onclick="currentSlide(1)" alt="A black sand beach near Vik, Iceland. The waves and wind were so powerful here.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/sequoia/IMG_4555.JPG" style="width:100%" onclick="currentSlide(2)" alt="4555">
+      <img class="demo cursor" src="./../images/PhotoGallery/painting/IMG_0011.JPG" style="width:100%" onclick="currentSlide(2)" alt="An arched rock in Joshua Tree National Park. I loved the colors of the desert here.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/sequoia/IMG_4572.JPG" style="width:100%" onclick="currentSlide(3)" alt="4572">
+      <img class="demo cursor" src="./../images/PhotoGallery/painting/IMG_0096.JPG" style="width:100%" onclick="currentSlide(3)" alt="An imagined Aurora scene.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/sequoia/IMG_4586.JPG" style="width:100%" onclick="currentSlide(4)" alt="4586">
+      <img class="demo cursor" src="./../images/PhotoGallery/painting/IMG_0126.JPG" style="width:100%" onclick="currentSlide(4)" alt="A receding glacier near Vik, Iceland. I really enjoyed working in black and white and blue. ">
     </div>
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/sequoia/IMG_4596.JPG" style="width:100%" onclick="currentSlide(5)" alt="4596">
+      <img class="demo cursor" src="./../images/PhotoGallery/painting/IMG_5923.JPG" style="width:100%" onclick="currentSlide(5)" alt="An aerial view of crashing waves. Attempt 1.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="./../images/PhotoGallery/sequoia/IMG_4677.JPG" style="width:100%" onclick="currentSlide(6)" alt="4677">
+      <img class="demo cursor" src="./../images/PhotoGallery/painting/painting.JPG" style="width:100%" onclick="currentSlide(6)" alt="An aerial view of crashing waves. Attempt 2.">
     </div>
   </div>
 </div>
