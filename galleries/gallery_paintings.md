@@ -130,7 +130,7 @@ img {
 
   <div class="mySlides">
     <div class="numbertext">6 / 6</div>
-    <img src="./../images/PhotoGallery/painting/paiting.JPG" style="width:100%">
+    <img src="./../images/PhotoGallery/painting/painting.JPG" style="width:100%">
   </div>
 
   <a class="prev" onclick="plusSlides(-1)">❮</a>
