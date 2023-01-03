@@ -98,4 +98,16 @@ Electrostatics; magnetostatics; relativity; classical electron theory; fields in
 
 <br>
 
+### Winter 2023: Physics 7D - Classical Physics (2nd time)
+
+Introduction to electricity and magnetism for scientists and engineers
+
+<br>
+
+### Winter 2023: Physics 215B - Quantum Mechanics (Graduate Course)
+
+Atomic physics; scattering theory, formal collision theory; semi-classical radiation theory; many body systems.
+
+<br>
+
 [Home](./)
