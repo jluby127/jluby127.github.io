@@ -1,70 +1,44 @@
+Most recent on top:
 
+<strong>Astro on Tap: Seattle</strong>  
 
-<strong>Astro on Tap: Penn State University</strong>  
+In-Person, January 11, 2023 (AAS 241 week)
 
-Virtual, June 21, 2021
-
-The Lives and Deaths of Barnard b
-
-<br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D7-3lwf4D7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[Link](https://www.youtube.com/watch?v=D7-3lwf4D7E)
+The Lives and Deaths of Barnard b (second time presenting this talk, but now with added info!)
 
 <br>
 
-<strong>Intro2Astro Research, Free Summer Course </strong>  
+<iframe width="560" height="315" src="https://youtu.be/x6Jt138Q8pc?t=3469" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Virtual, July 11, 2021
-
-My Mentor Profile: A short discussion of my non-traditional path to graduate school (Video skipped ahead to 54:30 mark).
-
-<br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W7sDQ9TZFSA?start=3270" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[Link](https://www.youtube.com/watch?v=W7sDQ9TZFSA)
-
-<br>
-
-<strong>Exoplanets IV - Las Vegas, NV</strong>  
-
-In-Person, May 05, 2022
-
-Stellar Activity Manifesting at a One Year Alias Explains Barnard b as a False Positive
-<br>
-
-<! -- <iframe width="560" height="315" src="/Users/jack/Documents/Other/Talks/ExoplanetsIV-Talk." title="Local Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-
-<br>
-
-
-<strong>Intro2Astro Research, Free Summer Course </strong>  
-
-Virtual, June 13, 2022
-
-A second time sharing my mentor profile for the course. While the story is the same, I feel I was able to better convey some of my thoughts in this version. A short discussion of my non-traditional path to graduate school (Video skipped ahead to 01:13:25 mark).
-
-<br>
-
- <iframe width="560" height="315" src="https://www.youtube.com/embed/sMK_ggEVsqA?start=4405" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[Link](https://youtu.be/sMK_ggEVsqA?t=4405)
+[Link](https://youtu.be/x6Jt138Q8pc?t=3469)
 
 <br>
 
 <strong>Intro2Astro Research, Free Summer Course </strong>  
 
-Virtual, June 26, 2022
+Virtual, July 18, 2022
 
-I lead the class through a popular science article about the exciting discovey of Proxima b, the closest exoplanet to us! I discuss the article itself, and generally about how to read popular science article through a professional scientific lens. (Video skipped ahead to 43:06 mark).
+I lead the class through a guide on applying to grad school. What you'll need, a general timeline to work with, and details on things like standardized tests, application fees, and letters of recommendation.
 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mJu5psJHVtI?start=2586" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BslLI46H-3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Link](https://youtu.be/mJu5psJHVtI?t=2586)
+[Link](https://www.youtube.com/watch?v=BslLI46H-3A)
+
+<br>
+
+<strong>Intro2Astro Research, Free Summer Course </strong>  
+
+Virtual, July 18, 2022
+
+I lead the class through a guide on applying to grad school. What you'll need, a general timeline to work with, and details on things like standardized tests, application fees, and letters of recommendation.
+
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BslLI46H-3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Link](https://www.youtube.com/watch?v=BslLI46H-3A)
 
 <br>
 
@@ -84,17 +58,70 @@ I lead the class through a guide on CVs. What they are, how to make one, what to
 
 <strong>Intro2Astro Research, Free Summer Course </strong>  
 
-Virtual, July 18, 2022
+Virtual, June 26, 2022
 
-I lead the class through a guide on applying to grad school. What you'll need, a general timeline to work with, and details on things like standardized tests, application fees, and letters of recommendation.
-
-<br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BslLI46H-3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[Link](https://www.youtube.com/watch?v=BslLI46H-3A)
+I lead the class through a popular science article about the exciting discovey of Proxima b, the closest exoplanet to us! I discuss the article itself, and generally about how to read popular science article through a professional scientific lens. (Video skipped ahead to 43:06 mark).
 
 <br>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mJu5psJHVtI?start=2586" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Link](https://youtu.be/mJu5psJHVtI?t=2586)
+
+<br>
+
+
+<strong>Intro2Astro Research, Free Summer Course </strong>  
+
+Virtual, June 13, 2022
+
+A second time sharing my mentor profile for the course. While the story is the same, I feel I was able to better convey some of my thoughts in this version. A short discussion of my non-traditional path to graduate school (Video skipped ahead to 01:13:25 mark).
+
+<br>
+
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/sMK_ggEVsqA?start=4405" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Link](https://youtu.be/sMK_ggEVsqA?t=4405)
+
+<br>
+
+<strong>Exoplanets IV - Las Vegas, NV</strong>  
+
+In-Person, May 05, 2022
+
+Stellar Activity Manifesting at a One Year Alias Explains Barnard b as a False Positive
+<br>
+
+<! -- <iframe width="560" height="315" src="/Users/jack/Documents/Other/Talks/ExoplanetsIV-Talk." title="Local Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+<br>
+
+<strong>Intro2Astro Research, Free Summer Course </strong>  
+
+Virtual, July 11, 2021
+
+My Mentor Profile: A short discussion of my non-traditional path to graduate school (Video skipped ahead to 54:30 mark).
+
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W7sDQ9TZFSA?start=3270" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Link](https://www.youtube.com/watch?v=W7sDQ9TZFSA)
+
+<br>
+
+<strong>Astro on Tap: Penn State University</strong>  
+
+Virtual, June 21, 2021
+
+The Lives and Deaths of Barnard b
+
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D7-3lwf4D7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Link](https://www.youtube.com/watch?v=D7-3lwf4D7E)
+
+<br>
 
 [Home](./)
