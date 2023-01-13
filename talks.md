@@ -8,9 +8,9 @@ The Lives and Deaths of Barnard b (second time presenting this talk, but now wit
 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D7-3lwf4D7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x6Jt138Q8pc?start=3469" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-[Link](https://www.youtube.com/watch?v=D7-3lwf4D7E)
+[Link](https://www.youtube.com/embed/x6Jt138Q8pc?start=3469)
 
 <br>
 
