@@ -5,6 +5,7 @@ Most recent on top:
 In-Person, January 11, 2023 (AAS 241 week)
 
 The Lives and Deaths of Barnard b (second time presenting this talk, but now with added info!)
+(PS My picture and Ryan's picture were accidentally switched.)
 
 <br>
 
