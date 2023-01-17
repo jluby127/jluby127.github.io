@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-<!-- <img align="right" src= "./images/IndvPagePhotos/solarspec.jpg" width="350" height="350"> -->
-
 <img align="right" src= "./images/IndvPagePhotos/toTelescope.jpg" width="250" height="350">
 <img align="right" src= "./images/IndvPagePhotos/solarspec.jpg" width="350" height="350">
 <img align="right" src= "./images/IndvPagePhotos/solarsystemholder.jpg" width="250" height="350">
@@ -27,7 +25,6 @@ layout: default
 
 [Decoy](./decoy.md)
 
-<!--[Counter](./counterpage.md)-->
 <br>
 
 <strong> Site Hits </strong> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=bc4609a39dc1e2fdf7bf02e4c27d946b62c1cebf'></script>
