@@ -1,7 +1,7 @@
 
 ### My Bookshelf
 
-Few things are better than a good book. For me, most "good" books are Sci-Fi, though this is not a hard rule. Here is an abbreviated list of some of my favorites, in no particular order.
+Few things are better than a good book. For me, most "good" books are Sci-Fi, though this is not a hard rule. Here is an abbreviated list of some of my favorites, in no particular order. I tend to read sci-fi in the summer, because I like to read these stories outside in the sunshine, preferably on the beach or in a green park. Then I read non-fiction history books in the winter, because for reasons I can't fully explain, I like to read these on dark and cold nights.
 
 <ul type="disc">
     <li> I Am Legend - Richard Matheson </li>
@@ -25,6 +25,26 @@ Few things are better than a good book. For me, most "good" books are Sci-Fi, th
     <br>
 
     <li> And The Mountains Echoed - Khaled Hosseini </li>
+
+    <br>
+
+    <li> Endurance: Shackleton's Incredible Voyage - Alred Lansing </li>
+
+    <br>
+
+    <li> The Invention of Nature: Alexander von Humboldt's New World - Andrea Wulf </li>
+
+    <br>
+
+    <li> In the Garden of Beasts - Erik Larson </li>
+
+    <br>
+
+    <li> Longitude - Dava Sobel </li>
+
+    <br>
+
+    <li> King Leopold's Ghost - Adam Hochschild </li>
 
     <br>
 

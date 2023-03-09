@@ -24,7 +24,7 @@ And here is a my ORCID.
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-8342-7736" href="https://orcid.org/0000-0001-8342-7736" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-8342-7736</a></div>
 
 
-And my "Failure" CV. Please read my note on the first page. And please consider constructing your own "Failure" CV. I believe our fields in science and more will be improved as they become more mainstream.
+And my "Failure" CV. Please read my note on the first page. And please consider constructing your own "Failure" CV. I believe the fields of science and beyond will be improved as these become more mainstream.
 
 <a href="./cv_stuff/MyFailureCV.pdf" download>
   <img src="./cv_stuff/FCV1.png" alt="None">

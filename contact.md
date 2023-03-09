@@ -1,6 +1,10 @@
 
 <img align="right" src= "./images/IndvPagePhotos/sendjack2space.jpg" width="350" height="350">
 
+<strong>twitter:</strong> [My Dot Profile](https://dot.cards/jluby127)
+
+<br>
+
 <strong>email:</strong> jlubin [at] uci [dot] edu
 
 <br>
@@ -15,7 +19,7 @@
 
 <br>
 
-<strong>site last updated:</strong> 02-21-2023
+<strong>site last updated:</strong> 03-09-2023
 
 <br>
 
