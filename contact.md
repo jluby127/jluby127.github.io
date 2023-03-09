@@ -1,7 +1,7 @@
 
 <img align="right" src= "./images/IndvPagePhotos/sendjack2space.jpg" width="350" height="350">
 
-<strong>twitter:</strong> [My Dot Profile](https://dot.cards/jluby127)
+<strong>Dot:</strong> [My Dot Profile](https://dot.cards/jluby127)
 
 <br>
 
