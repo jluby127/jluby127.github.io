@@ -6,9 +6,10 @@ In-Person, March 09, 2023
 
 Is Our Solar System Unique? (skip to 01:11:38 mark for my talk)
 
-<iframe width="560" height="315" src="https://vimeo.com/event/2866620" title="Vimeo video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/797185413?h=9038b9f2d1&color=ffd200&byline=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/797185413">2023 UCI Grad Slam Finals</a> from <a href="https://vimeo.com/ucimedia">UCI Media</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-[Link](https://vimeo.com/event/2866620)
+[Link](https://vimeo.com/797185413#t=4298s)
 
 <br>
 
