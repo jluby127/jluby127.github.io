@@ -15,19 +15,19 @@ For some reason I have a RateMyProfessor profile, but no one has rated me :(
 
 ### Fall 2018: Physics 52A - Fundamentals of Experimental Physics Lab
 
-Optics: lenses, mirrors, polarization, lasers, optical fibers, interference, spectra
+Optics: lenses, mirrors, polarization, lasers, optical fibers, interference, spectra.
 
 <br>
 
 ### Winter 2019: Physics 7D - Classical Physics
 
-Introduction to electricity and magnetism for scientists and engineers
+Introduction to electricity and magnetism for scientists and engineers.
 
 <br>
 
 ### Spring 2019: Physics 51A -  Modern Physics
 
-Wave-particle duality; quantum mechanics; special relativity; statistical mechanics
+Wave-particle duality; quantum mechanics; special relativity; statistical mechanics.
 
 <br>
 
@@ -100,13 +100,20 @@ Electrostatics; magnetostatics; relativity; classical electron theory; fields in
 
 ### Winter 2023: Physics 7D - Classical Physics (2nd time)
 
-Introduction to electricity and magnetism for scientists and engineers
+Introduction to electricity and magnetism for scientists and engineers.
 
 <br>
 
 ### Winter 2023: Physics 215B - Quantum Mechanics (Graduate Course)
 
 Atomic physics; scattering theory, formal collision theory; semi-classical radiation theory; many body systems.
+
+<br>
+
+### Spring 2023: Physics 7E - Classical Physics
+
+Fluids; oscillations; waves; and optics for scientists and engineers.
+
 
 <br>
 
