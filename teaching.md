@@ -112,7 +112,7 @@ Atomic physics; scattering theory, formal collision theory; semi-classical radia
 
 ### Spring 2023: Physics 7E - Classical Physics
 
-Fluids; oscillations; waves; and optics for scientists and engineers.
+Fluids, oscillations, waves, and optics for scientists and engineers.
 
 
 <br>
