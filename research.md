@@ -50,11 +50,18 @@ This phenomena has important implications for our understanding of how planets f
 
 <br>
 
+* * *
+
 I was the Winter 2021 quarter UCI Physics & Astronomy Department student spotlight! [Read all about it!](https://www.physastroblog.ps.uci.edu/2021/02/26/student-spotlight-jack-lubin/)
 
 <br>
 
 * * *
+
+I am a contributing author on the Astrobites team. Read my posts [here](https://astrobites.org/author/jlubin/)! 
+
+* * *
+
 
 As an undergraduate at Vanderbilt, I worked with Professor [Keivan Stassun](http://astro.phy.vanderbilt.edu/~stassuk/) and (now Assistant Professor at Michigan State University) [Joseph Rodriguez](https://sites.google.com/site/josepherodriguezjr/) on double M dwarf eclipsing binaries.
 We discovered and characterized the second brightest known of these such systems with the hope that the tight constraints we placed on mass, radius, and temperature can assist the theorists in refining their models of low mass stars.

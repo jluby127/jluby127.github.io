@@ -13,13 +13,6 @@ Is Our Solar System Unique? (skip to 01:11:38 mark for my talk)
 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x6Jt138Q8pc?start=3469" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-[Link](https://www.youtube.com/embed/x6Jt138Q8pc?start=3469)
-
-<br>
-
-
 <strong>Astro on Tap: Seattle</strong>  
 
 In-Person, January 11, 2023 (AAS 241 week)
