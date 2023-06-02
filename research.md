@@ -48,20 +48,17 @@ This phenomena has important implications for our understanding of how planets f
 
 <strong>And more...</strong>
 
-<br>
-
 * * *
 
 I was the Winter 2021 quarter UCI Physics & Astronomy Department student spotlight! [Read all about it!](https://www.physastroblog.ps.uci.edu/2021/02/26/student-spotlight-jack-lubin/)
 
+* * *
+
+I am a contributing author on the [Astrobites](https://astrobites.org/) team. Read my posts [here](https://astrobites.org/author/jlubin/)!
+
+* * *
+
 <br>
-
-* * *
-
-I am a contributing author on the Astrobites team. Read my posts [here](https://astrobites.org/author/jlubin/)! 
-
-* * *
-
 
 As an undergraduate at Vanderbilt, I worked with Professor [Keivan Stassun](http://astro.phy.vanderbilt.edu/~stassuk/) and (now Assistant Professor at Michigan State University) [Joseph Rodriguez](https://sites.google.com/site/josepherodriguezjr/) on double M dwarf eclipsing binaries.
 We discovered and characterized the second brightest known of these such systems with the hope that the tight constraints we placed on mass, radius, and temperature can assist the theorists in refining their models of low mass stars.
@@ -81,6 +78,8 @@ We discovered and characterized the second brightest known of these such systems
 1. [A Bright Short Period M-M Eclipsing Binary from the KELT Survey: Magnetic Activity and the Mass-Radius Relationship for M-dwarfs](https://arxiv.org/abs/1706.02401)
 
 ### n author
+
+35. [The TESS-Keck Survey. XV. Precise Properties of 108 TESS Planets and Their Host Stars](https://arxiv.org/abs/2306.00251)
 
 34. [Scaling K2. VI. Reduced Small Planet Occurrence in High Galactic Amplitude Stars](https://arxiv.org/abs/2305.13389)
 
