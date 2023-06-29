@@ -79,6 +79,12 @@ We discovered and characterized the second brightest known of these such systems
 
 ### n author
 
+38. [A close-in giant planet escapes engulfment by its star](https://arxiv.org/abs/2306.15877)
+
+37. [A Mini-Neptune Orbiting the Metal-poor K Dwarf BD+29 2654](https://arxiv.org/abs/2306.08179)
+
+36. [Overfitting Affects the Reliability of Radial Velocity Mass Estimates of the V1298 Tau Planets](https://arxiv.org/abs/2306.08145)
+
 35. [The TESS-Keck Survey. XV. Precise Properties of 108 TESS Planets and Their Host Stars](https://arxiv.org/abs/2306.00251)
 
 34. [Scaling K2. VI. Reduced Small Planet Occurrence in High Galactic Amplitude Stars](https://arxiv.org/abs/2305.13389)
