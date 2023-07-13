@@ -36,7 +36,7 @@ one hole-in-three, 16/61 national parks, 19/30 baseball parks and 43*/50 states 
 
 #### Maps
 
-I really like maps, so I thought I'd make a few
+I really like maps, so I thought I'd make a few. Click on the thumbnails on top to see the image enlarged below.
 
 
 <html>
@@ -63,7 +63,7 @@ img {
 /* Hide the images by default */
 .mySlides {
   display: none;
-  max-width:100%
+  max-width:75%
 }
 
 /* Add a pointer when hovering over the thumbnail images */
@@ -80,7 +80,7 @@ img {
   width: auto;
   padding: 16px;
   margin-top: -50px;
-  color: white;
+  color: gray;
   font-weight: bold;
   font-size: 20px;
   border-radius: 0 3px 3px 0;
@@ -142,6 +142,9 @@ img {
 <body>
 
 <div class="container">
+<div class="caption-container">
+  <p id="caption"></p>
+</div>
 <div class="row">
   <div class="column">
     <img class="demo cursor" src="images/Maps/Visited.png" style="width:100%" onclick="currentSlide(1)" alt="These are the states I've visited">
@@ -193,10 +196,6 @@ img {
 
   <a class="prev" onclick="plusSlides(-1)">❮</a>
   <a class="next" onclick="plusSlides(1)">❯</a>
-
-  <div class="caption-container">
-    <p id="caption"></p>
-  </div>
 
   <!--  -->
   </div>
