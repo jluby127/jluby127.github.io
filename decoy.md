@@ -6,6 +6,6 @@
 
 [Home](./)
 
-[Click me](src="./../images/PhotoGallery/lick/IMG_1195.JPG"){: .btn}
+[Click me](src="images/PhotoGallery/lick/IMG_1195.JPG"){: .btn}
 
-![Semantic description of image]("./../images/PhotoGallery/lick/IMG_1195.JPG" "Image Title")
+![Semantic description of image]("images/PhotoGallery/lick/IMG_1195.JPG" "Image Title")
