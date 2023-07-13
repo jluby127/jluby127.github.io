@@ -80,7 +80,7 @@ img {
   width: auto;
   padding: 16px;
   margin-top: -50px;
-  color: gray;
+  color: black;
   font-weight: bold;
   font-size: 20px;
   border-radius: 0 3px 3px 0;
@@ -142,9 +142,7 @@ img {
 <body>
 
 <div class="container">
-<div class="caption-container">
-  <p id="caption"></p>
-</div>
+max-width:75%
 <div class="row">
   <div class="column">
     <img class="demo cursor" src="images/Maps/Visited.png" style="width:100%" onclick="currentSlide(1)" alt="These are the states I've visited">
@@ -167,6 +165,9 @@ img {
   <div class="mySlides">
     <div class="numbertext">1 / 6</div>
     <img src="images/Maps/Visited.png" style="width:100%">
+  </div>
+  <div class="caption-container">
+    <p id="caption"></p>
   </div>
 
   <div class="mySlides">
