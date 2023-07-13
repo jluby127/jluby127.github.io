@@ -165,9 +165,9 @@ img {
     <div class="numbertext">1 / 6</div>
     <img src="images/Maps/Visited.png" style="width:100%">
   </div>
-  <div class="caption-container">
+  <!-- <div class="caption-container">
     <p id="caption"></p>
-  </div>
+  </div> -->
 
   <div class="mySlides">
     <div class="numbertext">2 / 6</div>
