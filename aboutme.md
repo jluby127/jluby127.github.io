@@ -63,7 +63,7 @@ img {
 /* Hide the images by default */
 .mySlides {
   display: none;
-  max-width:75%
+  max-width:100%
 }
 
 /* Add a pointer when hovering over the thumbnail images */
@@ -80,7 +80,7 @@ img {
   width: auto;
   padding: 16px;
   margin-top: -50px;
-  color: black;
+  color: white;
   font-weight: bold;
   font-size: 20px;
   border-radius: 0 3px 3px 0;
@@ -142,7 +142,6 @@ img {
 <body>
 
 <div class="container">
-max-width:75%
 <div class="row">
   <div class="column">
     <img class="demo cursor" src="images/Maps/Visited.png" style="width:100%" onclick="currentSlide(1)" alt="These are the states I've visited">
