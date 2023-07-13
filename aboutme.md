@@ -141,9 +141,26 @@ img {
 </style>
 <body>
 
-<h2 style="text-align:center">Photos from an observing run at Lick Observatory, April 2019</h2>
-
 <div class="container">
+<div class="row">
+  <div class="column">
+    <img class="demo cursor" src="images/Maps/Visited.png" style="width:100%" onclick="currentSlide(1)" alt="These are the states I've visited">
+  </div>
+  <div class="column">
+    <img class="demo cursor" src="images/Maps/Lived.png" style="width:100%" onclick="currentSlide(2)" alt="These are the states I've lived in. Defined as signed a lease here.">
+  </div>
+  <div class="column">
+    <img class="demo cursor" src="images/Maps/Roadtrip.png" style="width:100%" onclick="currentSlide(3)" alt="These are the states I passed through and enjoyed on my Summer 2018 Roadtrip. See Gallery for pics!">
+  </div>
+  <div class="column">
+    <img class="demo cursor" src="images/Maps/Costco.png" style="width:100%" onclick="currentSlide(4)" alt="These are the states in which I've been to a Costco.">
+  </div>
+  <div class="column">
+    <img class="demo cursor" src="images/Maps/Food.png" style="width:100%" onclick="currentSlide(5)" alt="A few of the best things I've eaten.">
+  </div>
+  <div class="column">
+    <img class="demo cursor" src="images/Maps/Baseball.png" style="width:100%" onclick="currentSlide(6)" alt="Trying to make it to every MLBstadium.">
+  </div>
   <div class="mySlides">
     <div class="numbertext">1 / 6</div>
     <img src="images/Maps/Visited.png" style="width:100%">
@@ -181,25 +198,7 @@ img {
     <p id="caption"></p>
   </div>
 
-  <div class="row">
-    <div class="column">
-      <img class="demo cursor" src="images/Maps/Visited.png" style="width:100%" onclick="currentSlide(1)" alt="These are the states I've visited">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="images/Maps/Lived.png" style="width:100%" onclick="currentSlide(2)" alt="These are the states I've lived in. Defined as signed a lease here.">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="images/Maps/Roadtrip.png" style="width:100%" onclick="currentSlide(3)" alt="These are the states I passed through and enjoyed on my Summer 2018 Roadtrip. See Gallery for pics!">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="images/Maps/Costco.png" style="width:100%" onclick="currentSlide(4)" alt="These are the states in which I've been to a Costco.">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="images/Maps/Food.png" style="width:100%" onclick="currentSlide(5)" alt="A few of the best things I've eaten.">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="images/Maps/Baseball.png" style="width:100%" onclick="currentSlide(6)" alt="Trying to make it to every MLBstadium.">
-    </div>
+  <!--  -->
   </div>
 </div>
 
