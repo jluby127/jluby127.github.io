@@ -157,9 +157,9 @@ h1 {
   </div>
   <div class="column">
     <div class="content">
-    <img src="/w3images/nature.jpg" alt="Nature" style="width:100%">
-      <h3>My Work</h3>
-      <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+    <img src="./images/PhotoGallery/SectionCoverPics/rt18.JPG" alt="RT18" style="width:100%">
+      <h3><a href="https://jluby127.github.io/galleries/gallery_rt18.html">Photos: Road Trip 1</a></h3>
+      <p>My 6 favorite photos from my road trip from CT to CA, Summer 2018.</p>
     </div>
   </div>
   <div class="column">
