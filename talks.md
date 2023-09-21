@@ -1,4 +1,16 @@
-Most recent on top:
+### Most recent on top:
+
+<strong>iTelescope Webinar</strong>  
+
+Virtual, August 18, 2023
+
+New Dimensions in Time Series Analysis for Exoplanet Detection
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/10vOlkmOgvA?si=nSLVW21RNWUsy_i3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Link](https://www.youtube.com/watch?v=10vOlkmOgvA&t=979s)
+
+<br>
 
 <strong>UCI Grad Slam Finals</strong>  
 
