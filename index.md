@@ -7,6 +7,8 @@ layout: default
 
 [About me](./aboutme.md)
 
+[My Astro Story](./myastrostory.md)
+
 [Research](./research.md)
 
 [Teaching](./teaching.md)

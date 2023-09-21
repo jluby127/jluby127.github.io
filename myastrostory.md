@@ -1,0 +1,40 @@
+#### my astro story
+
+I've had a winding path to and through astronomy, I am certain there is no one right way to do it.
+I started my formal astro education as a first year at Emory University in 2012 with their Intro to Astro 101.
+I was the only first-year in the class, most students were in their final year as business majors just trying to fulfill an easy science credit (I am strong believer that it is a very good thing Intro Astro courses are considered "easy" and therefore attractive to non-science majors...they should be easy and attractive!).
+By the end of the first week I knew this was something I wanted to study in a lot more detail. Unfortunately, Emory only had one additional astro course and no astro major.
+I thought about it a lot...if this is something I wanted to pursue, I felt I might not be in the right place to do it. So I made the decision to apply for transfer. Ultimately I chose to say goodbye to a school I truly loved, and had great friends, for the chance to study astro.
+
+That summer I worked at golf course, took Calc 2 at Southern Connecticut State University (Go Owls), and blindly emailed just about everyone on the Yale Astro Deptartment's website asking if I could shadow them and do some astro research. I sent ~30 emails, got 5 responses: 1 said no, 3 said they'd love to help but couldn't, and 1 said "sure come on down!". That one was Dr. Tabetha Boyajian. She took me under her wing and gave me some basic tasks to get me familiar with astronomy research. I learned a lot that summer and will be forever grateful to Dr. Boyajian for taking a chance on me.
+
+In the fall, I found myself at Vanderbilt to start my second year. My default specified transfer advisor was Prof. David Weintraub. He advised me to take a heavy science load, and emphasized I take CompSci 101. He said that astronomy was driven by software and if I wanted to work in research, I'd need to be at least familiar, if not proficient, with coding and software development.
+I really struggled that semester both in schoolwork (especially CompSci 101, I just didn't get it!) and also socially. It's difficult to join a new school when it seems like everyone already has their circle of friends. But I was studying what I wanted in detail: I was in Prof. Keivan Stassun's Astro 201 course.
+I loved this course, and learned a ton. At the start of the spring semester, I reached out to Prof. Stassun and asked if I could join his research group, he said yes!
+
+But first, he said I would need to become a stronger coder. He set me up with his grad student, Joey Rodriguez. Joey took me under his wing, gave me python coding challenges and helped me write basic astro software. This continued through my 3rd year and I felt more confident in my python coding skills and I continued taking astro courses.
+The summer between my third and fourth years I applied for a bunch of Research Experience for Undergraduates (REUs), I didn't get any of them, see my [Failure CV](./CV). But Prof Stassun hired me into the Vandy Astro REU and I started a project to search for double M-dwarf eclipsing binary (EB) stars.
+I remember Prof. Stassun did a back of the envelope calculation: based on the binarity rate of M dwarfs, the eclipsing binary rate, the occurrence of M dwarfs, and few basic cuts, we expected a rate of 1 in 2000 M dwarfs would be the double M EB we were looking for. Luckily we had a sample of 2000 M dwarfs from the [KELT survey](https://en.wikipedia.org/wiki/Kilodegree_Extremely_Little_Telescope).
+I spent the summer searching through custom-made reports and by the end of it had a couple candidates.
+By the start of the Fall of my fourth year, we had confirmed one was exactly what we were looking for. Prof. Stassun suggested I turn this discovery into an Honors thesis and said we could also turn it into a full on paper. I agreed to take that on.
+
+We also had a conversation about grad school. He encouraged me to apply, but I said I wasn't sure I wanted to go to grad school. I had only ever been a student and wanted to know what else was out there. I wanted to hold a real job, make a little money, live beyond home and college. I said I wanted to go out into the real world, then I would decide after a year or so if I wanted to apply to grad school. Prof. Stassun understood, but said he heard many people say they would go back to school later, but few ever did. I appreciated his honesty. That year I worked on my Honors thesis, which I successfully defended and earned "Highest Honors" and then graduated from Vandy in May of 2016.
+
+I took a job with Capital One (what's in your wallet) in Arlington, VA doing software engineering. I moved to DC and lived with 2 of my best friends. I had a great time exploring DC, having fun, going to Nats games. After work and on weekends I used to go on long bike rides around DC, on the Mall, up to Maryland, down to Mount Vernon.
+But often I would take a break from the humid DC heat and pop into the National Air & Space Museum. I'd wander the halls for 15 minutes, grab an astronaut ice cream, and then bike to the Lincoln Memorial to sit on the back ledge overlooking the Potomac and read sci-fi.
+On these days, I would think about astro and come to finally admit to myself I didn't like my job.
+
+Ultimately I decided to apply for grad school. I quit my job, moved home to CT, studied for the GRE, spent a lot of time self-reflecting on life and my vision for it and path through it as I wrote my essays. I reached out to Prof. Stassun, Prof. Weintraub, and Dr. Rodriguez for letters of rec, all agreed. I spent the fall researching the professors in each department I wanted to apply to, and emailing one or two to ask about their research and their group.
+I got all my applications by December and then spent more time in reflection. I worked at another golf course and finally got an acceptance letter from UCI. I was thrilled. I went to accepted students day in March of 2018. There I met with the then head of the admissions committee, Prof. Manoj Kaplinghat, who told me he and the committee were impressed with my application's directness in wanting to study exoplanets.
+He said the department was working on a long term strategy to grow their exoplanet research group. At the time UCI had a very small exoplanet group. The only professor was Prof. Aomawa Shields, who had one postdoc and one grad student. But they had just hired Prof. Paul Robertson, and Prof. Kaplinghat said the department was committed to hiring one more exoplanet professor. He said if I chose UCI, I would see the exoplanet group grow and be a part of its growth. That day I met with Paul in his office. He had only been on the job for 2 weeks. His office was empty, just a folding table and two folding chairs. But we had a great chat! I was sold. Plus it was my only option! But I enrolled in UCI.
+
+I spent the summer of 2019 prepping for school. I spent time rereading old math and physics books. I was feeling a lot of imposter syndrome.
+
+
+
+
+
+
+
+
+[Home](./)
