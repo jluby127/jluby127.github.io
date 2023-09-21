@@ -79,6 +79,8 @@ We discovered and characterized the second brightest known of these such systems
 
 ### n author
 
+40. [Investigating the Atmospheric Mass Loss of the Kepler-105 Planets Straddling the Radius Gap](https://arxiv.org/abs/2309.11494)
+
 39. [The TESS-Keck Survey. XVI. Mass Measurements for 12 Planets in Eight Systems](https://arxiv.org/abs/2306.16587)
 
 38. [A close-in giant planet escapes engulfment by its star](https://arxiv.org/abs/2306.15877)

@@ -5,7 +5,7 @@
 
 <br>
 
-<strong>email:</strong> jlubin [at] uci [dot] edu
+<strong>email:</strong> jblubin [at] astro [dot] ucla [dot] edu
 
 <br>
 
@@ -13,13 +13,13 @@
 
 <br>
 
-
-<strong>office:</strong> Frederick Reines Hall
+<strong>office:</strong> Physics and Astronomy Building (PAB)
+[My UCLA postdoc page](https://www.physics.uci.edu/node/13487)
 [My UCI student page](https://www.physics.uci.edu/node/13487)
 
 <br>
 
-<strong>site last updated:</strong> 06-30-2023
+<strong>site last updated:</strong> 09-21-2023
 
 <br>
 

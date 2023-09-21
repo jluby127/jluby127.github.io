@@ -3,6 +3,19 @@ Originally from the East coast I first became fascinated in physics and astronom
 from watching Science/Discovery/History Channel documentaries on the space race. Always wanting to be
 an astronaut, I've been chasing the stars ever since, but now safely from the ground in California.
 
+#### my astro story
+
+I've had a winding path to and through astronomy, I am certain there is no one right way to do it.
+I started my formal astro education as a first year at Emory University with their Intro to Astro 101.
+I was the only first-year in the class, most students were in their final year as business majors just trying to fulfil an easy science credit (I am strong believer that it is a very good thing Intro Astro courses are considered "easy" and therefore attractive to non-science majors...they should be easy and attractive!).
+By the end of the first week I knew this was something I wanted to study in a lot more detail. Unfortunately, Emory only had one additional astro course and no major.
+I thought about it a lot...if this is something I wanted to pursue, I felt I might not be in the right place to do it. So I made the decision to apply for transfer, see my [Failure CV](./CV). Ultimately I chose to say goodbye to a school I truly loved, and had great friends, for the chance to study astro.
+
+That summer I worked at golf course, took Calc 2 at Southern Connecticut State University (Go Owls), and blindly emailed just about everyone on the Yale Astro Deptartment's website asking if I could shadow them and do some astro research. I sent ~30 emails, got 5 responses: 1 said no, 3 said they'd love to help but couldn't, and 1 said "sure come on down!". That one was Dr. Tabetha Boyajian.
+
+
+ found myself at Vanderbilt to start my second year. I was advised to take
+
 #### education
 
 <img align="right" src= "./images/IndvPagePhotos/happynewyear.jpg" width="400" height="550">
