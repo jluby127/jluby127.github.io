@@ -48,6 +48,8 @@ This phenomena has important implications for our understanding of how planets f
 
 <strong>And more...</strong>
 
+See my full library of published papers [here](https://ui.adsabs.harvard.edu/public-libraries/Ild-6TS-TDWwJoJiDMBazA).
+
 * * *
 
 I was the Winter 2021 quarter UCI Physics & Astronomy Department student spotlight! [Read all about it!](https://www.physastroblog.ps.uci.edu/2021/02/26/student-spotlight-jack-lubin/)
