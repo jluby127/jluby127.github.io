@@ -81,6 +81,8 @@ We discovered and characterized the second brightest known of these such systems
 
 ### n author
 
+41. [TOI-1801 b: A temperate mini-Neptune around a young M0.5 dwarf](https://arxiv.org/abs/2310.10244)
+
 40. [Investigating the Atmospheric Mass Loss of the Kepler-105 Planets Straddling the Radius Gap](https://arxiv.org/abs/2309.11494)
 
 39. [The TESS-Keck Survey. XVI. Mass Measurements for 12 Planets in Eight Systems](https://arxiv.org/abs/2306.16587)
