@@ -25,30 +25,31 @@ Here I am at Cape Canaveral with friends test driving an Apollo capsule model. A
 
 <br>
 
-I work with [Paul Robertson](https://faculty.sites.uci.edu/robertson/) on a variety of projects, such as:
+Between my undergraduate research with Professor [Keivan Stassun](http://astro.phy.vanderbilt.edu/~stassuk/) and (now Assistant Professor at Michigan State University) [Joseph Rodriguez](https://sites.google.com/site/josepherodriguezjr/), my graduate research with my advisor [Paul Robertson](https://faculty.sites.uci.edu/robertson/), and now as a postdoc with [Erik Petigura](https://www.erikpetigura.com), I have worked on a wide variety of projects within exoplanet science. Here are a few categories and highlights:
 
 <strong>Building a Better Periodogram:</strong>
 
-Stellar activity is a real nuisance when planet hunting via RV. Activity induced signals,
-from phenomena like star spots, can either mask a true planetary signal (false negative) or mimic a planet (false positive).
-These signals are inherently tied to the rotation period of the star but the phenomena responsible have varying lifetimes and decay rates.
-So while they are periodic signals, they are not robust across all time. They will gain and lose signal power over their life cycle, unlike
-a planet signal, which is robust across all time.
-But because activity signals are periodic, our current tools for finding periodic signals will pick up on them, which can cause us to mis-interpret activity signals as planet signals.
-We need new tools which can differentiate between robust sinusoids (planets) and decaying wavelets (activity).
-I am working on building this new periodogram.
+[Stellar activity](https://solarscience.msfc.nasa.gov/feature1.shtml) is a real nuisance when planet-searching via the [radial velicity (RV) method](https://www.planetary.org/articles/color-shifting-stars-the-radial-velocity-method#:~:text=The%20radial%2Dvelocity%20method%20for,tug%20of%20its%20smaller%20companion.). Activity induced signals, from phenomena like star spots, can either mask a true planetary signal (false negative) or mimic a planet (false positive). These signals are inherently tied to the rotation period of the star but the phenomena responsible have varying lifetimes and decay rates. So while activity signals are periodic signals, they are not robust across all time. They will gain and lose signal power over their life cycle. This is inherently different from a planet signal, which is robust across all time. But because activity signals are periodic, our current tools for finding periodic signals will pick up on them, which can cause us to misinterpret activity signals as planet signals. We need new tools which can differentiate between robust sinusoids (planets) and decaying wavelets (activity). I am working on building this new periodogram.
 
+<strong>Spin-Orbit Misalignment and Dynamics:</strong>
 
-<strong>Spin-Orbit Misalignment:</strong>
+As more planets are discovered and more can be fully characterized and scrutinized, astronomers are finding that planets don't always align nicely with their star. That is to say, the orbital plane of the planet is not exactly perpendicular to the axis of rotation of the host star. In our Solar System, the largest misalignment belongs to Mercury at just under 7 degrees. But in extrasolar planets, astronomers are finding spin-orbit angles at every value between 0 and +/- 180 degrees (negative values indicate that the planet orbits in the opposite direction of the star's spin...a "backwards" or retrograde orbit). This phenomena has important implications for our understanding of how planets form but more data is needed, we need more well measured systems. In particular, we need to measure the alignment of more multi-planet systems and more small planets.
 
-As more planets are discovered and more can be fully characterized and scrutinized, astronomers are finding that planets don't always
-align nicely with their star. That is to say the orbital plane of the planet is not exactly perpendicular to the axis of rotation of the host star. In our Solar System, the largest misalignment belongs to Mercury at just under 7 degrees.
-But in extrasolar planets, astronomers are finding inclinations at every value between 0 and +/- 180 degrees (negative values indicate that the planet orbits in the opposite direction of the star's spin...a "backwards" or retrograde orbit).
-This phenomena has important implications for our understanding of how planets form but more data is needed, we need more well measured systems.
+<strong>Eta Solar System:</strong>
 
-<strong>And more...</strong>
+A big question in exoplanet science is: how common are Earth-like planets? The occurrence rate of Earth like planets is often shorthanded as "Eta Earth" (where Eta is often used as the greek letter to designate and occurrence rate). I am interested in taking this a step further, what is the occurrence rate of Solar System-like architectures, that is Eta Solar System? To find this value, I have to define what a Solar System-like architecture and at its simplest, this is a system where all planets are at wide separation from their host star and the inner system is composed of small, rocky planets while the outer system is composed of large gaseous planets. How can we search for these kinds of exoplanet systems most efficiently?
+
+<strong>Double M dwarf Eclipsing Binaries:</strong>
+
+(M dwarf stars)[https://en.wikipedia.org/wiki/Red_dwarf] are the most common type of star in the universe. However, they are still poorly understood: the models that relate fundamental properties of stars like mass, radius, and temperature work very well for high mass stars like our Sun, but they break down for the low mass M dwarf stars. To help these models work better, we need to supply the theorists with more and better data points. The best way to do this is to perform detailed model-independent characterizations of M dwarf stars and the best way to do that is to find these stars in (eclipsing binary systems)[https://www.britannica.com/science/star-astronomy/Eclipsing-binaries#:~:text=An%20eclipsing%20binary%20consists%20of,be%20hidden%20behind%20the%20other.], ideally where both components of the binary are M dwarfs. We found the 2nd brightest ever double M-dwarf EB and used it to make precise measurements of those fundamental parameters.
+
+<strong>And more...!</strong>
 
 See my full library of published papers [here](https://ui.adsabs.harvard.edu/public-libraries/Ild-6TS-TDWwJoJiDMBazA).
+
+* * *
+
+If you are so inclined, you can read my dissertation [here](https://www.proquest.com/dissertations-theses/new-dimensions-time-series-analysis-exoplanet/docview/2854278754/se-2?accountid=14512).
 
 * * *
 
@@ -62,13 +63,6 @@ I am a contributing author on the [Astrobites](https://astrobites.org/) team. Re
 
 <br>
 
-As an undergraduate at Vanderbilt, I worked with Professor [Keivan Stassun](http://astro.phy.vanderbilt.edu/~stassuk/) and (now Assistant Professor at Michigan State University) [Joseph Rodriguez](https://sites.google.com/site/josepherodriguezjr/) on double M dwarf eclipsing binaries.
-We discovered and characterized the second brightest known of these such systems with the hope that the tight constraints we placed on mass, radius, and temperature can assist the theorists in refining their models of low mass stars.
-
-<center><img align="middle" src= "./images/IndvPagePhotos/keltks20.png" width="600" height="500"></center>
-
-
-
 # publications (most recent on top)
 
 ### first author
@@ -80,6 +74,8 @@ We discovered and characterized the second brightest known of these such systems
 1. [A Bright Short Period M-M Eclipsing Binary from the KELT Survey: Magnetic Activity and the Mass-Radius Relationship for M-dwarfs](https://arxiv.org/abs/1706.02401)
 
 ### n author
+
+42. [TOI-2015b: A Warm Neptune with Transit Timing Variations Orbiting an Active mid M Dwarf](https://arxiv.org/abs/2310.11775)
 
 41. [TOI-1801 b: A temperate mini-Neptune around a young M0.5 dwarf](https://arxiv.org/abs/2310.10244)
 
