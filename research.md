@@ -66,6 +66,7 @@ I am a contributing author on the [Astrobites](https://astrobites.org/) team. Re
 # publications (most recent on top)
 
 ### first author
+4. [TOI-1670 c, a 40-day Orbital Period Warm Jupiter in a Compact System, is Well-aligned](https://arxiv.org/abs/2311.16237)
 
 3. [TESS-Keck Survey IX: Masses of Three Sub-Neptunes Orbiting HD 191939 and the Discovery of a Warm Jovian Plus a Distant Sub-Stellar Companion](https://arxiv.org/abs/2108.02208)
 
