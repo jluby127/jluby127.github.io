@@ -76,6 +76,10 @@ I am a contributing author on the [Astrobites](https://astrobites.org/) team. Re
 
 ### n author
 
+44. [Giant Outer Transiting Exoplanet Mass (GOT 'EM) Survey. IV. Long-term Doppler Spectroscopy for 11 Stars Thought to Host Cool Giant Exoplanets](https://arxiv.org/abs/2401.03021)
+
+43. [The TESS-Keck Survey XVII: Precise Mass Measurements in a Young, High Multiplicity Transiting Planet System using Radial Velocities and Transit Timing Variations](https://arxiv.org/abs/2312.04635)
+
 42. [TOI-2015b: A Warm Neptune with Transit Timing Variations Orbiting an Active mid M Dwarf](https://arxiv.org/abs/2310.11775)
 
 41. [TOI-1801 b: A temperate mini-Neptune around a young M0.5 dwarf](https://arxiv.org/abs/2310.10244)

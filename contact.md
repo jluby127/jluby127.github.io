@@ -14,12 +14,16 @@
 <br>
 
 <strong>office:</strong> Physics and Astronomy Building (PAB)
+<br>
+
 [My UCLA postdoc page](https://www.physics.uci.edu/node/13487)
+<br>
+
 [My UCI student page](https://www.physics.uci.edu/node/13487)
 
 <br>
 
-<strong>site last updated:</strong> 12-06-2023
+<strong>site last updated:</strong> 02-01-2024
 
 <br>
 
