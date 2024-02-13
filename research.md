@@ -76,6 +76,14 @@ I am a contributing author on the [Astrobites](https://astrobites.org/) team. Re
 
 ### n author
 
+48. [The TESS-Keck Survey XXI: 13 New Planets and Homogeneous Properties for 21 Subgiant Systems](https://arxiv.org/abs/2402.07893)
+
+47. [The TESS-Keck Survey. XII. A Dense 1.8 R⊕ Ultra-Short-Period Planet Possibly Clinging to a High-Mean-Molecular-Weight Atmosphere After the First Gyr](https://arxiv.org/abs/2402.07451)
+
+46. [The TESS-Keck Survey. XVIII. A sub-Neptune and spurious long-period signal in the TOI-1751 system](https://arxiv.org/abs/2402.07110)
+
+45. [The TESS-Keck Survey. XIX. A Warm Transiting Sub-Saturn Mass Planet and a non-Transiting Saturn Mass Planet Orbiting a Solar Analog](https://arxiv.org/abs/2402.03498)
+
 44. [Giant Outer Transiting Exoplanet Mass (GOT 'EM) Survey. IV. Long-term Doppler Spectroscopy for 11 Stars Thought to Host Cool Giant Exoplanets](https://arxiv.org/abs/2401.03021)
 
 43. [The TESS-Keck Survey XVII: Precise Mass Measurements in a Young, High Multiplicity Transiting Planet System using Radial Velocities and Transit Timing Variations](https://arxiv.org/abs/2312.04635)
