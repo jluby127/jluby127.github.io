@@ -12,6 +12,18 @@ New Dimensions in Time Series Analysis for Exoplanet Detection
 
 <br>
 
+<strong>ExoExplorers 2023 Presentation</strong>  
+
+Virtual, August 18, 2023
+
+New Dimensions in Time Series Analysis for Exoplanet Detection
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k5FX7nWOBCo?si=VpWS7t46E0Bj1QoG&amp;start=189" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Link](https://www.youtube.com/watch?v=k5FX7nWOBCo)
+
+<br>
+
 <strong>UCI Grad Slam Finals</strong>  
 
 In-Person, March 09, 2023

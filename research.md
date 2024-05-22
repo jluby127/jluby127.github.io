@@ -76,6 +76,10 @@ I am a contributing author on the [Astrobites](https://astrobites.org/) team. Re
 
 ### n author
 
+50. [The TESS-Keck Survey. XXII. A sub-Neptune Orbiting TOI-1437](https://arxiv.org/abs/2405.12448)
+
+49. [A Tale of Two Peas-In-A-Pod: The Kepler-323 and Kepler-104 Systems](https://arxiv.org/abs/2402.13386)
+
 48. [The TESS-Keck Survey XXI: 13 New Planets and Homogeneous Properties for 21 Subgiant Systems](https://arxiv.org/abs/2402.07893)
 
 47. [The TESS-Keck Survey. XII. A Dense 1.8 R⊕ Ultra-Short-Period Planet Possibly Clinging to a High-Mean-Molecular-Weight Atmosphere After the First Gyr](https://arxiv.org/abs/2402.07451)
