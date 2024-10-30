@@ -29,7 +29,7 @@ Between my undergraduate research with Professor [Keivan Stassun](http://astro.p
 
 <strong>Building a Better Periodogram:</strong>
 
-[Stellar activity](https://solarscience.msfc.nasa.gov/feature1.shtml) is a real nuisance when planet-searching via the [radial velicity (RV) method](https://www.planetary.org/articles/color-shifting-stars-the-radial-velocity-method#:~:text=The%20radial%2Dvelocity%20method%20for,tug%20of%20its%20smaller%20companion.). Activity induced signals, from phenomena like star spots, can either mask a true planetary signal (false negative) or mimic a planet (false positive). These signals are inherently tied to the rotation period of the star but the phenomena responsible have varying lifetimes and decay rates. So while activity signals are periodic signals, they are not robust across all time. They will gain and lose signal power over their life cycle. This is inherently different from a planet signal, which is robust across all time. But because activity signals are periodic, our current tools for finding periodic signals will pick up on them, which can cause us to misinterpret activity signals as planet signals. We need new tools which can differentiate between robust sinusoids (planets) and decaying wavelets (activity). I am working on building this new periodogram.
+[Stellar activity](https://solarscience.msfc.nasa.gov/feature1.shtml) is a real nuisance when planet-searching via the [radial velocity (RV) method](https://www.planetary.org/articles/color-shifting-stars-the-radial-velocity-method#:~:text=The%20radial%2Dvelocity%20method%20for,tug%20of%20its%20smaller%20companion.). Activity induced signals, from phenomena like star spots, can either mask a true planetary signal (false negative) or mimic a planet (false positive). These signals are inherently tied to the rotation period of the star but the phenomena responsible have varying lifetimes and decay rates. So while activity signals are periodic signals, they are not robust across all time. They will gain and lose signal power over their life cycle. This is inherently different from a planet signal, which is robust across all time. But because activity signals are periodic, our current tools for finding periodic signals will pick up on them, which can cause us to misinterpret activity signals as planet signals. We need new tools which can differentiate between robust sinusoids (planets) and decaying wavelets (activity). I am working on building this new periodogram.
 
 <strong>Spin-Orbit Misalignment and Dynamics:</strong>
 
@@ -77,6 +77,18 @@ I am a contributing author on the [Astrobites](https://astrobites.org/) team. Re
 1. [A Bright Short Period M-M Eclipsing Binary from the KELT Survey: Magnetic Activity and the Mass-Radius Relationship for M-dwarfs](https://arxiv.org/abs/1706.02401)
 
 ### n author
+
+56. [Revised Masses for Low Density Planets Orbiting the Disordered M-dwarf System TOI-1266](https://arxiv.org/abs/2410.20282)
+
+55. [Utilizing Photometry from Multiple Sources to Mitigate Stellar Variability in Precise Radial Velocities: A Case Study of Kepler-21](https://arxiv.org/abs/2408.02873)
+
+54. [TESS Giants Transiting Giants. VI. Newly Discovered Hot Jupiters Provide Evidence for Efficient Obliquity Damping after the Main Sequence](https://arxiv.org/abs/2407.21650})
+
+53. [A Testbed for Tidal Migration: the 3D Architecture of an Eccentric Hot Jupiter HD 118203 b Accompanied by a Possibly Aligned Outer Giant Planet](https://arxiv.org/abs/2407.21377)
+
+52. [An Earth-sized Planet on the Verge of Tidal Disruption](https://arxiv.org/abs/2407.21167)
+
+51. [The California Legacy Survey V. Chromospheric Activity Cycles in Main Sequence Stars](https://arxiv.org/abs/2406.17332)
 
 50. [The TESS-Keck Survey. XXII. A sub-Neptune Orbiting TOI-1437](https://arxiv.org/abs/2405.12448)
 
