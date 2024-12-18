@@ -78,6 +78,8 @@ I am a contributing author on the [Astrobites](https://astrobites.org/) team. Re
 
 ### n author
 
+57. [Jitter Across 15 Years: Leveraging Precise Photometry from Kepler and TESS to Extract Exoplanets from Radial Velocity Time Series](https://arxiv.org/abs/2412.11329)
+
 56. [Revised Masses for Low Density Planets Orbiting the Disordered M-dwarf System TOI-1266](https://arxiv.org/abs/2410.20282)
 
 55. [Utilizing Photometry from Multiple Sources to Mitigate Stellar Variability in Precise Radial Velocities: A Case Study of Kepler-21](https://arxiv.org/abs/2408.02873)
