@@ -5,7 +5,7 @@
 
 <br>
 
-<strong>email:</strong> jblubin [at] astro [dot] ucla [dot] edu
+<strong>email:</strong> jblubin [at] ucla [dot] edu
 
 <br>
 
@@ -23,7 +23,7 @@
 
 <br>
 
-<strong>site last updated:</strong> 01-14-2025
+<strong>site last updated:</strong> 03-07-2025
 
 <br>
 

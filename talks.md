@@ -1,5 +1,18 @@
 ### Most recent on top:
 
+<strong>Know Thy Star, Know Thy Planet 2 Conference</strong>  
+
+Virtual, February 3, 2025
+
+A Data-Driven Model for Measuring Low Vsini: Building Towards Obliquties En Masse
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kWLzUCE12Pw?si=A8dTqG6z6aQHLnz2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Link](https://www.youtube.com/watch?v=kWLzUCE12Pw)
+
+<br>
+
+
 <strong>iTelescope Webinar</strong>  
 
 Virtual, August 18, 2023
