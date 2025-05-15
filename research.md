@@ -78,6 +78,8 @@ I am a contributing author on the [Astrobites](https://astrobites.org/) team. Re
 
 ### n author
 
+59. [Peekaboo: Secular Resonances from Evolving Stellar Oblateness Impede Transit Detection](https://arxiv.org/abs/2505.05680)
+
 58. [The TESS-Keck Survey XXIV: Outer Giants may be More Prevalent in the Presence of Inner Small Planets](https://arxiv.org/abs/2501.06342)
 
 57. [Jitter Across 15 Years: Leveraging Precise Photometry from Kepler and TESS to Extract Exoplanets from Radial Velocity Time Series](https://arxiv.org/abs/2412.11329)
