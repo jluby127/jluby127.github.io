@@ -39,6 +39,10 @@ As more planets are discovered and more can be fully characterized and scrutiniz
 
 A big question in exoplanet science is: how common are Earth-like planets? The occurrence rate of Earth like planets is often shorthanded as "Eta Earth" (where Eta is often used as the greek letter to designate and occurrence rate). I am interested in taking this a step further, what is the occurrence rate of Solar System-like architectures, that is Eta Solar System? To find this value, I have to define what a Solar System-like architecture and at its simplest, this is a system where all planets are at wide separation from their host star and the inner system is composed of small, rocky planets while the outer system is composed of large gaseous planets. How can we search for these kinds of exoplanet systems most efficiently?
 
+<strong>Optimal Telescope Scheduling:</strong>
+
+Before any science takes place, we need time on a telescope! With so many programs, each awarded a set amount of time and with a specific desired observational strategy on their stars, what is the best way to schedule everyone's observations on the telescope to maximize the science? I have developed an algorithm based on integer-linear programming methods to compute the optimal schedule. AstroQ, my autoscheduling software, runs in just minutes on modern workstation but saves hundreds of hours of human scheduling effort.
+
 <strong>Double M dwarf Eclipsing Binaries:</strong>
 
 [M dwarf stars](https://en.wikipedia.org/wiki/Red_dwarf) are the most common type of star in the universe. However, they are still poorly understood: the models that relate fundamental properties of stars like mass, radius, and temperature work very well for high mass stars like our Sun, but they break down for the low mass M dwarf stars. To help these models work better, we need to supply the theorists with more and better data points. The best way to do this is to perform detailed model-independent characterizations of M dwarf stars and the best way to do that is to find these stars in [eclipsing binary systems](https://www.britannica.com/science/star-astronomy/Eclipsing-binaries#:~:text=An%20eclipsing%20binary%20consists%20of,be%20hidden%20behind%20the%20other), ideally where both components of the binary are M dwarfs. We found the 2nd brightest ever double M-dwarf EB and used it to make precise measurements of those fundamental parameters.
@@ -66,6 +70,8 @@ I am a contributing author on the [Astrobites](https://astrobites.org/) team. Re
 # publications (most recent on top)
 
 ### first or second author
+6. [AstroQ: Automated Scheduling of Cadenced Astronomical Observations](https://arxiv.org/abs/2506.08195)
+
 5. [The TESS-Keck Survey XX: 15 New TESS Planets and a Uniform RV Analysis of all Survey Targets](https://arxiv.org/abs/2405.14786)
 
 4. [TOI-1670 c, a 40-day Orbital Period Warm Jupiter in a Compact System, is Well-aligned](https://arxiv.org/abs/2311.16237)
