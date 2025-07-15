@@ -84,6 +84,12 @@ I am a contributing author on the [Astrobites](https://astrobites.org/) team. Re
 
 ### n author
 
+62. [TOI-6324 b: An Earth-mass Ultra-short-period Planet Transiting a Nearby M Dwarf](https://arxiv.org/abs/2502.16087)
+
+61. [Planet Masses, Radii, and Orbits from NASA's K2 Mission](https://arxiv.org/abs/2502.04436)
+
+60. [Stellar Obliquity of the Ultra-short-period Planet System HD 93963](https://arxiv.org/abs/2505.10804)
+
 59. [Peekaboo: Secular Resonances from Evolving Stellar Oblateness Impede Transit Detection](https://arxiv.org/abs/2505.05680)
 
 58. [The TESS-Keck Survey XXIV: Outer Giants may be More Prevalent in the Presence of Inner Small Planets](https://arxiv.org/abs/2501.06342)
