@@ -2,7 +2,7 @@ Here is both my regular CV and my "Failure" CV (see below)
 
 Click on the first page to download the whole thing.
 
-<a href="./cv_stuff/LubinCV_December2022.pdf" download>
+<a href="./cv_stuff/Lubin_CV_2025.pdf" download>
   <img src="./cv_stuff/CV1.png" alt="None">
   <img src="./cv_stuff/CV2.png" alt="None">
   <img src="./cv_stuff/CV3.png" alt="None">
@@ -11,6 +11,12 @@ Click on the first page to download the whole thing.
   <img src="./cv_stuff/CV6.png" alt="None">
   <img src="./cv_stuff/CV7.png" alt="None">
   <img src="./cv_stuff/CV8.png" alt="None">
+  <img src="./cv_stuff/CV9.png" alt="None">
+  <img src="./cv_stuff/CV10.png" alt="None">
+  <img src="./cv_stuff/CV11.png" alt="None">
+  <img src="./cv_stuff/CV12.png" alt="None">
+  <img src="./cv_stuff/CV13.png" alt="None">
+
 </a>
 
 <br>

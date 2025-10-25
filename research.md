@@ -84,6 +84,8 @@ I am a contributing author on the [Astrobites](https://astrobites.org/) team. Re
 
 ### n author
 
+63. [Discovery of a Nearby Habitable Zone Super-Earth Candidate Amenable to Direct Imaging](https://arxiv.org/abs/2510.19956)
+
 62. [TOI-6324 b: An Earth-mass Ultra-short-period Planet Transiting a Nearby M Dwarf](https://arxiv.org/abs/2502.16087)
 
 61. [Planet Masses, Radii, and Orbits from NASA's K2 Mission](https://arxiv.org/abs/2502.04436)
