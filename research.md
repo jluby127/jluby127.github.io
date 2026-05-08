@@ -84,6 +84,10 @@ I am a contributing author on the [Astrobites](https://astrobites.org/) team. Re
 
 ### n author
 
+65. [The KPF-SLOPE Survey - Small, Compact Multi-Planet Systems Appear Spin-Orbit Aligned](https://arxiv.org/abs/2603.23713)
+
+64. [A Century of Radial Velocity and Astrometric Monitoring of 70 Oph AB: New PFS Data and Constraints on Planetary Companions](https://arxiv.org/abs/2603.20044)
+
 63. [Discovery of a Nearby Habitable Zone Super-Earth Candidate Amenable to Direct Imaging](https://arxiv.org/abs/2510.19956)
 
 62. [TOI-6324 b: An Earth-mass Ultra-short-period Planet Transiting a Nearby M Dwarf](https://arxiv.org/abs/2502.16087)

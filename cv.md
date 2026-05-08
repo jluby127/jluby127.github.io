@@ -1,23 +1,10 @@
 Here is both my regular CV and my "Failure" CV (see below)
 
-Click on the first page to download the whole thing.
+<p><a href="./cv_stuff/Lubin_CV_2025.pdf" download>Download CV (PDF)</a> — or scroll through it below.</p>
 
-<a href="./cv_stuff/Lubin_CV_2025.pdf" download>
-  <img src="./cv_stuff/CV1.png" alt="None">
-  <img src="./cv_stuff/CV2.png" alt="None">
-  <img src="./cv_stuff/CV3.png" alt="None">
-  <img src="./cv_stuff/CV4.png" alt="None">
-  <img src="./cv_stuff/CV5.png" alt="None">
-  <img src="./cv_stuff/CV6.png" alt="None">
-  <img src="./cv_stuff/CV7.png" alt="None">
-  <img src="./cv_stuff/CV8.png" alt="None">
-  <img src="./cv_stuff/CV9.png" alt="None">
-  <img src="./cv_stuff/CV10.png" alt="None">
-  <img src="./cv_stuff/CV11.png" alt="None">
-  <img src="./cv_stuff/CV12.png" alt="None">
-  <img src="./cv_stuff/CV13.png" alt="None">
-
-</a>
+<div style="width:100%;max-width:900px;margin:1em auto;height:min(85vh,1200px);border:1px solid #ccc;border-radius:4px;overflow:hidden;background:#525659;">
+  <iframe src="./cv_stuff/Lubin_CV_2025.pdf" title="Jack Lubin CV (PDF)" style="width:100%;height:100%;border:0;display:block;"></iframe>
+</div>
 
 <br>
 
@@ -32,10 +19,11 @@ And here is a my ORCID.
 
 And my "Failure" CV. Please read my note on the first page. And please consider constructing your own "Failure" CV. I believe the fields of science and beyond will be improved as these become more mainstream.
 
-<a href="./cv_stuff/MyFailureCV.pdf" download>
-  <img src="./cv_stuff/FCV1.png" alt="None">
-  <img src="./cv_stuff/FCV2.png" alt="None">
-</a>
+<p><a href="./cv_stuff/MyFailureCV.pdf" download>Download Failure CV (PDF)</a> — or scroll through it below.</p>
+
+<div style="width:100%;max-width:900px;margin:1em auto;height:min(85vh,900px);border:1px solid #ccc;border-radius:4px;overflow:hidden;background:#525659;">
+  <iframe src="./cv_stuff/MyFailureCV.pdf" title="Failure CV (PDF)" style="width:100%;height:100%;border:0;display:block;"></iframe>
+</div>
 
 
 [Home](./)
