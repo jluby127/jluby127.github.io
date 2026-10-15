@@ -5,7 +5,7 @@
 
 <br>
 
-<strong>email:</strong> jblubin [at] ucla [dot] edu
+<strong>email:</strong> jblubin [at] carnegiescience [dot] edu
 
 <br>
 
@@ -13,7 +13,7 @@
 
 <br>
 
-<strong>office:</strong> Physics and Astronomy Building (PAB)
+<strong>office:</strong> Carnegie Observatories, Pasadena
 <br>
 
 [My UCLA postdoc page](https://www.physics.uci.edu/node/13487)
@@ -23,7 +23,7 @@
 
 <br>
 
-<strong>site last updated:</strong> 05-08-2026
+<strong>site last updated:</strong> 10-15-2026
 
 <br>
 

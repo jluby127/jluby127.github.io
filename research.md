@@ -70,6 +70,8 @@ I am a contributing author on the [Astrobites](https://astrobites.org/) team. Re
 # publications (most recent on top)
 
 ### first or second author
+7. [Predicting Macroturbulence in F/G/K Dwarfs to 100 m/s Precision](https://arxiv.org/abs/2609.17693)
+
 6. [AstroQ: Automated Scheduling of Cadenced Astronomical Observations](https://arxiv.org/abs/2506.08195)
 
 5. [The TESS-Keck Survey XX: 15 New TESS Planets and a Uniform RV Analysis of all Survey Targets](https://arxiv.org/abs/2405.14786)

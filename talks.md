@@ -1,5 +1,17 @@
 ### Most recent on top:
 
+<strong>EPRV Journal Club</strong>  
+
+Virtual, October 8, 2026
+
+An overview of my recent paper concerning macroturbulence
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KlO0dPHyPEA?si=56yJwnbAFLUP-fAr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Link](https://youtu.be/KlO0dPHyPEA?si=19r8Y6yAuEqEygr-)
+
+<br>
+
 <strong>Know Thy Star, Know Thy Planet 2 Conference</strong>  
 
 Virtual, February 3, 2025
