@@ -86,6 +86,10 @@ I am a contributing author on the [Astrobites](https://astrobites.org/) team. Re
 
 ### n author
 
+67. [Where Did the Angular Momentum Go? WASP-12 b May Have Circularized on a Retrograde Orbit](https://arxiv.org/abs/2611.25203)
+
+66. [The Hot Neptune Initiative (HONEI): IV. TOI-4129 b, an Adolescent Neptune in the Ridge](https://arxiv.org/abs/2611.03810)
+
 65. [The KPF-SLOPE Survey - Small, Compact Multi-Planet Systems Appear Spin-Orbit Aligned](https://arxiv.org/abs/2603.23713)
 
 64. [A Century of Radial Velocity and Astrometric Monitoring of 70 Oph AB: New PFS Data and Constraints on Planetary Companions](https://arxiv.org/abs/2603.20044)

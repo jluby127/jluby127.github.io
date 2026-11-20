@@ -23,7 +23,7 @@
 
 <br>
 
-<strong>site last updated:</strong> 10-15-2026
+<strong>site last updated:</strong> 11-20-2026
 
 <br>
 
